@@ -1,0 +1,3003 @@
+home, result, margin, ballRemaining, toss, bat, away, ground, date
+Australia,won,5 wickets,42,won,2nd,England,Melbourne,5 Jan 1971
+England,won,6 wickets,35,lost,2nd,Australia,Manchester,24 Aug 1972
+England,lost,5 wickets,21,lost,1st,Australia,Lord's,26 Aug 1972
+England,won,2 wickets,21,won,2nd,Australia,Birmingham,28 Aug 1972
+New Zealand,won,22 runs,,lost,1st,Pakistan,Christchurch,11 Feb 1973
+England,won,7 wickets,57,lost,2nd,New Zealand,Swansea,18 Jul 1973
+England,won,1 wickets,3,lost,2nd,West Indies,Leeds,5 Sep 1973
+England,lost,8 wickets,76,won,1st,West Indies,The Oval,7 Sep 1973
+New Zealand,lost,7 wickets,85,won,1st,Australia,Dunedin,30 Mar 1974
+New Zealand,lost,31 runs,,lost,2nd,Australia,Christchurch,31 Mar 1974
+England,won,4 wickets,23,won,2nd,India,Leeds,13 Jul 1974
+England,won,6 wickets,37,lost,2nd,India,The Oval,15 Jul 1974
+England,lost,7 wickets,43,won,1st,Pakistan,Nottingham,31 Aug 1974
+England,lost,8 wickets,102,lost,1st,Pakistan,Birmingham,3 Sep 1974
+Australia,lost,3 wickets,23,lost,1st,England,Melbourne,1 Jan 1975
+England,won,202 runs,,won,1st,India,Lord's,7 Jun 1975
+England,won,80 runs,,lost,1st,New Zealand,Nottingham,11 Jun 1975
+England,won,196 runs,,lost,1st,East Africa,Birmingham,14 Jun 1975
+England,lost,4 wickets,188,lost,1st,Australia,Leeds,18 Jun 1975
+Australia,won,5 wickets,67,won,2nd,West Indies,Adelaide,20 Dec 1975
+New Zealand,won,9 wickets,37,lost,2nd,India,Christchurch,21 Feb 1976
+New Zealand,won,80 runs,,won,1st,India,Auckland,22 Feb 1976
+England,lost,6 wickets,84,lost,1st,West Indies,Scarborough,26 Aug 1976
+England,lost,36 runs,,won,2nd,West Indies,Lord's,28 Aug 1976
+England,lost,50 runs,,won,2nd,West Indies,Birmingham,30 Aug 1976
+Pakistan,lost,1 runs,,lost,2nd,New Zealand,Sialkot,16 Oct 1976
+West Indies,won,4 wickets,10,won,2nd,Pakistan,Albion,16 Mar 1977
+England,won,2 wickets,58,lost,2nd,Australia,Manchester,2 Jun 1977
+England,won,101 runs,,lost,1st,Australia,Birmingham,4 Jun 1977
+England,lost,2 wickets,10,lost,1st,Australia,The Oval,6 Jun 1977
+Pakistan,lost,3 wickets,0,won,1st,England,Sahiwal,23 Dec 1977
+Pakistan,lost,6 wickets,17,lost,1st,England,Sialkot,30 Dec 1977
+Pakistan,won,36 runs,,lost,1st,England,Lahore,13 Jan 1978
+West Indies,won,44 runs,,lost,1st,Australia,St John's,22 Feb 1978
+West Indies,lost,2 wickets,0,won,1st,Australia,Castries,12 Apr 1978
+England,won,132 runs,,won,1st,Pakistan,Manchester,24 May 1978
+England,won,94 runs,,lost,1st,Pakistan,The Oval,26 May 1978
+England,won,19 runs,,lost,1st,New Zealand,Scarborough,15 Jul 1978
+England,won,126 runs,,won,1st,New Zealand,Manchester,17 Jul 1978
+Pakistan,lost,4 runs,,lost,2nd,India,Quetta,1 Oct 1978
+Pakistan,won,8 wickets,139,won,2nd,India,Sialkot,13 Oct 1978
+Pakistan,won,,,won,1st,India,Sahiwal,3 Nov 1978
+Australia,lost,7 wickets,94,won,1st,England,Melbourne,24 Jan 1979
+Australia,won,4 wickets,10,won,2nd,England,Melbourne,4 Feb 1979
+Australia,won,6 wickets,147,won,2nd,England,Melbourne,7 Feb 1979
+England,won,6 wickets,77,won,2nd,Australia,Lord's,9 Jun 1979
+England,won,8 wickets,277,lost,2nd,Canada,Manchester,13 Jun 1979
+England,won,14 runs,,lost,1st,Pakistan,Leeds,16 Jun 1979
+England,won,9 runs,,lost,1st,New Zealand,Manchester,20 Jun 1979
+England,lost,92 runs,,won,2nd,West Indies,Lord's,23 Jun 1979
+Australia,won,5 wickets,17,won,2nd,West Indies,Sydney,27 Nov 1979
+Australia,lost,3 wickets,6,lost,1st,England,Melbourne,8 Dec 1979
+Australia,lost,80 runs,,won,2nd,West Indies,Melbourne,9 Dec 1979
+Australia,lost,72 runs,,lost,2nd,England,Sydney,11 Dec 1979
+Australia,won,7 runs,,lost,1st,West Indies,Sydney,21 Dec 1979
+Australia,lost,4 wickets,11,won,1st,England,Sydney,26 Dec 1979
+Australia,lost,2 wickets,7,lost,1st,England,Sydney,14 Jan 1980
+Australia,won,9 runs,,won,1st,West Indies,Sydney,18 Jan 1980
+New Zealand,won,1 wickets,2,won,2nd,West Indies,Christchurch,6 Feb 1980
+England,lost,24 runs,,won,2nd,West Indies,Leeds,28 May 1980
+England,won,3 wickets,3,won,2nd,West Indies,Lord's,30 May 1980
+England,won,23 runs,,lost,1st,Australia,The Oval,20 Aug 1980
+England,won,47 runs,,lost,1st,Australia,Birmingham,22 Aug 1980
+Pakistan,lost,4 wickets,0,lost,1st,West Indies,Karachi,21 Nov 1980
+Australia,lost,3 wickets,5,lost,1st,New Zealand,Adelaide,23 Nov 1980
+Australia,won,94 runs,,won,1st,New Zealand,Sydney,25 Nov 1980
+Pakistan,lost,7 wickets,27,lost,1st,West Indies,Sialkot,5 Dec 1980
+Australia,lost,66 runs,,won,2nd,India,Melbourne,6 Dec 1980
+Australia,won,4 wickets,16,lost,2nd,New Zealand,Melbourne,7 Dec 1980
+Australia,won,9 wickets,40,won,2nd,India,Sydney,18 Dec 1980
+Pakistan,lost,7 runs,,won,2nd,West Indies,Lahore,19 Dec 1980
+Australia,won,9 wickets,174,won,2nd,India,Sydney,8 Jan 1981
+Australia,won,7 wickets,16,won,2nd,India,Melbourne,11 Jan 1981
+Australia,lost,1 runs,,lost,2nd,New Zealand,Sydney,13 Jan 1981
+Australia,won,27 runs,,lost,1st,India,Sydney,15 Jan 1981
+Australia,lost,78 runs,,won,2nd,New Zealand,Sydney,29 Jan 1981
+Australia,won,7 wickets,63,won,2nd,New Zealand,Melbourne,31 Jan 1981
+Australia,won,6 runs,,won,1st,New Zealand,Melbourne,1 Feb 1981
+Australia,won,6 wickets,14,lost,2nd,New Zealand,Sydney,3 Feb 1981
+West Indies,won,2 runs,,lost,1st,England,Kingstown,4 Feb 1981
+New Zealand,won,78 runs,,lost,1st,India,Auckland,14 Feb 1981
+New Zealand,won,57 runs,,lost,1st,India,Hamilton,15 Feb 1981
+West Indies,won,6 wickets,63,won,2nd,England,Albion,26 Feb 1981
+England,won,6 wickets,20,won,2nd,Australia,Lord's,4 Jun 1981
+England,lost,2 runs,,won,2nd,Australia,Birmingham,6 Jun 1981
+England,lost,71 runs,,won,2nd,Australia,Leeds,8 Jun 1981
+Australia,lost,4 wickets,4,lost,1st,Pakistan,Melbourne,22 Nov 1981
+Australia,won,7 wickets,12,lost,2nd,West Indies,Sydney,24 Nov 1981
+India,lost,5 wickets,13,lost,1st,England,Ahmedabad,25 Nov 1981
+Australia,won,38 runs,,won,1st,Pakistan,Adelaide,6 Dec 1981
+Australia,lost,6 wickets,40,lost,1st,Pakistan,Sydney,17 Dec 1981
+Australia,lost,8 wickets,120,lost,1st,West Indies,Perth,20 Dec 1981
+India,won,6 wickets,3,won,2nd,England,Jalandhar,20 Dec 1981
+Australia,lost,25 runs,,won,2nd,Pakistan,Melbourne,9 Jan 1982
+Australia,lost,5 wickets,17,won,1st,West Indies,Melbourne,10 Jan 1982
+Australia,won,76 runs,,lost,1st,Pakistan,Sydney,14 Jan 1982
+Australia,lost,5 wickets,8,lost,1st,West Indies,Brisbane,17 Jan 1982
+Australia,won,5 runs,,won,2nd,West Indies,Sydney,19 Jan 1982
+Australia,lost,86 runs,,won,2nd,West Indies,Melbourne,23 Jan 1982
+Australia,lost,128 runs,,lost,2nd,West Indies,Melbourne,24 Jan 1982
+Australia,won,46 runs,,lost,1st,West Indies,Sydney,26 Jan 1982
+Australia,lost,18 runs,,lost,2nd,West Indies,Sydney,27 Jan 1982
+India,won,5 wickets,24,won,2nd,England,Cuttack,27 Jan 1982
+New Zealand,won,46 runs,,lost,1st,Australia,Auckland,13 Feb 1982
+Sri Lanka,lost,5 runs,,won,2nd,England,Colombo (SSC),13 Feb 1982
+Sri Lanka,won,3 runs,,lost,1st,England,Colombo (SSC),14 Feb 1982
+New Zealand,lost,6 wickets,24,lost,1st,Australia,Dunedin,17 Feb 1982
+New Zealand,lost,8 wickets,177,lost,1st,Australia,Wellington,20 Feb 1982
+Pakistan,won,8 wickets,22,won,2nd,Sri Lanka,Karachi,12 Mar 1982
+Pakistan,lost,30 runs,,lost,1st,Sri Lanka,Lahore,29 Mar 1982
+Pakistan,won,5 wickets,11,won,2nd,Sri Lanka,Karachi,31 Mar 1982
+England,won,9 wickets,29,won,2nd,India,Leeds,2 Jun 1982
+England,won,114 runs,,lost,1st,India,The Oval,4 Jun 1982
+England,won,7 wickets,47,lost,2nd,Pakistan,Nottingham,17 Jul 1982
+England,won,73 runs,,lost,1st,Pakistan,Manchester,19 Jul 1982
+India,won,78 runs,,lost,1st,Sri Lanka,Amritsar,12 Sep 1982
+India,won,6 wickets,55,lost,2nd,Sri Lanka,Delhi,15 Sep 1982
+Pakistan,won,59 runs,,lost,1st,Australia,Hyderabad (Sind),20 Sep 1982
+India,won,6 wickets,64,lost,2nd,Sri Lanka,Bengaluru,26 Sep 1982
+Pakistan,won,28 runs,,lost,1st,Australia,Lahore,8 Oct 1982
+Pakistan,won,14 runs,,lost,1st,India,Gujranwala,3 Dec 1982
+Pakistan,won,37 runs,,won,1st,India,Multan,17 Dec 1982
+Pakistan,lost,18 runs,,won,1st,India,Lahore,31 Dec 1982
+Australia,won,8 wickets,20,won,2nd,New Zealand,Melbourne,9 Jan 1983
+Australia,won,31 runs,,lost,1st,England,Sydney,11 Jan 1983
+Australia,won,7 wickets,54,won,2nd,England,Brisbane,16 Jan 1983
+Australia,lost,47 runs,,won,2nd,New Zealand,Sydney,18 Jan 1983
+Pakistan,won,8 wickets,30,lost,2nd,India,Karachi,21 Jan 1983
+Australia,lost,58 runs,,won,2nd,New Zealand,Melbourne,22 Jan 1983
+Australia,won,5 wickets,14,won,2nd,England,Melbourne,23 Jan 1983
+Australia,lost,98 runs,,lost,2nd,England,Sydney,26 Jan 1983
+Australia,lost,14 runs,,lost,2nd,England,Adelaide,30 Jan 1983
+Australia,lost,47 runs,,lost,2nd,New Zealand,Adelaide,31 Jan 1983
+Australia,won,27 runs,,lost,1st,New Zealand,Perth,6 Feb 1983
+Australia,won,6 wickets,29,lost,2nd,New Zealand,Sydney,9 Feb 1983
+Australia,won,149 runs,,won,1st,New Zealand,Melbourne,13 Feb 1983
+New Zealand,won,6 wickets,21,lost,2nd,England,Auckland,19 Feb 1983
+New Zealand,won,103 runs,,lost,1st,England,Wellington,23 Feb 1983
+New Zealand,won,84 runs,,won,1st,England,Christchurch,26 Feb 1983
+New Zealand,won,65 runs,,lost,1st,Sri Lanka,Dunedin,2 Mar 1983
+West Indies,won,52 runs,,lost,1st,India,Port of Spain,9 Mar 1983
+Australia,lost,14 runs,,won,2nd,New Zealand,Sydney,17 Mar 1983
+New Zealand,won,7 wickets,80,won,2nd,Sri Lanka,Napier,19 Mar 1983
+New Zealand,won,116 runs,,won,1st,Sri Lanka,Auckland,20 Mar 1983
+West Indies,lost,27 runs,,won,2nd,India,Albion,29 Mar 1983
+West Indies,won,7 wickets,58,won,2nd,India,St George's,7 Apr 1983
+Sri Lanka,won,2 wickets,5,lost,2nd,Australia,Colombo (PSS),13 Apr 1983
+Sri Lanka,won,4 wickets,10,won,2nd,Australia,Colombo (PSS),16 Apr 1983
+England,won,106 runs,,won,1st,New Zealand,The Oval,9 Jun 1983
+England,won,47 runs,,won,1st,Sri Lanka,Taunton,11 Jun 1983
+England,won,8 wickets,56,lost,2nd,Pakistan,Lord's,13 Jun 1983
+England,lost,2 wickets,1,won,1st,New Zealand,Birmingham,15 Jun 1983
+England,won,7 wickets,16,lost,2nd,Pakistan,Manchester,18 Jun 1983
+England,won,9 wickets,215,won,2nd,Sri Lanka,Leeds,20 Jun 1983
+England,lost,6 wickets,32,won,1st,India,Manchester,22 Jun 1983
+India,won,4 wickets,18,won,2nd,Pakistan,Hyderabad (Deccan),10 Sep 1983
+India,won,4 wickets,32,won,2nd,Pakistan,Jaipur,2 Oct 1983
+India,lost,28 runs,,lost,1st,West Indies,Srinagar,13 Oct 1983
+India,lost,4 wickets,7,won,1st,West Indies,Vadodara,9 Nov 1983
+India,lost,8 wickets,10,won,1st,West Indies,Indore,1 Dec 1983
+India,lost,104 runs,,won,2nd,West Indies,Jamshedpur,7 Dec 1983
+India,lost,6 wickets,14,lost,1st,West Indies,Guwahati,17 Dec 1983
+Australia,lost,27 runs,,lost,2nd,West Indies,Melbourne,8 Jan 1984
+Australia,won,34 runs,,lost,1st,Pakistan,Sydney,10 Jan 1984
+Australia,lost,28 runs,,lost,2nd,West Indies,Sydney,17 Jan 1984
+Australia,won,43 runs,,won,1st,Pakistan,Melbourne,21 Jan 1984
+Australia,lost,26 runs,,lost,2nd,West Indies,Melbourne,22 Jan 1984
+Australia,won,87 runs,,won,1st,Pakistan,Sydney,25 Jan 1984
+Australia,lost,6 wickets,29,won,1st,West Indies,Adelaide,29 Jan 1984
+Australia,won,70 runs,,won,1st,Pakistan,Adelaide,30 Jan 1984
+Australia,won,14 runs,,won,1st,West Indies,Perth,5 Feb 1984
+Australia,lost,9 wickets,17,lost,1st,West Indies,Sydney,8 Feb 1984
+Australia,tied,-,,lost,2nd,West Indies,Melbourne,11 Feb 1984
+Australia,lost,6 wickets,27,won,1st,West Indies,Melbourne,12 Feb 1984
+New Zealand,lost,54 runs,,won,2nd,England,Christchurch,18 Feb 1984
+New Zealand,lost,6 wickets,29,won,1st,England,Wellington,22 Feb 1984
+New Zealand,won,7 wickets,27,lost,2nd,England,Auckland,25 Feb 1984
+West Indies,won,8 wickets,12,lost,2nd,Australia,Albion,29 Feb 1984
+Sri Lanka,lost,104 runs,,won,2nd,New Zealand,Colombo (SSC),3 Mar 1984
+Pakistan,won,6 wickets,8,won,2nd,England,Lahore,9 Mar 1984
+West Indies,lost,4 wickets,2,lost,1st,Australia,Port of Spain,14 Mar 1984
+Pakistan,lost,6 wickets,8,lost,1st,England,Karachi,26 Mar 1984
+Sri Lanka,won,41 runs,,lost,1st,New Zealand,Moratuwa,31 Mar 1984
+Sri Lanka,lost,86 runs,,won,2nd,New Zealand,Colombo (PSS),1 Apr 1984
+West Indies,won,7 wickets,20,won,2nd,Australia,Castries,19 Apr 1984
+West Indies,won,9 wickets,14,won,2nd,Australia,Kingston,26 Apr 1984
+England,lost,104 runs,,lost,2nd,West Indies,Manchester,31 May 1984
+England,won,3 wickets,13,won,2nd,West Indies,Nottingham,2 Jun 1984
+England,lost,8 wickets,49,lost,1st,West Indies,Lord's,4 Jun 1984
+India,lost,48 runs,,lost,2nd,Australia,New Delhi,28 Sep 1984
+India,lost,7 wickets,13,lost,1st,Australia,Ahmedabad,5 Oct 1984
+India,lost,6 wickets,23,lost,1st,Australia,Indore,6 Oct 1984
+Pakistan,won,46 runs,,lost,1st,India,Quetta,12 Oct 1984
+Sri Lanka,won,4 wickets,32,lost,2nd,New Zealand,Colombo (PSS),3 Nov 1984
+Sri Lanka,lost,7 wickets,56,lost,1st,New Zealand,Moratuwa,4 Nov 1984
+Pakistan,won,46 runs,,lost,1st,New Zealand,Peshawar,12 Nov 1984
+Pakistan,won,5 runs,,lost,1st,New Zealand,Faisalabad,23 Nov 1984
+Pakistan,lost,34 runs,,won,2nd,New Zealand,Sialkot,2 Dec 1984
+India,lost,4 wickets,10,lost,1st,England,Pune,5 Dec 1984
+Pakistan,won,1 wickets,0,lost,2nd,New Zealand,Multan,7 Dec 1984
+India,lost,1 runs,,lost,1st,England,Cuttack,27 Dec 1984
+Australia,lost,7 wickets,31,lost,1st,West Indies,Melbourne,6 Jan 1985
+Australia,won,6 wickets,16,lost,2nd,Sri Lanka,Sydney,8 Jan 1985
+New Zealand,won,110 runs,,won,1st,Pakistan,Napier,12 Jan 1985
+Australia,lost,5 wickets,74,lost,1st,West Indies,Brisbane,13 Jan 1985
+New Zealand,won,4 wickets,7,lost,2nd,Pakistan,Hamilton,15 Jan 1985
+Australia,lost,5 wickets,39,won,1st,West Indies,Sydney,15 Jan 1985
+Australia,lost,4 wickets,4,lost,1st,Sri Lanka,Melbourne,19 Jan 1985
+Australia,lost,65 runs,,won,2nd,West Indies,Melbourne,20 Jan 1985
+India,lost,3 wickets,6,lost,1st,England,Bengaluru,20 Jan 1985
+Australia,won,3 wickets,17,won,2nd,Sri Lanka,Sydney,23 Jan 1985
+India,won,3 wickets,14,won,2nd,England,Nagpur,23 Jan 1985
+Australia,lost,6 wickets,38,lost,1st,West Indies,Adelaide,27 Jan 1985
+India,lost,7 runs,,won,2nd,England,Chandigarh,27 Jan 1985
+Australia,won,232 runs,,lost,1st,Sri Lanka,Adelaide,28 Jan 1985
+Australia,won,9 wickets,157,lost,2nd,Sri Lanka,Perth,3 Feb 1985
+New Zealand,won,13 runs,,won,1st,Pakistan,Christchurch,6 Feb 1985
+Australia,won,26 runs,,lost,1st,West Indies,Sydney,6 Feb 1985
+Australia,lost,4 wickets,4,lost,1st,West Indies,Melbourne,10 Feb 1985
+Australia,lost,7 wickets,18,lost,1st,West Indies,Sydney,12 Feb 1985
+Australia,won,7 wickets,22,lost,2nd,England,Melbourne,17 Feb 1985
+Australia,lost,62 runs,,won,2nd,Pakistan,Melbourne,24 Feb 1985
+Australia,lost,8 wickets,83,lost,1st,India,Melbourne,3 Mar 1985
+West Indies,won,23 runs,,lost,1st,New Zealand,St John's,20 Mar 1985
+West Indies,won,6 wickets,30,won,2nd,New Zealand,Port of Spain,27 Mar 1985
+West Indies,won,130 runs,,lost,1st,New Zealand,Albion,14 Apr 1985
+West Indies,won,10 wickets,154,won,2nd,New Zealand,Port of Spain,17 Apr 1985
+West Indies,won,112 runs,,lost,1st,New Zealand,Bridgetown,23 Apr 1985
+England,lost,3 wickets,5,won,1st,Australia,Manchester,30 May 1985
+England,lost,4 wickets,6,lost,1st,Australia,Birmingham,1 Jun 1985
+England,won,8 wickets,36,won,2nd,Australia,Lord's,3 Jun 1985
+Sri Lanka,lost,2 wickets,3,lost,1st,India,Colombo (SSC),25 Aug 1985
+Sri Lanka,won,14 runs,,lost,1st,India,Colombo (PSS),21 Sep 1985
+Pakistan,won,8 wickets,43,won,2nd,Sri Lanka,Peshawar,13 Oct 1985
+Pakistan,won,15 runs,,lost,1st,Sri Lanka,Gujranwala,23 Oct 1985
+Pakistan,won,5 wickets,9,won,2nd,Sri Lanka,Lahore,25 Oct 1985
+Pakistan,won,89 runs,,lost,1st,Sri Lanka,Hyderabad (Sind),3 Nov 1985
+Pakistan,lost,8 wickets,27,lost,1st,West Indies,Gujranwala,27 Nov 1985
+Pakistan,won,6 wickets,9,won,2nd,West Indies,Lahore,29 Nov 1985
+Pakistan,lost,40 runs,,lost,2nd,West Indies,Peshawar,2 Dec 1985
+Pakistan,won,5 wickets,5,won,2nd,West Indies,Rawalpindi,4 Dec 1985
+Pakistan,lost,8 wickets,23,lost,1st,West Indies,Karachi,6 Dec 1985
+Australia,won,4 wickets,28,won,2nd,India,Brisbane,12 Jan 1986
+Australia,won,4 wickets,29,won,2nd,New Zealand,Sydney,14 Jan 1986
+Australia,lost,8 wickets,28,lost,1st,India,Melbourne,16 Jan 1986
+Australia,won,4 wickets,29,won,2nd,New Zealand,Perth,19 Jan 1986
+Australia,won,100 runs,,lost,1st,India,Sydney,21 Jan 1986
+Australia,won,36 runs,,lost,1st,India,Adelaide,26 Jan 1986
+Australia,lost,206 runs,,lost,2nd,New Zealand,Adelaide,27 Jan 1986
+Australia,won,99 runs,,won,1st,New Zealand,Sydney,29 Jan 1986
+Australia,lost,6 wickets,7,won,1st,India,Melbourne,31 Jan 1986
+Australia,won,11 runs,,lost,1st,India,Sydney,5 Feb 1986
+Australia,won,7 wickets,16,won,2nd,India,Melbourne,9 Feb 1986
+West Indies,won,6 wickets,13,won,2nd,England,Kingston,18 Feb 1986
+Sri Lanka,lost,8 wickets,9,lost,1st,Pakistan,Kandy,2 Mar 1986
+West Indies,lost,5 wickets,0,lost,1st,England,Port of Spain,4 Mar 1986
+Sri Lanka,lost,8 wickets,6,lost,1st,Pakistan,Colombo (SSC),11 Mar 1986
+New Zealand,won,30 runs,,lost,1st,Australia,Dunedin,19 Mar 1986
+West Indies,won,135 runs,,lost,1st,England,Bridgetown,19 Mar 1986
+New Zealand,won,53 runs,,lost,1st,Australia,Christchurch,22 Mar 1986
+New Zealand,lost,3 wickets,3,won,1st,Australia,Wellington,26 Mar 1986
+New Zealand,lost,44 runs,,lost,2nd,Australia,Auckland,29 Mar 1986
+Sri Lanka,lost,81 runs,,won,2nd,Pakistan,Colombo (PSS),30 Mar 1986
+West Indies,won,8 wickets,52,won,2nd,England,Port of Spain,31 Mar 1986
+Sri Lanka,won,7 wickets,81,won,2nd,Bangladesh,Kandy,2 Apr 1986
+Sri Lanka,lost,6 wickets,40,lost,1st,New Zealand,Colombo (RPS),5 Apr 1986
+Sri Lanka,won,5 wickets,16,won,2nd,Pakistan,Colombo (SSC),6 Apr 1986
+England,lost,9 wickets,46,lost,1st,India,The Oval,24 May 1986
+England,won,5 wickets,7,won,2nd,India,Manchester,26 May 1986
+England,lost,47 runs,,lost,2nd,New Zealand,Leeds,16 Jul 1986
+England,won,6 wickets,8,won,2nd,New Zealand,Manchester,18 Jul 1986
+India,won,7 wickets,36,won,2nd,Australia,Jaipur,7 Sep 1986
+India,lost,3 wickets,6,lost,1st,Australia,Srinagar,9 Sep 1986
+India,won,3 wickets,9,won,2nd,Australia,Delhi,2 Oct 1986
+India,won,52 runs,,won,1st,Australia,Ahmedabad,5 Oct 1986
+India,lost,7 wickets,9,lost,1st,Australia,Rajkot,7 Oct 1986
+Pakistan,lost,4 wickets,21,won,1st,West Indies,Peshawar,17 Oct 1986
+Pakistan,lost,17 runs,,won,2nd,West Indies,Gujranwala,4 Nov 1986
+Pakistan,lost,4 wickets,3,won,1st,West Indies,Sialkot,14 Nov 1986
+Pakistan,lost,89 runs,,won,2nd,West Indies,Multan,17 Nov 1986
+Pakistan,won,11 runs,,lost,1st,West Indies,Hyderabad (Sind),18 Nov 1986
+India,lost,117 runs,,won,2nd,Sri Lanka,Kanpur,24 Dec 1986
+Australia,lost,37 runs,,lost,2nd,England,Perth,1 Jan 1987
+Australia,lost,1 wickets,1,won,1st,Pakistan,Perth,2 Jan 1987
+Australia,lost,164 runs,,won,2nd,West Indies,Perth,4 Jan 1987
+India,won,8 wickets,111,won,2nd,Sri Lanka,Guwahati,11 Jan 1987
+India,won,6 wickets,15,won,2nd,Sri Lanka,Delhi,13 Jan 1987
+India,won,94 runs,,lost,1st,Sri Lanka,Vadodara,15 Jan 1987
+India,won,10 runs,,lost,1st,Sri Lanka,Wankhede,17 Jan 1987
+Australia,won,11 runs,,won,1st,England,Brisbane,18 Jan 1987
+Australia,lost,7 wickets,10,lost,1st,West Indies,Melbourne,20 Jan 1987
+Australia,lost,3 wickets,1,won,1st,England,Sydney,22 Jan 1987
+Australia,lost,16 runs,,won,2nd,West Indies,Adelaide,25 Jan 1987
+Australia,won,33 runs,,won,1st,England,Adelaide,26 Jan 1987
+India,lost,3 wickets,6,lost,1st,Pakistan,Indore,27 Jan 1987
+Australia,won,36 runs,,won,1st,West Indies,Sydney,28 Jan 1987
+Australia,won,109 runs,,lost,1st,England,Melbourne,1 Feb 1987
+Australia,won,2 wickets,5,lost,2nd,West Indies,Sydney,6 Feb 1987
+Australia,lost,6 wickets,48,lost,1st,England,Melbourne,8 Feb 1987
+Australia,lost,8 runs,,lost,2nd,England,Sydney,11 Feb 1987
+India,lost,2 wickets,3,lost,1st,Pakistan,Kolkata,18 Feb 1987
+New Zealand,lost,95 runs,,won,2nd,West Indies,Dunedin,18 Mar 1987
+India,won,,,lost,1st,Pakistan,Hyderabad (Deccan),20 Mar 1987
+New Zealand,lost,6 wickets,6,lost,1st,West Indies,Auckland,21 Mar 1987
+India,lost,6 wickets,28,won,1st,Pakistan,Pune,22 Mar 1987
+India,lost,41 runs,,won,2nd,Pakistan,Nagpur,24 Mar 1987
+India,lost,5 wickets,4,lost,1st,Pakistan,Jamshedpur,26 Mar 1987
+New Zealand,lost,10 wickets,64,won,1st,West Indies,Christchurch,28 Mar 1987
+England,won,7 wickets,11,won,2nd,Pakistan,The Oval,21 May 1987
+England,lost,6 wickets,18,lost,1st,Pakistan,Nottingham,23 May 1987
+England,won,1 wickets,3,won,2nd,Pakistan,Birmingham,25 May 1987
+Pakistan,won,15 runs,,won,1st,Sri Lanka,Hyderabad (Sind),8 Oct 1987
+India,lost,1 runs,,won,2nd,Australia,Chennai,9 Oct 1987
+Pakistan,won,18 runs,,lost,1st,England,Rawalpindi,12 Oct 1987
+India,won,16 runs,,lost,1st,New Zealand,Bengaluru,14 Oct 1987
+Pakistan,won,1 wickets,0,lost,2nd,West Indies,Lahore,16 Oct 1987
+India,won,8 wickets,133,lost,2nd,Zimbabwe,Wankhede,17 Oct 1987
+Pakistan,won,7 wickets,6,won,2nd,England,Karachi,20 Oct 1987
+India,won,56 runs,,lost,1st,Australia,Delhi,22 Oct 1987
+Pakistan,won,113 runs,,won,1st,Sri Lanka,Faisalabad,25 Oct 1987
+India,won,7 wickets,48,won,2nd,Zimbabwe,Ahmedabad,26 Oct 1987
+Pakistan,lost,28 runs,,lost,2nd,West Indies,Karachi,30 Oct 1987
+India,won,9 wickets,107,lost,2nd,New Zealand,Nagpur,31 Oct 1987
+Pakistan,lost,18 runs,,lost,2nd,Australia,Lahore,4 Nov 1987
+India,lost,35 runs,,won,2nd,England,Wankhede,5 Nov 1987
+Pakistan,lost,2 wickets,3,won,1st,England,Lahore,18 Nov 1987
+Pakistan,lost,23 runs,,lost,2nd,England,Karachi,20 Nov 1987
+Pakistan,lost,98 runs,,lost,2nd,England,Peshawar,22 Nov 1987
+India,lost,10 runs,,lost,2nd,West Indies,Nagpur,8 Dec 1987
+India,lost,52 runs,,won,2nd,West Indies,Guwahati,23 Dec 1987
+India,won,56 runs,,won,1st,West Indies,Kolkata,2 Jan 1988
+Australia,won,81 runs,,lost,1st,Sri Lanka,Perth,2 Jan 1988
+Australia,lost,1 runs,,lost,2nd,New Zealand,Perth,3 Jan 1988
+India,lost,6 wickets,17,won,1st,West Indies,Rajkot,5 Jan 1988
+Australia,won,6 runs,,won,1st,New Zealand,Melbourne,7 Jan 1988
+India,lost,2 runs,,won,2nd,West Indies,Ahmedabad,7 Jan 1988
+Australia,won,81 runs,,won,1st,Sri Lanka,Adelaide,10 Jan 1988
+Australia,won,38 runs,,won,1st,Sri Lanka,Melbourne,14 Jan 1988
+Australia,won,5 wickets,64,won,2nd,New Zealand,Brisbane,17 Jan 1988
+Australia,won,3 wickets,3,won,2nd,Sri Lanka,Sydney,19 Jan 1988
+India,lost,4 wickets,5,lost,1st,West Indies,Faridabad,19 Jan 1988
+Australia,won,78 runs,,won,1st,New Zealand,Sydney,20 Jan 1988
+Australia,won,8 wickets,31,won,2nd,New Zealand,Melbourne,22 Jan 1988
+India,lost,73 runs,,won,2nd,West Indies,Gwalior,22 Jan 1988
+Australia,won,6 wickets,23,won,2nd,New Zealand,Sydney,24 Jan 1988
+India,lost,9 wickets,13,lost,1st,West Indies,Thiruvananthapuram,25 Jan 1988
+Australia,won,22 runs,,won,1st,England,Melbourne,4 Feb 1988
+New Zealand,lost,5 wickets,4,won,1st,England,Dunedin,9 Mar 1988
+New Zealand,lost,6 wickets,13,lost,1st,England,Christchurch,12 Mar 1988
+West Indies,won,47 runs,,lost,1st,Pakistan,Kingston,12 Mar 1988
+West Indies,won,5 wickets,53,won,2nd,Pakistan,St John's,15 Mar 1988
+New Zealand,won,7 wickets,21,won,2nd,England,Napier,16 Mar 1988
+West Indies,won,50 runs,,lost,1st,Pakistan,Port of Spain,18 Mar 1988
+New Zealand,won,4 wickets,4,won,2nd,England,Auckland,19 Mar 1988
+West Indies,won,7 wickets,17,lost,2nd,Pakistan,Port of Spain,20 Mar 1988
+West Indies,won,7 wickets,36,won,2nd,Pakistan,Georgetown,30 Mar 1988
+England,won,6 wickets,12,won,2nd,West Indies,Birmingham,19 May 1988
+England,won,47 runs,,lost,1st,West Indies,Leeds,21 May 1988
+England,won,7 wickets,30,won,2nd,West Indies,Lord's,23 May 1988
+England,won,5 wickets,14,won,2nd,Sri Lanka,The Oval,4 Sep 1988
+Pakistan,won,,,won,2nd,Australia,Lahore,14 Oct 1988
+Bangladesh,lost,9 wickets,114,lost,1st,India,Chattogram,27 Oct 1988
+Bangladesh,lost,173 runs,,lost,2nd,Pakistan,Chattogram,29 Oct 1988
+Bangladesh,lost,9 wickets,85,lost,1st,Sri Lanka,Dhaka,2 Nov 1988
+India,won,4 wickets,22,won,2nd,New Zealand,Visakhapatnam,10 Dec 1988
+Australia,won,9 wickets,34,lost,2nd,Pakistan,Adelaide,11 Dec 1988
+India,won,5 wickets,21,lost,2nd,New Zealand,Cuttack,12 Dec 1988
+Australia,lost,1 runs,,lost,2nd,West Indies,Sydney,13 Dec 1988
+Australia,lost,34 runs,,lost,2nd,West Indies,Melbourne,15 Dec 1988
+India,won,53 runs,,lost,1st,New Zealand,Indore,15 Dec 1988
+India,won,2 wickets,17,lost,2nd,New Zealand,Vadodara,17 Dec 1988
+Australia,lost,38 runs,,lost,2nd,Pakistan,Perth,2 Jan 1989
+Australia,won,8 runs,,lost,1st,West Indies,Melbourne,5 Jan 1989
+Australia,won,5 wickets,31,lost,2nd,Pakistan,Brisbane,8 Jan 1989
+Australia,won,6 runs,,lost,1st,Pakistan,Melbourne,10 Jan 1989
+Australia,won,61 runs,,won,1st,West Indies,Sydney,12 Jan 1989
+Australia,won,2 runs,,won,1st,West Indies,Melbourne,14 Jan 1989
+Australia,lost,92 runs,,lost,2nd,West Indies,Sydney,16 Jan 1989
+Australia,lost,8 wickets,28,won,1st,West Indies,Sydney,18 Jan 1989
+New Zealand,won,8 wickets,9,won,2nd,Pakistan,Dunedin,6 Feb 1989
+New Zealand,won,7 wickets,37,won,2nd,Pakistan,Christchurch,4 Mar 1989
+West Indies,won,50 runs,,lost,1st,India,Bridgetown,7 Mar 1989
+New Zealand,won,6 wickets,19,won,2nd,Pakistan,Wellington,8 Mar 1989
+West Indies,won,6 wickets,68,won,2nd,India,Port of Spain,9 Mar 1989
+New Zealand,lost,7 wickets,9,lost,1st,Pakistan,Auckland,11 Mar 1989
+West Indies,won,6 wickets,16,lost,2nd,India,Port of Spain,11 Mar 1989
+New Zealand,won,7 wickets,62,won,2nd,Pakistan,Hamilton,14 Mar 1989
+West Indies,won,8 wickets,40,lost,2nd,India,St John's,18 Mar 1989
+West Indies,won,101 runs,,lost,1st,India,Georgetown,21 Mar 1989
+England,won,95 runs,,won,1st,Australia,Manchester,25 May 1989
+England,tied,-,,won,1st,Australia,Nottingham,27 May 1989
+England,lost,6 wickets,3,won,1st,Australia,Lord's,29 May 1989
+India,won,6 runs,,won,1st,Sri Lanka,Ahmedabad,22 Oct 1989
+India,lost,20 runs,,won,2nd,West Indies,Delhi,23 Oct 1989
+India,won,6 wickets,11,won,2nd,England,Kanpur,25 Oct 1989
+India,won,3 wickets,17,lost,2nd,Australia,Bengaluru,27 Oct 1989
+India,lost,77 runs,,won,2nd,Pakistan,Kolkata,28 Oct 1989
+India,lost,8 wickets,47,won,1st,West Indies,Wankhede,30 Oct 1989
+Pakistan,won,7 runs,,lost,1st,India,Gujranwala,18 Dec 1989
+Pakistan,won,38 runs,,lost,1st,India,Lahore,22 Dec 1989
+Australia,won,30 runs,,lost,1st,Sri Lanka,Melbourne,26 Dec 1989
+Australia,won,9 wickets,55,lost,2nd,Sri Lanka,Perth,30 Dec 1989
+Australia,won,7 wickets,54,lost,2nd,Pakistan,Melbourne,3 Jan 1990
+Australia,won,73 runs,,won,1st,Sri Lanka,Melbourne,4 Jan 1990
+Australia,won,67 runs,,lost,1st,Pakistan,Brisbane,11 Feb 1990
+Australia,lost,5 wickets,9,lost,1st,Pakistan,Sydney,13 Feb 1990
+Australia,won,7 wickets,60,lost,2nd,Sri Lanka,Adelaide,18 Feb 1990
+Australia,lost,2 runs,,lost,2nd,Pakistan,Sydney,20 Feb 1990
+Australia,won,7 wickets,25,won,2nd,Pakistan,Melbourne,23 Feb 1990
+Australia,won,69 runs,,won,1st,Pakistan,Sydney,25 Feb 1990
+New Zealand,won,108 runs,,lost,1st,India,Dunedin,1 Mar 1990
+West Indies,won,3 wickets,0,lost,2nd,England,Kingston,3 Mar 1990
+New Zealand,lost,150 runs,,lost,2nd,Australia,Christchurch,4 Mar 1990
+New Zealand,lost,1 runs,,lost,2nd,India,Wellington,6 Mar 1990
+West Indies,won,6 wickets,16,won,2nd,England,Georgetown,7 Mar 1990
+New Zealand,lost,10 runs,,won,2nd,Australia,Auckland,10 Mar 1990
+New Zealand,lost,8 wickets,65,won,1st,Australia,Auckland,11 Mar 1990
+West Indies,won,7 wickets,52,won,2nd,England,Georgetown,15 Mar 1990
+West Indies,won,4 wickets,3,won,2nd,England,Bridgetown,3 Apr 1990
+England,lost,4 wickets,1,lost,1st,New Zealand,Leeds,23 May 1990
+England,won,6 wickets,33,won,2nd,New Zealand,The Oval,25 May 1990
+England,lost,6 wickets,12,lost,1st,India,Leeds,18 Jul 1990
+England,lost,5 wickets,12,lost,1st,India,Nottingham,20 Jul 1990
+Pakistan,won,19 runs,,lost,1st,New Zealand,Lahore,2 Nov 1990
+Pakistan,won,8 wickets,65,lost,2nd,New Zealand,Peshawar,4 Nov 1990
+Pakistan,won,105 runs,,lost,1st,New Zealand,Sialkot,6 Nov 1990
+Pakistan,won,6 runs,,won,1st,West Indies,Karachi,9 Nov 1990
+Pakistan,won,5 wickets,11,lost,2nd,West Indies,Lahore,11 Nov 1990
+Pakistan,won,31 runs,,won,1st,West Indies,Multan,13 Nov 1990
+Australia,won,61 runs,,lost,1st,New Zealand,Sydney,29 Nov 1990
+India,won,19 runs,,lost,1st,Sri Lanka,Nagpur,1 Dec 1990
+Australia,won,6 wickets,18,lost,2nd,New Zealand,Adelaide,2 Dec 1990
+India,won,6 wickets,21,won,2nd,Sri Lanka,Pune,5 Dec 1990
+India,lost,7 wickets,103,won,1st,Sri Lanka,Margao,8 Dec 1990
+Australia,won,6 wickets,54,lost,2nd,England,Perth,9 Dec 1990
+Australia,won,39 runs,,lost,1st,New Zealand,Melbourne,11 Dec 1990
+Australia,won,37 runs,,won,1st,England,Brisbane,16 Dec 1990
+Australia,lost,1 runs,,won,2nd,New Zealand,Hobart,18 Dec 1990
+India,won,9 wickets,79,lost,2nd,Bangladesh,Chandigarh,25 Dec 1990
+India,lost,36 runs,,lost,2nd,Sri Lanka,Cuttack,28 Dec 1990
+Australia,won,68 runs,,lost,1st,England,Sydney,1 Jan 1991
+India,won,7 wickets,17,won,2nd,Sri Lanka,Kolkata,4 Jan 1991
+Australia,won,3 runs,,won,1st,England,Melbourne,10 Jan 1991
+Australia,won,6 wickets,5,lost,2nd,New Zealand,Sydney,13 Jan 1991
+Australia,won,7 wickets,27,lost,2nd,New Zealand,Melbourne,15 Jan 1991
+New Zealand,won,5 wickets,45,won,2nd,Sri Lanka,Napier,26 Jan 1991
+New Zealand,won,41 runs,,lost,1st,Sri Lanka,Auckland,28 Jan 1991
+New Zealand,won,107 runs,,lost,1st,Sri Lanka,Dunedin,6 Feb 1991
+New Zealand,lost,14 runs,,lost,2nd,England,Christchurch,9 Feb 1991
+New Zealand,won,9 runs,,lost,1st,England,Wellington,13 Feb 1991
+New Zealand,won,7 runs,,lost,1st,England,Auckland,16 Feb 1991
+West Indies,lost,35 runs,,lost,2nd,Australia,Kingston,26 Feb 1991
+West Indies,lost,45 runs,,won,2nd,Australia,Port of Spain,9 Mar 1991
+West Indies,won,7 wickets,15,lost,2nd,Australia,Port of Spain,10 Mar 1991
+West Indies,lost,37 runs,,lost,2nd,Australia,Bridgetown,13 Mar 1991
+West Indies,lost,6 wickets,9,won,1st,Australia,Georgetown,20 Mar 1991
+England,won,1 wickets,32,won,2nd,West Indies,Birmingham,23 May 1991
+England,won,9 runs,,lost,1st,West Indies,Manchester,25 May 1991
+England,won,7 wickets,53,won,2nd,West Indies,Lord's,27 May 1991
+India,won,3 wickets,38,won,2nd,South Africa,Kolkata,10 Nov 1991
+India,won,38 runs,,lost,1st,South Africa,Gwalior,12 Nov 1991
+India,lost,8 wickets,20,won,1st,South Africa,New Delhi,14 Nov 1991
+Pakistan,lost,24 runs,,lost,2nd,West Indies,Karachi,20 Nov 1991
+Pakistan,tied,-,,won,2nd,West Indies,Lahore,22 Nov 1991
+Pakistan,lost,17 runs,,won,2nd,West Indies,Faisalabad,24 Nov 1991
+Australia,lost,107 runs,,lost,2nd,India,Perth,8 Dec 1991
+Australia,won,8 wickets,9,lost,2nd,India,Hobart,10 Dec 1991
+Australia,won,9 runs,,won,1st,West Indies,Melbourne,12 Dec 1991
+Australia,won,6 wickets,55,lost,2nd,India,Adelaide,15 Dec 1991
+Australia,won,51 runs,,won,1st,West Indies,Sydney,18 Dec 1991
+Pakistan,won,8 wickets,19,won,2nd,Sri Lanka,Sargodha,10 Jan 1992
+New Zealand,lost,7 wickets,97,won,1st,England,Auckland,11 Jan 1992
+Australia,lost,12 runs,,won,2nd,West Indies,Brisbane,12 Jan 1992
+Pakistan,won,29 runs,,lost,1st,Sri Lanka,Karachi,13 Jan 1992
+Australia,won,9 wickets,64,lost,2nd,India,Sydney,14 Jan 1992
+Pakistan,won,59 runs,,lost,1st,Sri Lanka,Hyderabad (Sind),15 Jan 1992
+Pakistan,lost,4 wickets,2,lost,1st,Sri Lanka,Multan,17 Jan 1992
+Australia,won,88 runs,,won,1st,India,Melbourne,18 Jan 1992
+Pakistan,won,117 runs,,lost,1st,Sri Lanka,Rawalpindi,19 Jan 1992
+Australia,won,6 runs,,won,1st,India,Sydney,20 Jan 1992
+New Zealand,lost,3 wickets,5,won,1st,England,Dunedin,12 Feb 1992
+New Zealand,lost,71 runs,,won,2nd,England,Christchurch,15 Feb 1992
+New Zealand,won,37 runs,,won,1st,Australia,Auckland,22 Feb 1992
+New Zealand,won,6 wickets,10,won,2nd,Sri Lanka,Hamilton,25 Feb 1992
+Australia,lost,9 wickets,13,won,1st,South Africa,Sydney,26 Feb 1992
+New Zealand,won,7 wickets,93,lost,2nd,South Africa,Auckland,29 Feb 1992
+Australia,won,1 runs,,won,1st,India,Brisbane,1 Mar 1992
+New Zealand,won,48 runs,,lost,1st,Zimbabwe,Napier,3 Mar 1992
+Australia,lost,8 wickets,55,won,1st,England,Sydney,5 Mar 1992
+Australia,won,7 wickets,36,won,2nd,Sri Lanka,Adelaide,7 Mar 1992
+New Zealand,won,5 wickets,9,won,2nd,West Indies,Auckland,8 Mar 1992
+Australia,lost,48 runs,,lost,2nd,Pakistan,Perth,11 Mar 1992
+New Zealand,won,4 wickets,17,won,2nd,India,Dunedin,12 Mar 1992
+Australia,won,128 runs,,won,1st,Zimbabwe,Hobart,14 Mar 1992
+New Zealand,won,7 wickets,55,won,2nd,England,Wellington,15 Mar 1992
+New Zealand,lost,7 wickets,32,lost,1st,Pakistan,Christchurch,18 Mar 1992
+Australia,won,57 runs,,won,1st,West Indies,Melbourne,18 Mar 1992
+New Zealand,lost,4 wickets,6,won,1st,Pakistan,Auckland,21 Mar 1992
+West Indies,won,107 runs,,lost,1st,South Africa,Kingston,7 Apr 1992
+West Indies,won,10 wickets,145,won,2nd,South Africa,Port of Spain,11 Apr 1992
+West Indies,won,7 wickets,42,won,2nd,South Africa,Port of Spain,12 Apr 1992
+England,won,79 runs,,lost,1st,Pakistan,Lord's,20 May 1992
+England,won,39 runs,,won,1st,Pakistan,The Oval,22 May 1992
+Sri Lanka,won,4 wickets,4,won,2nd,Australia,Colombo (PSS),15 Aug 1992
+England,won,198 runs,,lost,1st,Pakistan,Nottingham,20 Aug 1992
+England,lost,3 runs,,lost,2nd,Pakistan,Lord's,22 Aug 1992
+England,won,6 wickets,68,lost,2nd,Pakistan,Manchester,24 Aug 1992
+Sri Lanka,won,5 wickets,7,won,2nd,Australia,Colombo (RPS),4 Sep 1992
+Sri Lanka,lost,5 wickets,13,lost,1st,Australia,Colombo (RPS),5 Sep 1992
+Zimbabwe,lost,30 runs,,won,2nd,India,Harare,25 Oct 1992
+Zimbabwe,lost,22 runs,,won,2nd,New Zealand,Bulawayo,31 Oct 1992
+Zimbabwe,lost,4 wickets,19,won,1st,New Zealand,Harare,8 Nov 1992
+Australia,lost,9 wickets,69,won,1st,West Indies,Perth,6 Dec 1992
+South Africa,won,6 wickets,3,lost,2nd,India,Cape Town,7 Dec 1992
+Australia,won,14 runs,,lost,1st,West Indies,Sydney,8 Dec 1992
+South Africa,won,6 wickets,20,lost,2nd,India,Gqeberha,9 Dec 1992
+Australia,tied,-,,won,1st,Pakistan,Hobart,10 Dec 1992
+South Africa,lost,4 wickets,5,lost,1st,India,Centurion,11 Dec 1992
+Sri Lanka,won,8 wickets,74,won,2nd,New Zealand,Colombo (PSS),12 Dec 1992
+Australia,won,8 wickets,12,won,2nd,Pakistan,Adelaide,13 Dec 1992
+Sri Lanka,won,31 runs,,lost,1st,New Zealand,Colombo (RPS),13 Dec 1992
+South Africa,won,6 wickets,9,won,2nd,India,Johannesburg,13 Dec 1992
+Australia,won,4 runs,,won,1st,West Indies,Melbourne,15 Dec 1992
+South Africa,won,8 wickets,16,won,2nd,India,Bloemfontein,15 Dec 1992
+South Africa,won,39 runs,,lost,1st,India,Durban,17 Dec 1992
+South Africa,lost,5 wickets,16,lost,1st,India,East London,19 Dec 1992
+New Zealand,lost,50 runs,,won,2nd,Pakistan,Wellington,26 Dec 1992
+New Zealand,won,6 wickets,26,won,2nd,Pakistan,Napier,28 Dec 1992
+New Zealand,won,6 wickets,44,won,2nd,Pakistan,Auckland,30 Dec 1992
+Australia,lost,7 runs,,won,2nd,West Indies,Brisbane,10 Jan 1993
+Australia,won,32 runs,,won,1st,Pakistan,Melbourne,12 Jan 1993
+Australia,won,23 runs,,won,1st,Pakistan,Sydney,14 Jan 1993
+Australia,lost,25 runs,,lost,2nd,West Indies,Sydney,16 Jan 1993
+Australia,lost,4 wickets,18,won,1st,West Indies,Melbourne,18 Jan 1993
+India,lost,4 wickets,0,lost,1st,England,Jaipur,18 Jan 1993
+India,won,5 wickets,29,won,2nd,England,Chandigarh,21 Jan 1993
+South Africa,lost,10 runs,,won,2nd,Pakistan,Durban,9 Feb 1993
+South Africa,won,6 wickets,19,won,2nd,West Indies,Gqeberha,11 Feb 1993
+South Africa,lost,9 runs,,lost,2nd,Pakistan,East London,15 Feb 1993
+South Africa,won,4 runs,,lost,1st,West Indies,Cape Town,17 Feb 1993
+South Africa,lost,22 runs,,lost,2nd,Pakistan,Centurion,21 Feb 1993
+South Africa,lost,9 wickets,33,won,1st,West Indies,Bloemfontein,23 Feb 1993
+India,lost,48 runs,,won,2nd,England,Bengaluru,26 Feb 1993
+India,lost,6 wickets,2,lost,1st,England,Jamshedpur,1 Mar 1993
+Zimbabwe,lost,7 wickets,16,lost,1st,Pakistan,Harare,2 Mar 1993
+India,won,3 wickets,12,won,2nd,England,Gwalior,4 Mar 1993
+India,won,4 wickets,8,won,2nd,England,Gwalior,5 Mar 1993
+Sri Lanka,won,32 runs,,won,1st,England,Colombo (RPS),10 Mar 1993
+New Zealand,lost,129 runs,,won,2nd,Australia,Dunedin,19 Mar 1993
+India,won,67 runs,,lost,1st,Zimbabwe,Faridabad,19 Mar 1993
+Sri Lanka,won,8 wickets,88,won,2nd,England,Moratuwa,20 Mar 1993
+New Zealand,lost,1 wickets,3,won,1st,Australia,Christchurch,21 Mar 1993
+India,won,7 wickets,3,won,2nd,Zimbabwe,Guwahati,22 Mar 1993
+West Indies,won,4 wickets,36,won,2nd,Pakistan,Kingston,23 Mar 1993
+New Zealand,won,88 runs,,won,1st,Australia,Wellington,24 Mar 1993
+India,won,8 wickets,27,won,2nd,Zimbabwe,Pune,25 Mar 1993
+West Indies,won,5 wickets,24,won,2nd,Pakistan,Port of Spain,26 Mar 1993
+New Zealand,won,3 wickets,2,lost,2nd,Australia,Hamilton,27 Mar 1993
+West Indies,lost,7 wickets,11,won,1st,Pakistan,Port of Spain,27 Mar 1993
+New Zealand,lost,3 runs,,won,2nd,Australia,Auckland,28 Mar 1993
+West Indies,lost,38 runs,,won,2nd,Pakistan,Kingstown,30 Mar 1993
+West Indies,tied,-,,lost,2nd,Pakistan,Georgetown,3 Apr 1993
+England,lost,4 runs,,won,2nd,Australia,Manchester,19 May 1993
+England,lost,6 wickets,9,lost,1st,Australia,Birmingham,21 May 1993
+England,lost,19 runs,,won,2nd,Australia,Lord's,23 May 1993
+Sri Lanka,lost,1 runs,,won,2nd,India,Colombo (RPS),25 Jul 1993
+Sri Lanka,won,8 runs,,lost,1st,India,Colombo (RPS),12 Aug 1993
+Sri Lanka,won,4 wickets,3,lost,2nd,India,Moratuwa,14 Aug 1993
+Sri Lanka,lost,124 runs,,lost,2nd,South Africa,Colombo (RPS),2 Sep 1993
+Sri Lanka,won,44 runs,,won,1st,South Africa,Colombo (RPS),4 Sep 1993
+India,won,7 wickets,32,won,2nd,Sri Lanka,Kanpur,7 Nov 1993
+India,lost,69 runs,,lost,2nd,West Indies,Ahmedabad,16 Nov 1993
+India,tied,-,,lost,1st,Zimbabwe,Indore,18 Nov 1993
+India,won,43 runs,,lost,1st,South Africa,Mohali,22 Nov 1993
+India,won,2 runs,,won,1st,South Africa,Kolkata,24 Nov 1993
+India,won,102 runs,,lost,1st,West Indies,Kolkata,27 Nov 1993
+Australia,lost,7 wickets,8,won,1st,South Africa,Melbourne,9 Dec 1993
+Australia,won,8 wickets,67,lost,2nd,New Zealand,Adelaide,12 Dec 1993
+Australia,won,103 runs,,lost,1st,South Africa,Sydney,14 Dec 1993
+Australia,won,3 runs,,won,1st,New Zealand,Melbourne,16 Dec 1993
+Sri Lanka,won,3 wickets,5,lost,2nd,West Indies,Colombo (RPS),16 Dec 1993
+Sri Lanka,lost,6 wickets,5,won,1st,West Indies,Colombo (SSC),18 Dec 1993
+Pakistan,won,7 wickets,37,won,2nd,Zimbabwe,Karachi,24 Dec 1993
+Pakistan,won,6 wickets,2,won,2nd,Zimbabwe,Rawalpindi,25 Dec 1993
+Pakistan,won,75 runs,,won,1st,Zimbabwe,Lahore,27 Dec 1993
+Australia,won,48 runs,,lost,1st,South Africa,Brisbane,9 Jan 1994
+Australia,lost,13 runs,,lost,2nd,New Zealand,Sydney,11 Jan 1994
+Australia,lost,82 runs,,won,2nd,South Africa,Perth,16 Jan 1994
+Australia,won,51 runs,,won,1st,New Zealand,Melbourne,19 Jan 1994
+Australia,lost,28 runs,,lost,2nd,South Africa,Melbourne,21 Jan 1994
+Australia,won,69 runs,,won,1st,South Africa,Sydney,23 Jan 1994
+Australia,won,35 runs,,won,1st,South Africa,Sydney,25 Jan 1994
+India,won,8 runs,,lost,1st,Sri Lanka,Rajkot,15 Feb 1994
+West Indies,lost,61 runs,,lost,2nd,England,Bridgetown,16 Feb 1994
+India,won,7 wickets,10,won,2nd,Sri Lanka,Hyderabad (Deccan),18 Feb 1994
+South Africa,won,5 runs,,won,1st,Australia,Johannesburg,19 Feb 1994
+India,lost,4 wickets,1,lost,1st,Sri Lanka,Jalandhar,20 Feb 1994
+South Africa,won,56 runs,,won,1st,Australia,Centurion,20 Feb 1994
+South Africa,lost,88 runs,,lost,2nd,Australia,Gqeberha,22 Feb 1994
+South Africa,won,7 wickets,30,lost,2nd,Australia,Durban,24 Feb 1994
+West Indies,won,3 wickets,7,won,2nd,England,Kingston,26 Feb 1994
+West Indies,won,165 runs,,lost,1st,England,Kingstown,2 Mar 1994
+New Zealand,lost,5 wickets,23,won,1st,Pakistan,Dunedin,3 Mar 1994
+West Indies,won,15 runs,,lost,1st,England,Port of Spain,5 Mar 1994
+New Zealand,lost,36 runs,,won,2nd,Pakistan,Auckland,6 Mar 1994
+West Indies,lost,5 wickets,20,won,1st,England,Port of Spain,6 Mar 1994
+New Zealand,lost,11 runs,,won,2nd,Pakistan,Wellington,9 Mar 1994
+New Zealand,tied,-,,lost,2nd,Pakistan,Auckland,13 Mar 1994
+New Zealand,won,7 wickets,95,won,2nd,Pakistan,Christchurch,16 Mar 1994
+New Zealand,won,28 runs,,lost,1st,India,Napier,25 Mar 1994
+New Zealand,lost,7 wickets,160,won,1st,India,Auckland,27 Mar 1994
+New Zealand,lost,12 runs,,won,2nd,India,Wellington,30 Mar 1994
+New Zealand,won,6 wickets,1,lost,2nd,India,Christchurch,2 Apr 1994
+South Africa,lost,7 wickets,60,won,1st,Australia,East London,2 Apr 1994
+South Africa,won,26 runs,,won,1st,Australia,Gqeberha,4 Apr 1994
+South Africa,lost,36 runs,,lost,2nd,Australia,Cape Town,6 Apr 1994
+South Africa,lost,1 runs,,lost,2nd,Australia,Bloemfontein,8 Apr 1994
+U.A.E.,lost,71 runs,,won,2nd,India,Sharjah,13 Apr 1994
+U.A.E.,lost,9 wickets,161,won,1st,Pakistan,Sharjah,17 Apr 1994
+England,won,42 runs,,lost,1st,New Zealand,Birmingham,19 May 1994
+Sri Lanka,lost,9 wickets,70,won,1st,Pakistan,Colombo (RPS),3 Aug 1994
+Sri Lanka,won,7 wickets,16,won,2nd,Pakistan,Colombo (RPS),6 Aug 1994
+Sri Lanka,lost,19 runs,,won,2nd,Pakistan,Colombo (SSC),7 Aug 1994
+Sri Lanka,lost,5 wickets,50,lost,1st,Pakistan,Colombo (SSC),22 Aug 1994
+Sri Lanka,lost,27 runs,,won,2nd,Pakistan,Colombo (RPS),24 Aug 1994
+England,won,6 wickets,6,lost,2nd,South Africa,Birmingham,25 Aug 1994
+England,won,4 wickets,40,won,2nd,South Africa,Manchester,27 Aug 1994
+Sri Lanka,won,7 wickets,4,won,2nd,India,Colombo (RPS),5 Sep 1994
+Sri Lanka,won,7 wickets,16,won,2nd,Pakistan,Colombo (SSC),11 Sep 1994
+Sri Lanka,won,6 wickets,8,won,2nd,Australia,Colombo (PSS),13 Sep 1994
+Sri Lanka,lost,6 wickets,8,lost,1st,India,Colombo (SSC),17 Sep 1994
+Pakistan,lost,7 wickets,24,won,1st,Australia,Multan,14 Oct 1994
+Pakistan,won,8 wickets,32,lost,2nd,South Africa,Karachi,16 Oct 1994
+India,lost,96 runs,,lost,2nd,West Indies,Faridabad,17 Oct 1994
+India,won,8 runs,,won,2nd,West Indies,Wankhede,20 Oct 1994
+Pakistan,won,39 runs,,lost,1st,South Africa,Rawalpindi,20 Oct 1994
+Pakistan,won,9 wickets,66,won,2nd,Australia,Rawalpindi,22 Oct 1994
+India,won,4 wickets,10,won,2nd,West Indies,Chennai,23 Oct 1994
+India,won,7 wickets,11,lost,2nd,New Zealand,Vadodara,28 Oct 1994
+Pakistan,won,6 wickets,33,lost,2nd,South Africa,Faisalabad,28 Oct 1994
+India,lost,46 runs,,won,2nd,West Indies,Kanpur,30 Oct 1994
+Pakistan,lost,64 runs,,lost,2nd,Australia,Lahore,30 Oct 1994
+India,won,107 runs,,won,1st,New Zealand,Delhi,3 Nov 1994
+Zimbabwe,lost,56 runs,,won,2nd,Sri Lanka,Harare,3 Nov 1994
+Zimbabwe,won,2 runs,,won,1st,Sri Lanka,Harare,5 Nov 1994
+India,won,72 runs,,lost,1st,West Indies,Kolkata,5 Nov 1994
+Zimbabwe,lost,191 runs,,lost,2nd,Sri Lanka,Harare,6 Nov 1994
+India,won,4 runs,,lost,1st,West Indies,Visakhapatnam,7 Nov 1994
+India,won,8 wickets,4,lost,2nd,West Indies,Cuttack,9 Nov 1994
+India,won,5 runs,,won,1st,West Indies,Jaipur,11 Nov 1994
+Australia,won,2 wickets,16,won,2nd,Zimbabwe,Perth,2 Dec 1994
+Australia,won,28 runs,,won,1st,England,Sydney,6 Dec 1994
+South Africa,won,69 runs,,won,1st,New Zealand,Cape Town,6 Dec 1994
+Australia,won,84 runs,,won,1st,Zimbabwe,Hobart,8 Dec 1994
+South Africa,won,7 wickets,26,lost,2nd,Pakistan,Johannesburg,10 Dec 1994
+South Africa,won,81 runs,,won,1st,New Zealand,Centurion,11 Dec 1994
+South Africa,lost,35 runs,,lost,2nd,Sri Lanka,Bloemfontein,15 Dec 1994
+South Africa,lost,8 wickets,90,lost,1st,Pakistan,Durban,17 Dec 1994
+South Africa,won,44 runs,,won,1st,Sri Lanka,Gqeberha,21 Dec 1994
+Australia,lost,37 runs,,lost,2nd,England,Melbourne,10 Jan 1995
+South Africa,won,37 runs,,lost,1st,Pakistan,Cape Town,10 Jan 1995
+South Africa,won,157 runs,,lost,1st,Pakistan,Johannesburg,12 Jan 1995
+New Zealand,lost,25 runs,,won,1st,West Indies,Auckland,22 Jan 1995
+New Zealand,lost,41 runs,,won,2nd,West Indies,Wellington,25 Jan 1995
+New Zealand,lost,9 wickets,74,lost,1st,West Indies,Christchurch,28 Jan 1995
+New Zealand,won,4 wickets,106,won,2nd,India,Napier,16 Feb 1995
+New Zealand,lost,27 runs,,lost,2nd,Australia,Auckland,19 Feb 1995
+Zimbabwe,tied,-,,won,1st,Pakistan,Harare,22 Feb 1995
+New Zealand,won,46 runs,,lost,1st,South Africa,Christchurch,23 Feb 1995
+Zimbabwe,lost,4 wickets,9,lost,1st,Pakistan,Harare,25 Feb 1995
+New Zealand,lost,6 wickets,113,won,1st,Australia,Auckland,26 Feb 1995
+Zimbabwe,won,74 runs,,lost,1st,Pakistan,Harare,26 Feb 1995
+West Indies,won,6 runs,,won,1st,Australia,Bridgetown,8 Mar 1995
+West Indies,lost,26 runs,,lost,2nd,Australia,Port of Spain,11 Mar 1995
+West Indies,won,133 runs,,won,1st,Australia,Port of Spain,12 Mar 1995
+West Indies,won,7 wickets,17,lost,2nd,Australia,Kingstown,15 Mar 1995
+West Indies,won,5 wickets,16,lost,2nd,Australia,Georgetown,18 Mar 1995
+New Zealand,won,33 runs,,lost,1st,Sri Lanka,Christchurch,26 Mar 1995
+New Zealand,won,57 runs,,won,1st,Sri Lanka,Hamilton,29 Mar 1995
+New Zealand,lost,51 runs,,lost,2nd,Sri Lanka,Auckland,1 Apr 1995
+England,lost,5 wickets,14,lost,1st,West Indies,Nottingham,24 May 1995
+England,won,25 runs,,lost,1st,West Indies,The Oval,26 May 1995
+England,won,73 runs,,lost,1st,West Indies,Lord's,28 May 1995
+Pakistan,won,9 wickets,36,won,2nd,Sri Lanka,Gujranwala,29 Sep 1995
+Pakistan,lost,49 runs,,won,2nd,Sri Lanka,Faisalabad,1 Oct 1995
+Pakistan,lost,4 wickets,2,lost,1st,Sri Lanka,Rawalpindi,3 Oct 1995
+Zimbabwe,lost,134 runs,,won,2nd,South Africa,Harare,21 Oct 1995
+Zimbabwe,lost,112 runs,,lost,2nd,South Africa,Harare,22 Oct 1995
+India,lost,8 wickets,19,lost,1st,New Zealand,Jamshedpur,15 Nov 1995
+India,won,6 wickets,38,won,2nd,New Zealand,Amritsar,18 Nov 1995
+India,won,5 wickets,25,won,2nd,New Zealand,Pune,24 Nov 1995
+India,lost,99 runs,,won,2nd,New Zealand,Nagpur,26 Nov 1995
+India,won,6 wickets,108,won,2nd,New Zealand,Brabourne,29 Nov 1995
+New Zealand,lost,20 runs,,lost,2nd,Pakistan,Dunedin,15 Dec 1995
+New Zealand,won,1 wickets,1,lost,2nd,Pakistan,Christchurch,17 Dec 1995
+Australia,won,121 runs,,lost,1st,West Indies,Adelaide,17 Dec 1995
+Australia,won,24 runs,,won,1st,West Indies,Melbourne,19 Dec 1995
+New Zealand,lost,54 runs,,won,2nd,Pakistan,Wellington,20 Dec 1995
+Australia,won,5 wickets,2,lost,2nd,Sri Lanka,Sydney,21 Dec 1995
+New Zealand,won,32 runs,,lost,1st,Pakistan,Auckland,23 Dec 1995
+Australia,won,1 wickets,0,lost,2nd,West Indies,Sydney,1 Jan 1996
+Australia,lost,14 runs,,won,2nd,West Indies,Brisbane,7 Jan 1996
+Australia,lost,3 wickets,15,won,1st,Sri Lanka,Melbourne,9 Jan 1996
+South Africa,won,6 runs,,won,1st,England,Cape Town,9 Jan 1996
+South Africa,lost,5 wickets,10,won,1st,England,Bloemfontein,11 Jan 1996
+Australia,won,83 runs,,won,1st,Sri Lanka,Perth,12 Jan 1996
+South Africa,won,3 wickets,11,lost,2nd,England,Johannesburg,13 Jan 1996
+South Africa,won,7 wickets,12,lost,2nd,England,Centurion,14 Jan 1996
+Australia,lost,3 wickets,2,won,1st,Sri Lanka,Melbourne,16 Jan 1996
+South Africa,won,5 wickets,10,won,2nd,England,Durban,17 Jan 1996
+Australia,won,18 runs,,lost,1st,Sri Lanka,Melbourne,18 Jan 1996
+South Africa,won,14 runs,,won,1st,England,East London,19 Jan 1996
+Australia,won,9 runs,,lost,1st,Sri Lanka,Sydney,20 Jan 1996
+South Africa,won,64 runs,,won,1st,England,Gqeberha,21 Jan 1996
+New Zealand,won,74 runs,,won,1st,Zimbabwe,Auckland,28 Jan 1996
+New Zealand,won,6 wickets,63,lost,2nd,Zimbabwe,Wellington,31 Jan 1996
+New Zealand,lost,21 runs,,won,2nd,Zimbabwe,Napier,3 Feb 1996
+Sri Lanka,won,,,-,-,Australia,Colombo (RPS),17 Feb 1996
+India,won,7 wickets,49,won,2nd,Kenya,Cuttack,18 Feb 1996
+Sri Lanka,won,6 wickets,78,lost,2nd,Zimbabwe,Colombo (SSC),21 Feb 1996
+India,won,5 wickets,62,lost,2nd,West Indies,Gwalior,21 Feb 1996
+Pakistan,won,9 wickets,90,won,2nd,U.A.E.,Gujranwala,24 Feb 1996
+Sri Lanka,won,,,-,-,West Indies,Colombo (RPS),25 Feb 1996
+Pakistan,won,8 wickets,116,lost,2nd,Netherlands,Lahore,26 Feb 1996
+India,lost,16 runs,,lost,2nd,Australia,Wankhede,27 Feb 1996
+Pakistan,lost,5 wickets,34,won,1st,South Africa,Karachi,29 Feb 1996
+India,lost,6 wickets,8,lost,1st,Sri Lanka,Delhi,2 Mar 1996
+Pakistan,won,7 wickets,14,lost,2nd,England,Karachi,3 Mar 1996
+Sri Lanka,won,144 runs,,lost,1st,Kenya,Kandy,6 Mar 1996
+India,won,40 runs,,lost,1st,Zimbabwe,Kanpur,6 Mar 1996
+Pakistan,won,46 runs,,lost,1st,New Zealand,Lahore,6 Mar 1996
+India,won,39 runs,,won,1st,Pakistan,Bengaluru,9 Mar 1996
+India,lost,,,won,2nd,Sri Lanka,Kolkata,13 Mar 1996
+West Indies,won,1 wickets,5,won,2nd,New Zealand,Kingston,26 Mar 1996
+West Indies,lost,4 wickets,1,lost,1st,New Zealand,Port of Spain,29 Mar 1996
+West Indies,won,7 wickets,26,lost,2nd,New Zealand,Port of Spain,30 Mar 1996
+West Indies,lost,4 runs,,won,2nd,New Zealand,Georgetown,3 Apr 1996
+West Indies,won,7 wickets,9,won,2nd,New Zealand,Kingstown,6 Apr 1996
+West Indies,lost,35 runs,,lost,2nd,Sri Lanka,Port of Spain,13 Apr 1996
+England,won,6 wickets,15,won,2nd,India,Leeds,25 May 1996
+England,won,4 wickets,7,lost,2nd,India,Manchester,26 May 1996
+Sri Lanka,won,9 wickets,34,lost,2nd,India,Colombo (RPS),28 Aug 1996
+England,won,5 wickets,20,lost,2nd,Pakistan,Manchester,29 Aug 1996
+Sri Lanka,won,4 wickets,25,lost,2nd,Australia,Colombo (RPS),30 Aug 1996
+England,won,107 runs,,lost,1st,Pakistan,Birmingham,31 Aug 1996
+England,lost,2 wickets,2,won,1st,Pakistan,Nottingham,1 Sep 1996
+Sri Lanka,won,6 wickets,18,won,2nd,Zimbabwe,Colombo (SSC),3 Sep 1996
+Sri Lanka,won,50 runs,,lost,1st,Australia,Colombo (RPS),7 Sep 1996
+Kenya,lost,7 wickets,116,lost,1st,Sri Lanka,Nairobi (Gym),28 Sep 1996
+Kenya,lost,4 wickets,58,won,1st,Pakistan,Nairobi (Aga),2 Oct 1996
+Kenya,lost,202 runs,,lost,2nd,South Africa,Nairobi (Gym),3 Oct 1996
+India,lost,47 runs,,lost,2nd,South Africa,Hyderabad (Deccan),17 Oct 1996
+India,won,2 wickets,7,lost,2nd,Australia,Bengaluru,21 Oct 1996
+India,lost,27 runs,,won,2nd,South Africa,Jaipur,23 Oct 1996
+India,lost,5 wickets,8,won,1st,South Africa,Rajkot,29 Oct 1996
+Pakistan,won,3 wickets,5,lost,2nd,Zimbabwe,Quetta,30 Oct 1996
+Pakistan,won,9 wickets,128,lost,2nd,Zimbabwe,Lahore,1 Nov 1996
+Pakistan,won,78 runs,,won,1st,Zimbabwe,Peshawar,3 Nov 1996
+India,won,5 runs,,lost,1st,Australia,Mohali,3 Nov 1996
+India,won,35 runs,,won,1st,South Africa,Wankhede,6 Nov 1996
+Pakistan,won,11 runs,,won,1st,New Zealand,Gujranwala,4 Dec 1996
+Australia,won,5 wickets,8,lost,2nd,West Indies,Melbourne,6 Dec 1996
+Pakistan,won,46 runs,,won,1st,New Zealand,Sialkot,6 Dec 1996
+Australia,won,8 wickets,48,lost,2nd,West Indies,Sydney,8 Dec 1996
+Pakistan,lost,7 wickets,29,won,1st,New Zealand,Karachi,8 Dec 1996
+India,won,74 runs,,won,1st,South Africa,Wankhede,14 Dec 1996
+Australia,lost,12 runs,,lost,2nd,Pakistan,Adelaide,15 Dec 1996
+Zimbabwe,won,2 wickets,37,won,2nd,England,Bulawayo,15 Dec 1996
+Australia,lost,4 wickets,27,won,1st,Pakistan,Sydney,1 Jan 1997
+Zimbabwe,won,7 runs,,lost,1st,England,Harare,1 Jan 1997
+Zimbabwe,won,131 runs,,lost,1st,England,Harare,3 Jan 1997
+Australia,lost,7 wickets,7,won,1st,West Indies,Brisbane,5 Jan 1997
+Australia,lost,29 runs,,lost,2nd,Pakistan,Hobart,7 Jan 1997
+Australia,lost,4 wickets,4,won,1st,West Indies,Perth,12 Jan 1997
+Australia,won,3 wickets,3,lost,2nd,Pakistan,Melbourne,16 Jan 1997
+South Africa,won,39 runs,,won,1st,India,Bloemfontein,23 Jan 1997
+South Africa,won,5 wickets,23,lost,2nd,Zimbabwe,Centurion,25 Jan 1997
+South Africa,won,5 wickets,18,lost,2nd,Zimbabwe,Cape Town,29 Jan 1997
+South Africa,won,4 wickets,9,lost,2nd,Zimbabwe,Johannesburg,31 Jan 1997
+South Africa,won,6 wickets,29,lost,2nd,India,Gqeberha,2 Feb 1997
+South Africa,won,6 wickets,4,lost,2nd,India,East London,4 Feb 1997
+South Africa,won,17 runs,,won,1st,India,Durban,13 Feb 1997
+Zimbabwe,won,8 wickets,73,won,2nd,India,Bulawayo,15 Feb 1997
+New Zealand,lost,4 wickets,7,won,1st,England,Christchurch,20 Feb 1997
+New Zealand,lost,6 wickets,39,won,1st,England,Auckland,23 Feb 1997
+New Zealand,tied,-,,won,1st,England,Napier,26 Feb 1997
+New Zealand,won,9 runs,,lost,1st,England,Auckland,2 Mar 1997
+New Zealand,won,28 runs,,won,1st,England,Wellington,4 Mar 1997
+New Zealand,lost,6 wickets,85,lost,1st,Sri Lanka,Christchurch,25 Mar 1997
+New Zealand,won,69 runs,,lost,1st,Sri Lanka,Wellington,27 Mar 1997
+South Africa,won,6 wickets,18,won,2nd,Australia,East London,29 Mar 1997
+South Africa,lost,7 wickets,30,lost,1st,Australia,Gqeberha,31 Mar 1997
+South Africa,won,46 runs,,lost,1st,Australia,Cape Town,2 Apr 1997
+South Africa,lost,15 runs,,lost,2nd,Australia,Durban,5 Apr 1997
+South Africa,lost,8 runs,,lost,2nd,Australia,Johannesburg,8 Apr 1997
+South Africa,lost,5 wickets,6,won,1st,Australia,Centurion,10 Apr 1997
+South Africa,won,109 runs,,lost,1st,Australia,Bloemfontein,13 Apr 1997
+West Indies,won,8 wickets,31,lost,2nd,India,Port of Spain,26 Apr 1997
+West Indies,lost,10 wickets,101,lost,1st,India,Port of Spain,27 Apr 1997
+West Indies,won,18 runs,,lost,1st,India,Kingstown,30 Apr 1997
+West Indies,won,10 wickets,32,won,2nd,India,Bridgetown,3 May 1997
+India,won,8 wickets,45,lost,2nd,New Zealand,Bengaluru,14 May 1997
+India,lost,5 wickets,55,won,1st,Sri Lanka,Wankhede,17 May 1997
+India,lost,35 runs,,lost,2nd,Pakistan,Chennai,21 May 1997
+England,won,6 wickets,59,won,2nd,Australia,Leeds,22 May 1997
+England,won,6 wickets,10,won,2nd,Australia,The Oval,24 May 1997
+England,won,6 wickets,6,won,2nd,Australia,Lord's,25 May 1997
+West Indies,won,35 runs,,lost,1st,Sri Lanka,Port of Spain,6 Jun 1997
+Sri Lanka,won,15 runs,,lost,1st,Pakistan,Colombo (RPS),14 Jul 1997
+Sri Lanka,won,6 wickets,32,won,2nd,India,Colombo (RPS),18 Jul 1997
+Sri Lanka,won,103 runs,,lost,1st,Bangladesh,Colombo (SSC),22 Jul 1997
+Sri Lanka,won,8 wickets,79,lost,2nd,India,Colombo (RPS),26 Jul 1997
+Sri Lanka,won,2 runs,,lost,1st,India,Colombo (RPS),17 Aug 1997
+Sri Lanka,won,7 wickets,49,won,2nd,India,Colombo (RPS),20 Aug 1997
+Sri Lanka,won,9 runs,,lost,1st,India,Colombo (SSC),24 Aug 1997
+Pakistan,won,5 wickets,33,lost,2nd,India,Hyderabad (Sind),28 Sep 1997
+Pakistan,lost,4 wickets,3,won,1st,India,Karachi,30 Sep 1997
+Zimbabwe,tied,-,,won,1st,New Zealand,Bulawayo,1 Oct 1997
+Pakistan,won,9 wickets,136,won,2nd,India,Lahore,2 Oct 1997
+Zimbabwe,won,3 wickets,10,lost,2nd,New Zealand,Harare,4 Oct 1997
+Zimbabwe,lost,83 runs,,lost,2nd,New Zealand,Harare,5 Oct 1997
+Kenya,won,150 runs,,lost,1st,Bangladesh,Nairobi (Gym),10 Oct 1997
+Kenya,lost,6 wickets,3,won,1st,Zimbabwe,Nairobi (Gym),12 Oct 1997
+Kenya,won,8 wickets,174,lost,2nd,Bangladesh,Nairobi (Aga),15 Oct 1997
+Kenya,lost,7 wickets,52,lost,1st,Zimbabwe,Nairobi (Aga),16 Oct 1997
+Kenya,lost,83 runs,,lost,2nd,Zimbabwe,Nairobi (Gym),18 Oct 1997
+Kenya,lost,82 runs,,lost,2nd,Zimbabwe,Nairobi (Gym),19 Oct 1997
+Pakistan,lost,9 runs,,won,2nd,South Africa,Lahore,2 Nov 1997
+Pakistan,won,8 wickets,56,won,2nd,West Indies,Lahore,4 Nov 1997
+Pakistan,lost,8 wickets,60,lost,1st,Sri Lanka,Lahore,5 Nov 1997
+Australia,lost,67 runs,,lost,2nd,South Africa,Sydney,4 Dec 1997
+Australia,won,3 wickets,2,lost,2nd,New Zealand,Adelaide,7 Dec 1997
+Australia,lost,45 runs,,lost,2nd,South Africa,Melbourne,9 Dec 1997
+Australia,won,6 wickets,67,lost,2nd,New Zealand,Melbourne,17 Dec 1997
+India,won,7 wickets,31,won,2nd,Sri Lanka,Guwahati,22 Dec 1997
+India,lost,5 wickets,10,won,1st,Sri Lanka,Margao,28 Dec 1997
+Bangladesh,lost,4 wickets,10,lost,1st,India,Dhaka,10 Jan 1998
+Australia,lost,5 wickets,15,won,1st,South Africa,Brisbane,11 Jan 1998
+Bangladesh,lost,9 wickets,100,lost,1st,Pakistan,Dhaka,12 Jan 1998
+Australia,won,131 runs,,won,1st,New Zealand,Sydney,14 Jan 1998
+Australia,lost,7 wickets,130,won,1st,South Africa,Perth,18 Jan 1998
+Australia,lost,4 wickets,5,won,1st,New Zealand,Melbourne,21 Jan 1998
+Sri Lanka,won,5 wickets,28,won,2nd,Zimbabwe,Colombo (SSC),22 Jan 1998
+Australia,lost,6 runs,,lost,2nd,South Africa,Melbourne,23 Jan 1998
+Sri Lanka,won,5 wickets,10,lost,2nd,Zimbabwe,Colombo (RPS),24 Jan 1998
+Australia,won,7 wickets,49,lost,2nd,South Africa,Sydney,26 Jan 1998
+Sri Lanka,won,4 wickets,6,lost,2nd,Zimbabwe,Colombo (SSC),26 Jan 1998
+Australia,won,14 runs,,won,1st,South Africa,Sydney,27 Jan 1998
+New Zealand,won,40 runs,,won,1st,Zimbabwe,Hamilton,4 Feb 1998
+New Zealand,won,8 wickets,130,won,2nd,Zimbabwe,Wellington,6 Feb 1998
+New Zealand,lost,7 wickets,70,won,1st,Australia,Christchurch,8 Feb 1998
+New Zealand,lost,66 runs,,lost,2nd,Australia,Wellington,10 Feb 1998
+New Zealand,won,7 wickets,10,lost,2nd,Australia,Napier,12 Feb 1998
+New Zealand,won,30 runs,,lost,1st,Australia,Auckland,14 Feb 1998
+New Zealand,lost,1 runs,,won,2nd,Zimbabwe,Christchurch,4 Mar 1998
+New Zealand,won,9 wickets,26,lost,2nd,Zimbabwe,Napier,6 Mar 1998
+New Zealand,won,2 runs,,won,1st,Zimbabwe,Auckland,8 Mar 1998
+Zimbabwe,lost,4 wickets,14,lost,1st,Pakistan,Harare,28 Mar 1998
+Zimbabwe,lost,4 wickets,20,lost,1st,Pakistan,Harare,29 Mar 1998
+West Indies,lost,16 runs,,won,2nd,England,Bridgetown,29 Mar 1998
+India,won,41 runs,,won,1st,Australia,Kochi,1 Apr 1998
+West Indies,won,1 wickets,1,won,2nd,England,Bridgetown,1 Apr 1998
+South Africa,won,52 runs,,won,1st,Pakistan,Durban,3 Apr 1998
+West Indies,won,5 wickets,11,lost,2nd,England,Kingstown,4 Apr 1998
+India,won,13 runs,,lost,1st,Zimbabwe,Vadodara,5 Apr 1998
+South Africa,won,57 runs,,won,1st,Sri Lanka,Johannesburg,5 Apr 1998
+West Indies,won,4 wickets,74,lost,2nd,England,Kingstown,5 Apr 1998
+India,won,6 wickets,33,lost,2nd,Australia,Kanpur,7 Apr 1998
+West Indies,won,57 runs,,won,1st,England,Port of Spain,8 Apr 1998
+India,won,32 runs,,lost,1st,Zimbabwe,Cuttack,9 Apr 1998
+South Africa,won,3 wickets,22,won,2nd,Pakistan,East London,11 Apr 1998
+South Africa,lost,6 wickets,20,won,1st,Sri Lanka,Gqeberha,13 Apr 1998
+India,lost,4 wickets,8,won,1st,Australia,Delhi,14 Apr 1998
+South Africa,won,7 wickets,87,lost,2nd,Pakistan,Centurion,17 Apr 1998
+South Africa,won,5 wickets,141,won,2nd,Sri Lanka,Bloemfontein,19 Apr 1998
+South Africa,won,9 wickets,134,won,2nd,Pakistan,Cape Town,23 Apr 1998
+India,won,5 wickets,28,won,2nd,Bangladesh,Mohali,14 May 1998
+India,won,4 wickets,18,won,2nd,Kenya,Bengaluru,20 May 1998
+England,lost,3 wickets,8,lost,1st,South Africa,The Oval,21 May 1998
+England,lost,32 runs,,won,2nd,South Africa,Manchester,23 May 1998
+England,won,7 wickets,90,lost,2nd,South Africa,Leeds,24 May 1998
+India,won,5 wickets,124,lost,2nd,Bangladesh,Wankhede,25 May 1998
+India,lost,69 runs,,lost,2nd,Kenya,Gwalior,28 May 1998
+India,won,9 wickets,90,lost,2nd,Kenya,Kolkata,31 May 1998
+Sri Lanka,lost,8 wickets,38,won,1st,India,Colombo (RPS),19 Jun 1998
+Sri Lanka,won,7 wickets,60,lost,2nd,New Zealand,Colombo (RPS),21 Jun 1998
+Sri Lanka,won,8 runs,,lost,1st,India,Colombo (SSC),1 Jul 1998
+Sri Lanka,won,87 runs,,lost,1st,New Zealand,Colombo (SSC),5 Jul 1998
+Sri Lanka,lost,6 runs,,lost,2nd,India,Colombo (RPS),7 Jul 1998
+England,won,36 runs,,lost,1st,Sri Lanka,Lord's,16 Aug 1998
+England,lost,14 runs,,lost,2nd,South Africa,Birmingham,18 Aug 1998
+England,lost,5 wickets,17,won,1st,Sri Lanka,Lord's,20 Aug 1998
+Zimbabwe,lost,8 wickets,46,lost,1st,India,Bulawayo,26 Sep 1998
+Zimbabwe,lost,8 wickets,19,lost,1st,India,Bulawayo,27 Sep 1998
+Zimbabwe,won,37 runs,,lost,1st,India,Harare,30 Sep 1998
+Pakistan,lost,86 runs,,won,2nd,Australia,Karachi,6 Nov 1998
+Pakistan,lost,5 wickets,11,won,1st,Australia,Peshawar,8 Nov 1998
+Pakistan,lost,6 wickets,7,won,1st,Australia,Lahore,10 Nov 1998
+Pakistan,won,4 wickets,14,won,2nd,Zimbabwe,Gujranwala,20 Nov 1998
+Pakistan,lost,6 wickets,56,lost,1st,Zimbabwe,Sheikhupura,22 Nov 1998
+Pakistan,won,111 runs,,lost,1st,Zimbabwe,Rawalpindi,24 Nov 1998
+New Zealand,won,5 wickets,6,lost,2nd,India,Taupo,9 Jan 1999
+Australia,lost,7 runs,,lost,2nd,England,Brisbane,10 Jan 1999
+New Zealand,lost,2 wickets,1,lost,1st,India,Napier,12 Jan 1999
+Australia,won,8 wickets,23,lost,2nd,Sri Lanka,Sydney,13 Jan 1999
+Australia,won,9 wickets,64,lost,2nd,England,Melbourne,15 Jan 1999
+New Zealand,lost,5 wickets,37,lost,1st,India,Auckland,16 Jan 1999
+Australia,lost,7 runs,,lost,2nd,England,Sydney,17 Jan 1999
+New Zealand,won,70 runs,,lost,1st,India,Christchurch,19 Jan 1999
+Australia,lost,3 wickets,3,lost,1st,Sri Lanka,Hobart,21 Jan 1999
+South Africa,won,2 wickets,0,won,2nd,West Indies,Johannesburg,22 Jan 1999
+Australia,won,80 runs,,lost,1st,Sri Lanka,Adelaide,24 Jan 1999
+South Africa,lost,43 runs,,won,2nd,West Indies,East London,24 Jan 1999
+Australia,won,16 runs,,won,1st,England,Adelaide,26 Jan 1999
+South Africa,won,55 runs,,won,1st,West Indies,Durban,27 Jan 1999
+South Africa,won,99 runs,,lost,1st,West Indies,Gqeberha,30 Jan 1999
+Australia,won,45 runs,,lost,1st,Sri Lanka,Perth,31 Jan 1999
+South Africa,won,89 runs,,won,1st,West Indies,Cape Town,2 Feb 1999
+Australia,won,4 wickets,18,lost,2nd,England,Sydney,5 Feb 1999
+South Africa,won,114 runs,,won,1st,West Indies,Bloemfontein,5 Feb 1999
+Australia,won,43 runs,,won,1st,Sri Lanka,Melbourne,7 Feb 1999
+South Africa,won,50 runs,,won,1st,West Indies,Centurion,7 Feb 1999
+Australia,won,10 runs,,won,1st,England,Sydney,10 Feb 1999
+Australia,won,162 runs,,won,1st,England,Melbourne,13 Feb 1999
+New Zealand,won,3 wickets,5,won,2nd,South Africa,Dunedin,14 Feb 1999
+New Zealand,lost,7 wickets,42,won,1st,South Africa,Christchurch,17 Feb 1999
+New Zealand,won,7 wickets,41,won,2nd,South Africa,Auckland,20 Feb 1999
+Bangladesh,lost,152 runs,,won,2nd,Pakistan,Dhaka,16 Mar 1999
+Bangladesh,lost,8 wickets,37,won,1st,Kenya,Dhaka,20 Mar 1999
+Bangladesh,lost,126 runs,,lost,2nd,Zimbabwe,Dhaka,21 Mar 1999
+India,won,80 runs,,lost,1st,Sri Lanka,Nagpur,22 Mar 1999
+India,lost,143 runs,,lost,2nd,Pakistan,Jaipur,24 Mar 1999
+Bangladesh,lost,73 runs,,lost,2nd,Kenya,Dhaka,24 Mar 1999
+Bangladesh,lost,3 wickets,3,won,1st,Zimbabwe,Dhaka,25 Mar 1999
+New Zealand,lost,2 wickets,0,lost,1st,South Africa,Napier,26 Mar 1999
+New Zealand,lost,143 runs,,lost,2nd,South Africa,Auckland,27 Mar 1999
+India,won,51 runs,,lost,1st,Sri Lanka,Pune,30 Mar 1999
+India,lost,7 wickets,30,won,1st,Pakistan,Mohali,1 Apr 1999
+India,lost,123 runs,,lost,2nd,Pakistan,Bengaluru,4 Apr 1999
+West Indies,won,44 runs,,lost,1st,Australia,Kingstown,11 Apr 1999
+West Indies,lost,46 runs,,lost,2nd,Australia,St George's,14 Apr 1999
+West Indies,won,5 wickets,6,lost,2nd,Australia,Port of Spain,17 Apr 1999
+West Indies,lost,20 runs,,lost,2nd,Australia,Port of Spain,18 Apr 1999
+West Indies,tied,-,,lost,1st,Australia,Georgetown,21 Apr 1999
+West Indies,lost,4 wickets,9,won,1st,Australia,Bridgetown,24 Apr 1999
+West Indies,won,8 wickets,18,lost,2nd,Australia,Bridgetown,25 Apr 1999
+England,won,8 wickets,19,won,2nd,Sri Lanka,Lord's,14 May 1999
+England,won,9 wickets,66,won,2nd,Kenya,Canterbury,18 May 1999
+England,lost,122 runs,,won,2nd,South Africa,The Oval,22 May 1999
+Scotland,lost,22 runs,,won,2nd,Bangladesh,Edinburgh,24 May 1999
+England,won,7 wickets,69,won,2nd,Zimbabwe,Nottingham,25 May 1999
+England,lost,63 runs,,won,2nd,India,Birmingham,29 May 1999
+Scotland,lost,6 wickets,193,lost,1st,New Zealand,Edinburgh,31 May 1999
+Sri Lanka,lost,50 runs,,won,2nd,Australia,Galle,22 Aug 1999
+Sri Lanka,won,7 wickets,20,lost,2nd,India,Colombo (RPS),25 Aug 1999
+Sri Lanka,lost,27 runs,,lost,2nd,Australia,Colombo (RPS),26 Aug 1999
+Sri Lanka,lost,23 runs,,won,2nd,India,Colombo (SSC),29 Aug 1999
+Sri Lanka,won,8 wickets,63,lost,2nd,Australia,Colombo (RPS),31 Aug 1999
+Kenya,lost,3 wickets,4,lost,1st,Zimbabwe,Nairobi (Gym),25 Sep 1999
+Kenya,lost,58 runs,,won,2nd,India,Nairobi (Gym),29 Sep 1999
+Kenya,lost,24 runs,,won,2nd,South Africa,Nairobi (Gym),30 Sep 1999
+Bangladesh,lost,73 runs,,lost,2nd,West Indies,Dhaka,8 Oct 1999
+Bangladesh,lost,109 runs,,lost,2nd,West Indies,Dhaka,9 Oct 1999
+Zimbabwe,lost,83 runs,,won,2nd,Australia,Bulawayo,21 Oct 1999
+Zimbabwe,lost,9 wickets,129,lost,1st,Australia,Harare,23 Oct 1999
+Zimbabwe,lost,9 wickets,66,lost,1st,Australia,Harare,24 Oct 1999
+India,lost,43 runs,,lost,2nd,New Zealand,Rajkot,5 Nov 1999
+India,won,174 runs,,won,1st,New Zealand,Hyderabad (Deccan),8 Nov 1999
+India,won,14 runs,,won,1st,New Zealand,Gwalior,11 Nov 1999
+India,lost,48 runs,,won,2nd,New Zealand,Guwahati,14 Nov 1999
+India,won,7 wickets,36,lost,2nd,New Zealand,Delhi,17 Nov 1999
+Zimbabwe,lost,13 runs,,won,2nd,Sri Lanka,Bulawayo,12 Dec 1999
+Zimbabwe,lost,98 runs,,won,2nd,Sri Lanka,Harare,15 Dec 1999
+Zimbabwe,lost,6 wickets,32,won,1st,Sri Lanka,Harare,18 Dec 1999
+Zimbabwe,won,6 wickets,22,lost,2nd,Sri Lanka,Harare,19 Dec 1999
+New Zealand,won,3 wickets,5,lost,2nd,West Indies,Auckland,2 Jan 2000
+New Zealand,won,7 wickets,38,won,2nd,West Indies,Taupo,4 Jan 2000
+New Zealand,won,4 wickets,76,lost,2nd,West Indies,Napier,6 Jan 2000
+New Zealand,won,8 wickets,81,won,2nd,West Indies,Wellington,8 Jan 2000
+Australia,lost,45 runs,,lost,2nd,Pakistan,Brisbane,9 Jan 2000
+New Zealand,won,20 runs,,won,1st,West Indies,Christchurch,11 Jan 2000
+Australia,won,28 runs,,won,1st,India,Melbourne,12 Jan 2000
+Australia,won,5 wickets,139,lost,2nd,India,Sydney,14 Jan 2000
+Australia,won,6 wickets,13,won,2nd,Pakistan,Melbourne,16 Jan 2000
+Australia,won,81 runs,,won,1st,Pakistan,Sydney,19 Jan 2000
+South Africa,won,6 wickets,11,lost,2nd,Zimbabwe,Johannesburg,21 Jan 2000
+Australia,won,15 runs,,won,1st,Pakistan,Melbourne,23 Jan 2000
+South Africa,lost,9 wickets,63,won,1st,England,Bloemfontein,23 Jan 2000
+Australia,won,152 runs,,won,1st,India,Adelaide,26 Jan 2000
+South Africa,won,1 runs,,won,1st,England,Cape Town,26 Jan 2000
+Australia,won,4 wickets,3,lost,2nd,India,Perth,30 Jan 2000
+Australia,won,6 wickets,44,lost,2nd,Pakistan,Melbourne,2 Feb 2000
+South Africa,lost,2 wickets,0,won,1st,Zimbabwe,Durban,2 Feb 2000
+Australia,won,152 runs,,won,1st,Pakistan,Sydney,4 Feb 2000
+South Africa,won,2 wickets,2,won,2nd,England,East London,4 Feb 2000
+South Africa,won,53 runs,,won,1st,Zimbabwe,Gqeberha,6 Feb 2000
+Pakistan,lost,29 runs,,won,2nd,Sri Lanka,Karachi,13 Feb 2000
+South Africa,won,38 runs,,lost,1st,England,Johannesburg,13 Feb 2000
+Pakistan,lost,34 runs,,won,2nd,Sri Lanka,Gujranwala,16 Feb 2000
+Zimbabwe,lost,5 wickets,9,won,1st,England,Bulawayo,16 Feb 2000
+Zimbabwe,lost,1 wickets,22,lost,1st,England,Bulawayo,18 Feb 2000
+New Zealand,lost,5 wickets,152,won,1st,Australia,Auckland,19 Feb 2000
+Pakistan,lost,104 runs,,won,2nd,Sri Lanka,Lahore,19 Feb 2000
+Zimbabwe,lost,85 runs,,won,2nd,England,Harare,20 Feb 2000
+New Zealand,lost,50 runs,,won,2nd,Australia,Dunedin,23 Feb 2000
+New Zealand,lost,48 runs,,won,2nd,Australia,Christchurch,26 Feb 2000
+New Zealand,lost,5 wickets,26,lost,1st,Australia,Napier,1 Mar 2000
+New Zealand,won,7 wickets,54,lost,2nd,Australia,Auckland,3 Mar 2000
+India,won,3 wickets,2,lost,2nd,South Africa,Kochi,9 Mar 2000
+India,won,6 wickets,17,lost,2nd,South Africa,Jamshedpur,12 Mar 2000
+India,lost,2 wickets,6,lost,1st,South Africa,Faridabad,15 Mar 2000
+India,won,4 wickets,1,lost,2nd,South Africa,Vadodara,17 Mar 2000
+India,lost,10 runs,,won,2nd,South Africa,Nagpur,19 Mar 2000
+West Indies,won,87 runs,,lost,1st,Zimbabwe,Kingston,1 Apr 2000
+West Indies,won,41 runs,,won,1st,Zimbabwe,Kingston,2 Apr 2000
+South Africa,won,6 wickets,12,won,2nd,Australia,Durban,12 Apr 2000
+West Indies,won,96 runs,,won,1st,Pakistan,Kingstown,12 Apr 2000
+South Africa,lost,5 wickets,153,lost,1st,Australia,Cape Town,14 Apr 2000
+South Africa,won,4 wickets,13,won,2nd,Australia,Johannesburg,16 Apr 2000
+West Indies,won,17 runs,,won,1st,Pakistan,St George's,16 Apr 2000
+West Indies,lost,17 runs,,lost,2nd,Pakistan,Bridgetown,19 Apr 2000
+West Indies,won,60 runs,,won,1st,Pakistan,Port of Spain,22 Apr 2000
+West Indies,lost,4 wickets,29,won,1st,Pakistan,Port of Spain,23 Apr 2000
+Bangladesh,lost,9 wickets,116,lost,1st,Sri Lanka,Dhaka,29 May 2000
+Bangladesh,lost,8 wickets,59,won,1st,India,Dhaka,30 May 2000
+Bangladesh,lost,233 runs,,lost,2nd,Pakistan,Dhaka,2 Jun 2000
+Sri Lanka,won,5 wickets,45,won,2nd,Pakistan,Galle,5 Jul 2000
+Sri Lanka,won,37 runs,,lost,1st,South Africa,Galle,6 Jul 2000
+England,lost,5 wickets,10,won,1st,Zimbabwe,The Oval,8 Jul 2000
+Sri Lanka,won,6 wickets,4,lost,2nd,Pakistan,Colombo (RPS),9 Jul 2000
+Sri Lanka,won,8 wickets,135,won,2nd,South Africa,Colombo (SSC),11 Jul 2000
+England,won,8 wickets,177,lost,2nd,Zimbabwe,Manchester,13 Jul 2000
+Sri Lanka,won,30 runs,,won,1st,South Africa,Colombo (RPS),14 Jul 2000
+England,won,10 wickets,88,won,2nd,West Indies,Chester-le-Street,15 Jul 2000
+England,won,52 runs,,won,1st,Zimbabwe,Birmingham,18 Jul 2000
+England,lost,3 runs,,won,2nd,West Indies,Nottingham,20 Jul 2000
+England,won,6 wickets,28,won,2nd,Zimbabwe,Lord's,22 Jul 2000
+Australia,won,94 runs,,lost,1st,South Africa,Melbourne (Docklands),16 Aug 2000
+Australia,tied,-,,lost,2nd,South Africa,Melbourne (Docklands),18 Aug 2000
+Australia,lost,8 runs,,lost,2nd,South Africa,Melbourne (Docklands),20 Aug 2000
+Zimbabwe,lost,7 wickets,55,lost,1st,New Zealand,Harare,27 Sep 2000
+Zimbabwe,won,21 runs,,lost,1st,New Zealand,Bulawayo,30 Sep 2000
+Zimbabwe,won,6 wickets,13,lost,2nd,New Zealand,Bulawayo,1 Oct 2000
+Kenya,lost,8 wickets,45,lost,1st,India,Nairobi (Gym),3 Oct 2000
+South Africa,won,6 wickets,20,lost,2nd,New Zealand,Benoni,22 Oct 2000
+Pakistan,lost,5 wickets,16,won,1st,England,Karachi,24 Oct 2000
+South Africa,won,115 runs,,lost,1st,New Zealand,Centurion,25 Oct 2000
+Pakistan,won,8 wickets,34,won,2nd,England,Lahore,27 Oct 2000
+South Africa,won,5 wickets,7,won,2nd,New Zealand,Kimberley,28 Oct 2000
+Pakistan,won,6 wickets,39,won,2nd,England,Rawalpindi,30 Oct 2000
+South Africa,won,6 wickets,9,won,2nd,New Zealand,Durban,1 Nov 2000
+South Africa,won,3 wickets,0,won,2nd,New Zealand,Cape Town,4 Nov 2000
+India,won,3 wickets,10,lost,2nd,Zimbabwe,Cuttack,2 Dec 2000
+India,won,61 runs,,won,1st,Zimbabwe,Ahmedabad,5 Dec 2000
+India,lost,1 wickets,1,won,1st,Zimbabwe,Jodhpur,8 Dec 2000
+India,won,9 wickets,150,lost,2nd,Zimbabwe,Kanpur,11 Dec 2000
+India,won,39 runs,,lost,1st,Zimbabwe,Rajkot,14 Dec 2000
+South Africa,won,4 wickets,16,lost,2nd,Sri Lanka,Gqeberha,15 Dec 2000
+South Africa,won,95 runs,,won,1st,Sri Lanka,East London,17 Dec 2000
+New Zealand,lost,70 runs,,won,2nd,Zimbabwe,Taupo,2 Jan 2001
+New Zealand,won,8 wickets,28,lost,2nd,Zimbabwe,Wellington,4 Jan 2001
+New Zealand,lost,1 wickets,8,lost,1st,Zimbabwe,Auckland,7 Jan 2001
+South Africa,won,8 wickets,7,lost,2nd,Sri Lanka,Paarl,9 Jan 2001
+Australia,won,74 runs,,won,1st,West Indies,Melbourne,11 Jan 2001
+South Africa,won,99 runs,,won,1st,Sri Lanka,Cape Town,11 Jan 2001
+Australia,won,9 wickets,38,lost,2nd,West Indies,Brisbane,14 Jan 2001
+South Africa,won,5 wickets,48,won,2nd,Sri Lanka,Bloemfontein,14 Jan 2001
+Australia,won,28 runs,,lost,1st,West Indies,Sydney,17 Jan 2001
+South Africa,lost,4 runs,,won,2nd,Sri Lanka,Johannesburg,17 Jan 2001
+Australia,won,8 wickets,79,lost,2nd,Zimbabwe,Melbourne,21 Jan 2001
+Australia,won,10 wickets,163,lost,2nd,West Indies,Adelaide,26 Jan 2001
+Australia,won,86 runs,,won,1st,Zimbabwe,Sydney,28 Jan 2001
+Australia,won,6 wickets,36,won,2nd,Zimbabwe,Hobart,30 Jan 2001
+New Zealand,lost,61 runs,,lost,2nd,Sri Lanka,Napier,31 Jan 2001
+New Zealand,lost,3 wickets,3,won,1st,Sri Lanka,Wellington,3 Feb 2001
+Australia,won,1 runs,,won,1st,Zimbabwe,Perth,4 Feb 2001
+New Zealand,lost,9 wickets,103,lost,1st,Sri Lanka,Auckland,6 Feb 2001
+Australia,won,134 runs,,lost,1st,West Indies,Sydney,7 Feb 2001
+New Zealand,lost,3 runs,,lost,1st,Sri Lanka,Hamilton,8 Feb 2001
+Australia,won,39 runs,,lost,1st,West Indies,Melbourne,9 Feb 2001
+New Zealand,won,13 runs,,lost,1st,Sri Lanka,Christchurch,11 Feb 2001
+New Zealand,lost,6 wickets,30,lost,1st,Pakistan,Auckland,17 Feb 2001
+New Zealand,won,6 wickets,117,won,2nd,Pakistan,Napier,20 Feb 2001
+New Zealand,lost,28 runs,,won,2nd,Pakistan,Wellington,22 Feb 2001
+New Zealand,won,138 runs,,lost,1st,Pakistan,Christchurch,25 Feb 2001
+New Zealand,won,4 wickets,11,lost,2nd,Pakistan,Dunedin,28 Feb 2001
+Sri Lanka,won,5 wickets,55,lost,2nd,England,Dambulla,23 Mar 2001
+Sri Lanka,won,66 runs,,won,1st,England,Colombo (RPS),25 Mar 2001
+India,won,60 runs,,won,1st,Australia,Bengaluru,25 Mar 2001
+Sri Lanka,won,10 wickets,97,won,2nd,England,Colombo (SSC),27 Mar 2001
+India,lost,8 wickets,29,won,1st,Australia,Pune,28 Mar 2001
+India,won,118 runs,,lost,1st,Australia,Indore,31 Mar 2001
+India,lost,93 runs,,lost,2nd,Australia,Visakhapatnam,3 Apr 2001
+India,lost,4 wickets,12,won,1st,Australia,Margao,6 Apr 2001
+Zimbabwe,won,7 wickets,41,lost,2nd,Bangladesh,Harare,7 Apr 2001
+Zimbabwe,won,127 runs,,lost,1st,Bangladesh,Harare,8 Apr 2001
+Zimbabwe,won,36 runs,,won,1st,Bangladesh,Bulawayo,11 Apr 2001
+West Indies,won,3 wickets,0,won,2nd,South Africa,Kingston,28 Apr 2001
+West Indies,lost,8 wickets,25,lost,1st,South Africa,St John's,2 May 2001
+West Indies,lost,132 runs,,won,2nd,South Africa,St George's,5 May 2001
+West Indies,lost,8 wickets,23,lost,1st,South Africa,St George's,6 May 2001
+West Indies,lost,7 wickets,50,lost,1st,South Africa,Bridgetown,9 May 2001
+West Indies,lost,53 runs,,won,2nd,South Africa,Port of Spain,12 May 2001
+West Indies,won,6 wickets,34,lost,2nd,South Africa,Kingstown,16 May 2001
+England,lost,108 runs,,lost,2nd,Pakistan,Birmingham,7 Jun 2001
+England,lost,5 wickets,3,won,1st,Australia,Bristol,10 Jun 2001
+England,lost,2 runs,,won,2nd,Pakistan,Lord's,12 Jun 2001
+England,lost,125 runs,,lost,2nd,Australia,Manchester,14 Jun 2001
+England,lost,,,lost,1st,Pakistan,Leeds,17 Jun 2001
+England,lost,8 wickets,119,won,1st,Australia,The Oval,21 Jun 2001
+Zimbabwe,lost,27 runs,,won,2nd,West Indies,Harare,23 Jun 2001
+Zimbabwe,lost,9 wickets,142,lost,1st,India,Harare,24 Jun 2001
+Zimbabwe,lost,4 wickets,4,lost,1st,India,Bulawayo,27 Jun 2001
+Zimbabwe,lost,5 wickets,1,lost,1st,West Indies,Bulawayo,1 Jul 2001
+Sri Lanka,won,16 runs,,won,1st,New Zealand,Colombo (RPS),18 Jul 2001
+Sri Lanka,won,6 runs,,won,1st,India,Colombo (RPS),22 Jul 2001
+Sri Lanka,won,5 wickets,9,lost,2nd,New Zealand,Colombo (RPS),25 Jul 2001
+Sri Lanka,lost,7 wickets,26,won,1st,India,Colombo (RPS),28 Jul 2001
+Sri Lanka,won,106 runs,,lost,1st,New Zealand,Colombo (SSC),31 Jul 2001
+Sri Lanka,lost,46 runs,,won,2nd,India,Colombo (SSC),1 Aug 2001
+Sri Lanka,won,121 runs,,won,1st,India,Colombo (RPS),5 Aug 2001
+Kenya,lost,106 runs,,won,2nd,West Indies,Nairobi,15 Aug 2001
+Kenya,lost,6 wickets,25,won,1st,West Indies,Nairobi (Gym),18 Aug 2001
+Kenya,lost,7 wickets,17,won,1st,West Indies,Nairobi (Gym),19 Aug 2001
+Zimbabwe,lost,153 runs,,lost,2nd,South Africa,Bulawayo,23 Sep 2001
+Zimbabwe,lost,148 runs,,lost,2nd,South Africa,Harare,29 Sep 2001
+Zimbabwe,lost,6 wickets,54,won,1st,South Africa,Harare,30 Sep 2001
+Zimbabwe,lost,5 wickets,20,won,1st,England,Harare,3 Oct 2001
+South Africa,won,6 wickets,10,won,2nd,India,Johannesburg,5 Oct 2001
+Zimbabwe,lost,8 wickets,75,won,1st,England,Harare,6 Oct 2001
+Zimbabwe,lost,4 wickets,15,won,1st,England,Harare,7 Oct 2001
+South Africa,won,7 wickets,98,lost,2nd,Kenya,Benoni,7 Oct 2001
+Zimbabwe,lost,70 runs,,lost,2nd,England,Bulawayo,10 Oct 2001
+South Africa,lost,41 runs,,lost,2nd,India,Centurion,10 Oct 2001
+Zimbabwe,lost,7 wickets,38,won,1st,England,Bulawayo,13 Oct 2001
+South Africa,won,9 wickets,53,lost,2nd,Kenya,Kimberley,14 Oct 2001
+South Africa,won,46 runs,,won,1st,India,East London,19 Oct 2001
+South Africa,won,208 runs,,won,1st,Kenya,Cape Town,22 Oct 2001
+South Africa,won,6 wickets,47,won,2nd,India,Durban,26 Oct 2001
+Bangladesh,lost,5 wickets,46,lost,1st,Zimbabwe,Chattogram,23 Nov 2001
+Bangladesh,lost,42 runs,,lost,2nd,Zimbabwe,Dhaka,25 Nov 2001
+Bangladesh,lost,7 wickets,5,won,1st,Zimbabwe,Dhaka,26 Nov 2001
+Sri Lanka,won,9 wickets,274,won,2nd,Zimbabwe,Colombo (SSC),8 Dec 2001
+Sri Lanka,lost,49 runs,,lost,2nd,West Indies,Colombo (RPS),11 Dec 2001
+Sri Lanka,won,59 runs,,won,1st,Zimbabwe,Colombo (RPS),12 Dec 2001
+Sri Lanka,won,8 wickets,41,won,2nd,West Indies,Kandy,15 Dec 2001
+Sri Lanka,won,34 runs,,won,1st,West Indies,Colombo (RPS),19 Dec 2001
+Australia,lost,23 runs,,won,2nd,New Zealand,Melbourne,11 Jan 2002
+Australia,lost,4 wickets,9,won,1st,South Africa,Melbourne,13 Jan 2002
+Australia,lost,23 runs,,lost,2nd,New Zealand,Sydney,17 Jan 2002
+India,won,22 runs,,won,1st,England,Kolkata,19 Jan 2002
+Australia,won,27 runs,,won,1st,South Africa,Brisbane,20 Jan 2002
+Bangladesh,lost,49 runs,,lost,2nd,Pakistan,Chattogram,22 Jan 2002
+Australia,won,8 wickets,188,lost,2nd,South Africa,Sydney,22 Jan 2002
+India,lost,16 runs,,won,2nd,England,Cuttack,22 Jan 2002
+Bangladesh,lost,72 runs,,lost,2nd,Pakistan,Dhaka,24 Jan 2002
+Bangladesh,lost,8 wickets,81,won,1st,Pakistan,Dhaka,25 Jan 2002
+India,won,4 wickets,20,lost,2nd,England,Chennai,25 Jan 2002
+Australia,lost,77 runs,,lost,2nd,New Zealand,Adelaide,26 Jan 2002
+India,won,8 wickets,56,lost,2nd,England,Kanpur,28 Jan 2002
+Australia,won,2 wickets,3,lost,2nd,New Zealand,Melbourne,29 Jan 2002
+India,lost,2 runs,,won,2nd,England,Delhi,31 Jan 2002
+Australia,won,33 runs,,lost,1st,South Africa,Perth,3 Feb 2002
+India,lost,5 runs,,lost,2nd,England,Wankhede,3 Feb 2002
+New Zealand,won,4 wickets,21,lost,2nd,England,Christchurch,13 Feb 2002
+New Zealand,won,155 runs,,lost,1st,England,Wellington,16 Feb 2002
+New Zealand,lost,43 runs,,won,2nd,England,Napier,20 Feb 2002
+New Zealand,lost,33 runs,,lost,2nd,England,Auckland,23 Feb 2002
+New Zealand,won,5 wickets,7,lost,2nd,England,Dunedin,26 Feb 2002
+India,lost,1 wickets,2,won,1st,Zimbabwe,Faridabad,7 Mar 2002
+India,won,64 runs,,won,1st,Zimbabwe,Mohali,10 Mar 2002
+India,lost,6 wickets,34,won,1st,Zimbabwe,Kochi,13 Mar 2002
+India,won,5 wickets,11,lost,2nd,Zimbabwe,Hyderabad (Deccan),16 Mar 2002
+India,won,101 runs,,won,1st,Zimbabwe,Guwahati,19 Mar 2002
+South Africa,lost,19 runs,,lost,2nd,Australia,Johannesburg,22 Mar 2002
+South Africa,lost,45 runs,,won,2nd,Australia,Centurion,24 Mar 2002
+South Africa,tied,-,,won,1st,Australia,Potchefstroom,27 Mar 2002
+South Africa,lost,37 runs,,lost,2nd,Australia,Bloemfontein,30 Mar 2002
+South Africa,lost,8 wickets,13,lost,1st,Australia,Durban,3 Apr 2002
+South Africa,lost,3 wickets,5,won,1st,Australia,Gqeberha,6 Apr 2002
+South Africa,won,65 runs,,lost,1st,Australia,Cape Town,9 Apr 2002
+Pakistan,won,153 runs,,won,1st,New Zealand,Karachi,21 Apr 2002
+Pakistan,won,3 wickets,17,lost,2nd,New Zealand,Rawalpindi,24 Apr 2002
+Pakistan,won,66 runs,,won,1st,New Zealand,Lahore,27 Apr 2002
+West Indies,lost,7 wickets,31,lost,1st,India,Bridgetown,29 May 2002
+West Indies,won,7 wickets,17,lost,2nd,India,Port of Spain,1 Jun 2002
+West Indies,lost,56 runs,,lost,2nd,India,Port of Spain,2 Jun 2002
+West Indies,won,6 wickets,5,won,2nd,New Zealand,Gros Islet,8 Jun 2002
+West Indies,won,7 wickets,60,lost,2nd,New Zealand,Gros Islet,9 Jun 2002
+Australia,won,7 wickets,103,won,2nd,Pakistan,Melbourne (Docklands),12 Jun 2002
+West Indies,lost,9 runs,,lost,2nd,New Zealand,Port of Spain,12 Jun 2002
+Australia,lost,2 wickets,7,won,1st,Pakistan,Melbourne (Docklands),15 Jun 2002
+West Indies,won,4 wickets,0,lost,2nd,New Zealand,Kingstown,16 Jun 2002
+Australia,lost,91 runs,,lost,2nd,Pakistan,Brisbane,19 Jun 2002
+England,won,44 runs,,won,1st,Sri Lanka,Nottingham,27 Jun 2002
+England,lost,6 wickets,7,won,1st,India,Lord's,29 Jun 2002
+England,won,3 wickets,4,won,2nd,Sri Lanka,Leeds,2 Jul 2002
+England,lost,23 runs,,lost,2nd,Sri Lanka,Manchester,7 Jul 2002
+England,won,64 runs,,lost,1st,India,The Oval,9 Jul 2002
+England,lost,2 wickets,3,won,1st,India,Lord's,13 Jul 2002
+Sri Lanka,won,5 wickets,32,lost,2nd,Bangladesh,Colombo (SSC),4 Aug 2002
+Sri Lanka,won,8 wickets,206,lost,2nd,Bangladesh,Colombo (SSC),5 Aug 2002
+Sri Lanka,won,58 runs,,lost,1st,Bangladesh,Colombo (RPS),7 Aug 2002
+Kenya,lost,4 wickets,99,lost,1st,Pakistan,Nairobi (Gym),29 Aug 2002
+Kenya,lost,7 wickets,68,won,1st,Pakistan,Nairobi (Gym),1 Sep 2002
+Kenya,lost,8 wickets,198,lost,1st,Australia,Nairobi (Gym),2 Sep 2002
+Kenya,lost,5 wickets,5,won,1st,Australia,Nairobi (Gym),5 Sep 2002
+Sri Lanka,won,8 wickets,83,lost,2nd,Pakistan,Colombo (RPS),12 Sep 2002
+Sri Lanka,won,206 runs,,won,1st,Netherlands,Colombo (RPS),16 Sep 2002
+Sri Lanka,won,7 wickets,60,lost,2nd,Australia,Colombo (RPS),27 Sep 2002
+South Africa,won,168 runs,,won,1st,Bangladesh,Potchefstroom,3 Oct 2002
+South Africa,won,10 wickets,178,won,2nd,Bangladesh,Benoni,6 Oct 2002
+South Africa,won,7 wickets,146,lost,2nd,Bangladesh,Kimberley,9 Oct 2002
+India,lost,4 wickets,0,won,1st,West Indies,Jamshedpur,6 Nov 2002
+India,lost,7 wickets,4,lost,1st,West Indies,Nagpur,9 Nov 2002
+India,won,81 runs,,won,2nd,West Indies,Rajkot,12 Nov 2002
+India,won,5 wickets,14,won,2nd,West Indies,Ahmedabad,15 Nov 2002
+India,lost,5 wickets,7,lost,1st,West Indies,Vadodara,18 Nov 2002
+India,won,3 wickets,22,won,2nd,West Indies,Jodhpur,21 Nov 2002
+Zimbabwe,lost,7 runs,,lost,2nd,Pakistan,Bulawayo,23 Nov 2002
+India,lost,135 runs,,won,2nd,West Indies,Vijayawada,24 Nov 2002
+Zimbabwe,lost,104 runs,,lost,2nd,Pakistan,Bulawayo,24 Nov 2002
+Zimbabwe,lost,48 runs,,won,2nd,Pakistan,Harare,27 Nov 2002
+South Africa,won,6 wickets,123,won,2nd,Sri Lanka,Johannesburg,27 Nov 2002
+South Africa,won,177 runs,,won,1st,Sri Lanka,Centurion,29 Nov 2002
+Zimbabwe,lost,8 wickets,86,won,1st,Pakistan,Harare,30 Nov 2002
+Zimbabwe,lost,70 runs,,won,2nd,Pakistan,Harare,1 Dec 2002
+South Africa,lost,7 wickets,50,lost,1st,Sri Lanka,Benoni,1 Dec 2002
+Bangladesh,lost,84 runs,,lost,2nd,West Indies,Dhaka,2 Dec 2002
+Bangladesh,lost,86 runs,,lost,2nd,West Indies,Dhaka,3 Dec 2002
+South Africa,won,8 wickets,115,won,2nd,Sri Lanka,Kimberley,4 Dec 2002
+South Africa,won,6 wickets,29,lost,2nd,Sri Lanka,Bloemfontein,6 Dec 2002
+South Africa,won,132 runs,,lost,1st,Pakistan,Durban,8 Dec 2002
+Zimbabwe,won,47 runs,,lost,1st,Kenya,Kwekwe,11 Dec 2002
+South Africa,lost,182 runs,,lost,2nd,Pakistan,Gqeberha,11 Dec 2002
+Australia,won,7 wickets,30,lost,2nd,England,Sydney,13 Dec 2002
+South Africa,won,62 runs,,won,1st,Pakistan,East London,13 Dec 2002
+Australia,won,89 runs,,won,1st,England,Melbourne,15 Dec 2002
+Zimbabwe,won,9 wickets,204,lost,2nd,Kenya,Bulawayo,15 Dec 2002
+South Africa,won,9 wickets,48,lost,2nd,Pakistan,Paarl,16 Dec 2002
+South Africa,won,34 runs,,won,1st,Pakistan,Cape Town,18 Dec 2002
+Australia,won,142 runs,,won,1st,Sri Lanka,Perth,22 Dec 2002
+New Zealand,won,3 wickets,74,won,2nd,India,Auckland,26 Dec 2002
+New Zealand,won,35 runs,,lost,1st,India,Napier,29 Dec 2002
+New Zealand,won,5 wickets,139,lost,2nd,India,Christchurch,1 Jan 2003
+New Zealand,won,7 wickets,146,won,2nd,India,Queenstown,4 Jan 2003
+New Zealand,lost,2 wickets,40,won,1st,India,Wellington,8 Jan 2003
+Australia,lost,79 runs,,won,2nd,Sri Lanka,Sydney,9 Jan 2003
+Australia,won,7 runs,,won,1st,England,Hobart,11 Jan 2003
+New Zealand,lost,1 wickets,1,lost,1st,India,Auckland,11 Jan 2003
+New Zealand,won,6 wickets,128,won,2nd,India,Hamilton,14 Jan 2003
+Australia,won,4 wickets,7,lost,2nd,Sri Lanka,Brisbane,15 Jan 2003
+Australia,won,4 wickets,15,lost,2nd,England,Adelaide,19 Jan 2003
+Australia,won,9 wickets,93,lost,2nd,Sri Lanka,Melbourne,21 Jan 2003
+Australia,won,10 wickets,226,lost,2nd,England,Sydney,23 Jan 2003
+Australia,won,5 runs,,won,1st,England,Melbourne,25 Jan 2003
+South Africa,lost,3 runs,,lost,2nd,West Indies,Cape Town,9 Feb 2003
+Zimbabwe,won,86 runs,,lost,1st,Namibia,Harare,10 Feb 2003
+South Africa,won,10 wickets,172,lost,2nd,Kenya,Potchefstroom,12 Feb 2003
+Zimbabwe,won,,,-,-,England,Harare,13 Feb 2003
+South Africa,lost,9 wickets,13,won,1st,New Zealand,Johannesburg,16 Feb 2003
+Zimbabwe,lost,83 runs,,won,2nd,India,Harare,19 Feb 2003
+Kenya,won,,,-,-,New Zealand,Nairobi (Gym),21 Feb 2003
+South Africa,won,10 wickets,228,won,2nd,Bangladesh,Bloemfontein,22 Feb 2003
+Kenya,won,53 runs,,lost,1st,Sri Lanka,Nairobi (Gym),24 Feb 2003
+Zimbabwe,lost,7 wickets,15,won,1st,Australia,Bulawayo,24 Feb 2003
+South Africa,won,118 runs,,lost,1st,Canada,East London,27 Feb 2003
+Zimbabwe,won,99 runs,,lost,1st,Netherlands,Bulawayo,28 Feb 2003
+South Africa,tied,-,,lost,2nd,Sri Lanka,Durban,3 Mar 2003
+Bangladesh,lost,200 runs,,lost,2nd,India,Dhaka,11 Apr 2003
+Bangladesh,lost,83 runs,,lost,2nd,South Africa,Dhaka,14 Apr 2003
+Bangladesh,lost,4 wickets,43,won,1st,India,Dhaka,16 Apr 2003
+Bangladesh,lost,93 runs,,lost,2nd,South Africa,Dhaka,17 Apr 2003
+Sri Lanka,lost,79 runs,,won,2nd,Pakistan,Dambulla,10 May 2003
+Sri Lanka,won,5 wickets,14,won,2nd,New Zealand,Dambulla,13 May 2003
+West Indies,lost,2 runs,,won,2nd,Australia,Kingston,17 May 2003
+Sri Lanka,won,12 runs,,lost,1st,Pakistan,Dambulla,18 May 2003
+West Indies,lost,8 wickets,89,won,1st,Australia,Kingston,18 May 2003
+Sri Lanka,lost,9 runs,,won,2nd,New Zealand,Dambulla,19 May 2003
+West Indies,lost,25 runs,,won,2nd,Australia,Gros Islet,21 May 2003
+West Indies,lost,67 runs,,lost,2nd,Australia,Port of Spain,24 May 2003
+West Indies,won,39 runs,,won,1st,Australia,Port of Spain,25 May 2003
+West Indies,won,3 wickets,8,lost,2nd,Australia,St George's,30 May 2003
+West Indies,won,9 wickets,39,lost,2nd,Australia,St George's,1 Jun 2003
+West Indies,lost,55 runs,,won,2nd,Sri Lanka,Bridgetown,7 Jun 2003
+West Indies,lost,4 wickets,3,won,1st,Sri Lanka,Bridgetown,8 Jun 2003
+West Indies,won,6 wickets,31,won,2nd,Sri Lanka,Kingstown,11 Jun 2003
+England,lost,2 wickets,4,won,1st,Pakistan,Manchester,17 Jun 2003
+England,won,7 wickets,168,lost,2nd,Pakistan,The Oval,20 Jun 2003
+England,won,4 wickets,9,won,2nd,Pakistan,Lord's,22 Jun 2003
+England,lost,4 wickets,12,lost,1st,Zimbabwe,Nottingham,26 Jun 2003
+England,won,6 wickets,25,lost,2nd,South Africa,The Oval,28 Jun 2003
+England,lost,7 wickets,15,won,1st,South Africa,Manchester,3 Jul 2003
+England,won,6 wickets,193,won,2nd,Zimbabwe,Bristol,6 Jul 2003
+England,won,4 wickets,66,lost,2nd,South Africa,Birmingham,8 Jul 2003
+England,won,7 wickets,178,won,2nd,South Africa,Lord's,12 Jul 2003
+Australia,won,8 wickets,165,won,2nd,Bangladesh,Cairns,2 Aug 2003
+Australia,won,9 wickets,178,lost,2nd,Bangladesh,Cairns,3 Aug 2003
+Australia,won,112 runs,,won,1st,Bangladesh,Darwin,6 Aug 2003
+Pakistan,won,137 runs,,won,1st,Bangladesh,Multan,9 Sep 2003
+Pakistan,won,74 runs,,won,1st,Bangladesh,Faisalabad,12 Sep 2003
+Pakistan,won,42 runs,,won,1st,Bangladesh,Lahore,15 Sep 2003
+Pakistan,won,5 wickets,1,lost,2nd,Bangladesh,Rawalpindi,18 Sep 2003
+Pakistan,won,58 runs,,won,1st,Bangladesh,Karachi,21 Sep 2003
+Pakistan,won,8 runs,,won,1st,South Africa,Lahore,3 Oct 2003
+Pakistan,won,42 runs,,lost,1st,South Africa,Lahore,5 Oct 2003
+Pakistan,lost,13 runs,,won,1st,South Africa,Faisalabad,7 Oct 2003
+Pakistan,lost,6 wickets,67,won,1st,South Africa,Rawalpindi,10 Oct 2003
+Pakistan,lost,7 wickets,25,won,1st,South Africa,Rawalpindi,12 Oct 2003
+India,won,37 runs,,won,1st,Australia,Gwalior,26 Oct 2003
+India,lost,77 runs,,lost,2nd,Australia,Wankhede,1 Nov 2003
+India,lost,4 wickets,15,won,1st,New Zealand,Cuttack,6 Nov 2003
+Bangladesh,lost,7 wickets,147,won,1st,England,Chattogram,7 Nov 2003
+Bangladesh,lost,7 wickets,134,won,1st,England,Dhaka,10 Nov 2003
+Bangladesh,lost,7 wickets,63,won,1st,England,Dhaka,12 Nov 2003
+India,lost,61 runs,,lost,2nd,Australia,Bengaluru,12 Nov 2003
+India,won,145 runs,,won,1st,New Zealand,Hyderabad (Deccan),15 Nov 2003
+Sri Lanka,won,10 wickets,217,lost,2nd,England,Dambulla,18 Nov 2003
+India,lost,37 runs,,lost,2nd,Australia,Kolkata,18 Nov 2003
+Zimbabwe,lost,51 runs,,lost,2nd,West Indies,Bulawayo,22 Nov 2003
+Zimbabwe,won,6 wickets,122,lost,2nd,West Indies,Bulawayo,23 Nov 2003
+Zimbabwe,won,21 runs,,lost,1st,West Indies,Harare,26 Nov 2003
+Pakistan,won,3 wickets,12,lost,2nd,New Zealand,Lahore,29 Nov 2003
+Zimbabwe,lost,72 runs,,won,2nd,West Indies,Harare,29 Nov 2003
+Zimbabwe,lost,8 wickets,146,won,1st,West Indies,Harare,30 Nov 2003
+Pakistan,won,124 runs,,won,1st,New Zealand,Lahore,1 Dec 2003
+Pakistan,won,51 runs,,won,1st,New Zealand,Faisalabad,3 Dec 2003
+Pakistan,won,7 wickets,52,lost,2nd,New Zealand,Rawalpindi,5 Dec 2003
+Pakistan,won,49 runs,,won,1st,New Zealand,Rawalpindi,7 Dec 2003
+New Zealand,won,4 wickets,5,won,2nd,Pakistan,Auckland,3 Jan 2004
+New Zealand,lost,6 wickets,18,lost,1st,Pakistan,Queenstown,7 Jan 2004
+Australia,won,18 runs,,won,1st,India,Melbourne,9 Jan 2004
+New Zealand,won,7 wickets,22,won,2nd,Pakistan,Christchurch,10 Jan 2004
+Australia,won,99 runs,,won,1st,Zimbabwe,Sydney,11 Jan 2004
+New Zealand,won,8 wickets,163,won,2nd,Pakistan,Napier,14 Jan 2004
+Australia,won,148 runs,,won,1st,Zimbabwe,Hobart,16 Jan 2004
+New Zealand,won,4 runs,,won,1st,Pakistan,Wellington,17 Jan 2004
+Australia,lost,19 runs,,lost,2nd,India,Brisbane,18 Jan 2004
+Australia,won,2 wickets,1,lost,2nd,India,Sydney,22 Jan 2004
+South Africa,won,209 runs,,won,1st,West Indies,Cape Town,25 Jan 2004
+Australia,won,13 runs,,won,1st,Zimbabwe,Adelaide,26 Jan 2004
+South Africa,won,16 runs,,won,1st,West Indies,Gqeberha,28 Jan 2004
+Australia,won,5 wickets,108,lost,2nd,India,Perth,1 Feb 2004
+South Africa,lost,7 wickets,30,won,1st,West Indies,Centurion,1 Feb 2004
+South Africa,won,4 wickets,2,lost,2nd,West Indies,Johannesburg,4 Feb 2004
+Australia,won,7 wickets,59,lost,2nd,India,Melbourne,6 Feb 2004
+Australia,won,208 runs,,won,1st,India,Sydney,8 Feb 2004
+New Zealand,lost,5 wickets,2,lost,1st,South Africa,Auckland,13 Feb 2004
+New Zealand,won,5 wickets,29,lost,2nd,South Africa,Christchurch,17 Feb 2004
+New Zealand,won,5 runs,,lost,1st,South Africa,Wellington,20 Feb 2004
+Sri Lanka,lost,84 runs,,lost,2nd,Australia,Dambulla,20 Feb 2004
+Sri Lanka,won,1 runs,,won,1st,Australia,Dambulla,22 Feb 2004
+New Zealand,won,6 wickets,6,won,2nd,South Africa,Dunedin,25 Feb 2004
+Sri Lanka,lost,5 wickets,9,won,1st,Australia,Colombo (RPS),25 Feb 2004
+Sri Lanka,lost,40 runs,,lost,2nd,Australia,Colombo (RPS),27 Feb 2004
+New Zealand,won,2 runs,,lost,1st,South Africa,Auckland,29 Feb 2004
+Sri Lanka,won,3 wickets,13,lost,2nd,Australia,Colombo (SSC),29 Feb 2004
+New Zealand,won,5 wickets,24,lost,2nd,South Africa,Napier,2 Mar 2004
+Zimbabwe,lost,8 runs,,won,2nd,Bangladesh,Harare,10 Mar 2004
+Zimbabwe,won,14 runs,,won,1st,Bangladesh,Harare,12 Mar 2004
+Pakistan,lost,5 runs,,won,2nd,India,Karachi,13 Mar 2004
+Zimbabwe,won,3 wickets,45,lost,2nd,Bangladesh,Harare,14 Mar 2004
+Pakistan,won,12 runs,,won,1st,India,Rawalpindi,16 Mar 2004
+Pakistan,won,4 wickets,16,won,2nd,India,Peshawar,19 Mar 2004
+Pakistan,lost,5 wickets,30,won,1st,India,Lahore,21 Mar 2004
+Pakistan,lost,40 runs,,won,2nd,India,Lahore,24 Mar 2004
+West Indies,lost,2 wickets,3,lost,1st,England,Georgetown,18 Apr 2004
+Zimbabwe,lost,12 runs,,lost,1st,Sri Lanka,Bulawayo,20 Apr 2004
+Zimbabwe,lost,9 wickets,175,lost,1st,Sri Lanka,Bulawayo,22 Apr 2004
+Zimbabwe,lost,9 wickets,244,lost,1st,Sri Lanka,Harare,25 Apr 2004
+Zimbabwe,lost,72 runs,,won,2nd,Sri Lanka,Harare,27 Apr 2004
+Zimbabwe,lost,25 runs,,lost,2nd,Sri Lanka,Harare,29 Apr 2004
+West Indies,won,5 wickets,12,won,2nd,England,Gros Islet,1 May 2004
+West Indies,won,4 wickets,17,won,2nd,England,Gros Islet,2 May 2004
+West Indies,lost,5 wickets,16,lost,1st,England,Bridgetown,5 May 2004
+West Indies,won,1 wickets,20,won,2nd,Bangladesh,Kingstown,15 May 2004
+West Indies,won,23 runs,,lost,1st,Bangladesh,Kingstown,16 May 2004
+West Indies,won,7 wickets,5,lost,2nd,Bangladesh,St George's,19 May 2004
+Zimbabwe,lost,7 wickets,62,won,1st,Australia,Harare,25 May 2004
+Zimbabwe,lost,139 runs,,won,2nd,Australia,Harare,27 May 2004
+Zimbabwe,lost,8 wickets,116,lost,1st,Australia,Harare,29 May 2004
+England,lost,7 wickets,106,lost,1st,West Indies,Nottingham,27 Jun 2004
+England,lost,7 wickets,196,lost,1st,New Zealand,Chester-le-Street,29 Jun 2004
+England,won,7 wickets,168,won,2nd,West Indies,Leeds,1 Jul 2004
+England,lost,6 wickets,16,lost,1st,New Zealand,Bristol,4 Jul 2004
+England,lost,7 wickets,5,lost,1st,West Indies,Lord's,6 Jul 2004
+Sri Lanka,won,116 runs,,won,1st,U.A.E.,Dambulla,17 Jul 2004
+Sri Lanka,won,12 runs,,won,1st,India,Dambulla,18 Jul 2004
+Sri Lanka,won,7 wickets,108,lost,2nd,Pakistan,Colombo (RPS),21 Jul 2004
+Sri Lanka,won,10 wickets,99,lost,2nd,Bangladesh,Colombo (RPS),23 Jul 2004
+Sri Lanka,lost,4 runs,,lost,2nd,India,Colombo (RPS),27 Jul 2004
+Sri Lanka,won,25 runs,,won,1st,India,Colombo (RPS),1 Aug 2004
+Sri Lanka,won,3 wickets,6,lost,2nd,South Africa,Colombo (RPS),20 Aug 2004
+Sri Lanka,won,37 runs,,won,1st,South Africa,Colombo (RPS),22 Aug 2004
+Sri Lanka,won,4 wickets,14,lost,2nd,South Africa,Dambulla,25 Aug 2004
+Sri Lanka,won,7 wickets,23,won,2nd,South Africa,Dambulla,28 Aug 2004
+Sri Lanka,won,49 runs,,lost,1st,South Africa,Colombo (SSC),31 Aug 2004
+England,won,7 wickets,106,won,2nd,India,Nottingham,1 Sep 2004
+England,won,70 runs,,lost,1st,India,The Oval,3 Sep 2004
+England,lost,23 runs,,lost,2nd,India,Lord's,5 Sep 2004
+England,won,152 runs,,lost,1st,Zimbabwe,Birmingham,10 Sep 2004
+England,won,49 runs,,lost,1st,Sri Lanka,Southampton,17 Sep 2004
+England,won,6 wickets,21,won,2nd,Australia,Birmingham,21 Sep 2004
+England,lost,2 wickets,7,lost,1st,West Indies,The Oval,25 Sep 2004
+Pakistan,won,144 runs,,won,1st,Zimbabwe,Multan,30 Sep 2004
+Pakistan,won,3 wickets,11,won,2nd,Zimbabwe,Peshawar,3 Oct 2004
+Pakistan,won,8 wickets,8,lost,2nd,Sri Lanka,Karachi,6 Oct 2004
+Pakistan,won,6 wickets,7,won,2nd,Sri Lanka,Lahore,14 Oct 2004
+Pakistan,lost,119 runs,,won,2nd,Sri Lanka,Lahore,16 Oct 2004
+Bangladesh,lost,138 runs,,lost,2nd,New Zealand,Chattogram,2 Nov 2004
+Bangladesh,lost,3 wickets,32,won,1st,New Zealand,Dhaka,5 Nov 2004
+Bangladesh,lost,83 runs,,lost,2nd,New Zealand,Dhaka,7 Nov 2004
+India,lost,6 wickets,6,won,1st,Pakistan,Kolkata,13 Nov 2004
+Zimbabwe,lost,5 wickets,14,lost,1st,England,Harare,28 Nov 2004
+Zimbabwe,lost,161 runs,,lost,2nd,England,Harare,1 Dec 2004
+Zimbabwe,lost,8 wickets,41,won,1st,England,Bulawayo,4 Dec 2004
+Australia,lost,4 wickets,2,lost,1st,New Zealand,Melbourne (Docklands),5 Dec 2004
+Zimbabwe,lost,74 runs,,lost,2nd,England,Bulawayo,5 Dec 2004
+Australia,won,17 runs,,won,1st,New Zealand,Sydney,8 Dec 2004
+Bangladesh,lost,11 runs,,won,2nd,India,Chattogram,23 Dec 2004
+New Zealand,won,7 wickets,102,won,2nd,Sri Lanka,Auckland,26 Dec 2004
+Bangladesh,won,15 runs,,won,1st,India,Dhaka,26 Dec 2004
+Bangladesh,lost,91 runs,,lost,2nd,India,Dhaka,27 Dec 2004
+Australia,won,116 runs,,won,1st,West Indies,Melbourne,14 Jan 2005
+Australia,won,4 wickets,12,lost,2nd,Pakistan,Hobart,16 Jan 2005
+Bangladesh,lost,22 runs,,lost,2nd,Zimbabwe,Dhaka,20 Jan 2005
+Australia,won,9 wickets,82,won,2nd,Pakistan,Sydney,23 Jan 2005
+Bangladesh,lost,31 runs,,lost,2nd,Zimbabwe,Chattogram,24 Jan 2005
+Bangladesh,won,40 runs,,won,1st,Zimbabwe,Chattogram,26 Jan 2005
+Australia,won,73 runs,,won,1st,West Indies,Adelaide,26 Jan 2005
+Bangladesh,won,58 runs,,won,1st,Zimbabwe,Dhaka,29 Jan 2005
+Australia,lost,3 wickets,16,won,1st,Pakistan,Perth,30 Jan 2005
+South Africa,lost,26 runs,,lost,1st,England,Johannesburg,30 Jan 2005
+Bangladesh,won,8 wickets,102,lost,2nd,Zimbabwe,Dhaka,31 Jan 2005
+South Africa,tied,-,,won,2nd,England,Bloemfontein,2 Feb 2005
+Australia,won,18 runs,,won,1st,Pakistan,Melbourne,4 Feb 2005
+South Africa,won,3 wickets,5,lost,2nd,England,Gqeberha,4 Feb 2005
+Australia,won,31 runs,,won,1st,Pakistan,Sydney,6 Feb 2005
+South Africa,won,108 runs,,lost,1st,England,Cape Town,6 Feb 2005
+South Africa,won,7 runs,,won,1st,England,East London,9 Feb 2005
+South Africa,won,3 wickets,6,won,2nd,England,Centurion,13 Feb 2005
+New Zealand,lost,10 runs,,lost,2nd,Australia,Wellington,19 Feb 2005
+New Zealand,lost,106 runs,,won,2nd,Australia,Christchurch,22 Feb 2005
+South Africa,won,165 runs,,lost,1st,Zimbabwe,Johannesburg,25 Feb 2005
+New Zealand,lost,86 runs,,lost,2nd,Australia,Auckland,26 Feb 2005
+South Africa,won,131 runs,,lost,1st,Zimbabwe,Durban,27 Feb 2005
+New Zealand,lost,7 wickets,94,lost,1st,Australia,Wellington,1 Mar 2005
+South Africa,won,5 wickets,21,lost,2nd,Zimbabwe,Gqeberha,2 Mar 2005
+New Zealand,lost,122 runs,,won,2nd,Australia,Napier,5 Mar 2005
+India,won,87 runs,,won,1st,Pakistan,Kochi,2 Apr 2005
+India,won,58 runs,,won,1st,Pakistan,Visakhapatnam,5 Apr 2005
+India,lost,106 runs,,lost,2nd,Pakistan,Jamshedpur,9 Apr 2005
+India,lost,3 wickets,0,won,1st,Pakistan,Ahmedabad,12 Apr 2005
+India,lost,5 wickets,47,won,1st,Pakistan,Kanpur,15 Apr 2005
+India,lost,159 runs,,lost,2nd,Pakistan,Delhi,17 Apr 2005
+West Indies,lost,8 wickets,30,won,1st,South Africa,Kingston,7 May 2005
+West Indies,lost,8 wickets,38,lost,1st,South Africa,Kingston,8 May 2005
+West Indies,lost,1 runs,,won,2nd,South Africa,Bridgetown,11 May 2005
+West Indies,lost,6 wickets,19,lost,1st,South Africa,Port of Spain,14 May 2005
+West Indies,lost,7 wickets,5,lost,1st,South Africa,Port of Spain,15 May 2005
+West Indies,lost,59 runs,,won,2nd,Pakistan,Kingstown,18 May 2005
+West Indies,lost,40 runs,,lost,2nd,Pakistan,Gros Islet,21 May 2005
+West Indies,lost,22 runs,,won,2nd,Pakistan,Gros Islet,22 May 2005
+England,won,10 wickets,151,won,2nd,Bangladesh,The Oval,16 Jun 2005
+England,won,3 wickets,15,lost,2nd,Australia,Bristol,19 Jun 2005
+England,won,168 runs,,won,1st,Bangladesh,Nottingham,21 Jun 2005
+England,lost,57 runs,,won,2nd,Australia,Chester-le-Street,23 Jun 2005
+England,won,5 wickets,67,lost,2nd,Bangladesh,Leeds,26 Jun 2005
+England,tied,-,,won,2nd,Australia,Lord's,2 Jul 2005
+England,won,9 wickets,24,won,2nd,Australia,Leeds,7 Jul 2005
+England,lost,7 wickets,34,lost,1st,Australia,Lord's,10 Jul 2005
+England,lost,8 wickets,91,lost,1st,Australia,The Oval,12 Jul 2005
+Sri Lanka,won,3 wickets,10,lost,2nd,India,Dambulla,30 Jul 2005
+Sri Lanka,won,50 runs,,won,1st,West Indies,Dambulla,2 Aug 2005
+Sri Lanka,won,4 wickets,12,lost,2nd,India,Dambulla,3 Aug 2005
+Sri Lanka,lost,33 runs,,lost,2nd,West Indies,Colombo (RPS),6 Aug 2005
+Sri Lanka,won,18 runs,,won,1st,India,Colombo (RPS),9 Aug 2005
+Zimbabwe,lost,192 runs,,won,2nd,New Zealand,Bulawayo,24 Aug 2005
+Zimbabwe,lost,161 runs,,won,2nd,India,Harare,29 Aug 2005
+Sri Lanka,won,88 runs,,lost,1st,Bangladesh,Colombo (SSC),31 Aug 2005
+Zimbabwe,lost,27 runs,,lost,2nd,New Zealand,Harare,31 Aug 2005
+Sri Lanka,won,75 runs,,lost,1st,Bangladesh,Colombo (RPS),2 Sep 2005
+Sri Lanka,won,6 wickets,148,won,2nd,Bangladesh,Colombo (RPS),4 Sep 2005
+Zimbabwe,lost,4 wickets,11,lost,1st,India,Harare,4 Sep 2005
+Australia,won,93 runs,,won,1st,ICC World XI,Melbourne (Docklands),5 Oct 2005
+Australia,won,55 runs,,won,1st,ICC World XI,Melbourne (Docklands),7 Oct 2005
+Australia,won,156 runs,,won,1st,ICC World XI,Melbourne (Docklands),9 Oct 2005
+South Africa,won,2 wickets,3,lost,2nd,New Zealand,Bloemfontein,23 Oct 2005
+India,won,152 runs,,won,1st,Sri Lanka,Nagpur,25 Oct 2005
+India,won,8 wickets,178,won,2nd,Sri Lanka,Mohali,28 Oct 2005
+South Africa,won,19 runs,,won,1st,New Zealand,Cape Town,28 Oct 2005
+South Africa,won,4 wickets,4,won,2nd,New Zealand,Gqeberha,30 Oct 2005
+India,won,6 wickets,23,lost,2nd,Sri Lanka,Jaipur,31 Oct 2005
+India,won,4 wickets,26,won,2nd,Sri Lanka,Pune,3 Nov 2005
+South Africa,won,5 wickets,11,won,2nd,New Zealand,Centurion,6 Nov 2005
+India,lost,5 wickets,14,lost,1st,Sri Lanka,Ahmedabad,6 Nov 2005
+India,won,7 wickets,91,won,2nd,Sri Lanka,Rajkot,9 Nov 2005
+India,won,5 wickets,63,lost,2nd,Sri Lanka,Vadodara,12 Nov 2005
+India,lost,5 wickets,7,lost,1st,South Africa,Hyderabad (Deccan),16 Nov 2005
+India,won,6 wickets,86,won,2nd,South Africa,Bengaluru,19 Nov 2005
+India,lost,10 wickets,85,lost,1st,South Africa,Kolkata,25 Nov 2005
+India,won,5 wickets,15,won,2nd,South Africa,Wankhede,28 Nov 2005
+New Zealand,lost,147 runs,,won,2nd,Australia,Auckland,3 Dec 2005
+New Zealand,lost,2 runs,,lost,2nd,Australia,Wellington,7 Dec 2005
+New Zealand,won,2 wickets,6,won,2nd,Australia,Christchurch,10 Dec 2005
+Pakistan,lost,42 runs,,lost,2nd,England,Lahore,10 Dec 2005
+Pakistan,won,7 wickets,36,lost,2nd,England,Lahore,12 Dec 2005
+Pakistan,won,165 runs,,lost,1st,England,Karachi,15 Dec 2005
+Pakistan,won,13 runs,,won,1st,England,Rawalpindi,19 Dec 2005
+Pakistan,lost,6 runs,,lost,2nd,England,Rawalpindi,21 Dec 2005
+New Zealand,won,7 wickets,76,won,2nd,Sri Lanka,Queenstown,31 Dec 2005
+New Zealand,won,5 wickets,12,won,2nd,Sri Lanka,Christchurch,3 Jan 2006
+New Zealand,won,21 runs,,won,1st,Sri Lanka,Wellington,6 Jan 2006
+New Zealand,lost,20 runs,,lost,2nd,Sri Lanka,Napier,8 Jan 2006
+Australia,won,116 runs,,lost,1st,Sri Lanka,Melbourne (Docklands),13 Jan 2006
+Australia,lost,5 wickets,7,won,1st,South Africa,Brisbane,15 Jan 2006
+Australia,won,59 runs,,won,1st,South Africa,Melbourne (Docklands),20 Jan 2006
+Australia,lost,51 runs,,lost,2nd,Sri Lanka,Sydney,22 Jan 2006
+Australia,won,5 wickets,9,lost,2nd,Sri Lanka,Adelaide,26 Jan 2006
+Australia,won,6 wickets,54,lost,2nd,Sri Lanka,Perth,29 Jan 2006
+Australia,won,80 runs,,won,1st,South Africa,Melbourne (Docklands),3 Feb 2006
+Australia,won,57 runs,,won,1st,South Africa,Sydney,5 Feb 2006
+Pakistan,won,7 runs,,won,2nd,India,Peshawar,6 Feb 2006
+Australia,lost,22 runs,,lost,2nd,Sri Lanka,Adelaide,10 Feb 2006
+Pakistan,lost,7 wickets,41,won,1st,India,Rawalpindi,11 Feb 2006
+Australia,won,167 runs,,won,1st,Sri Lanka,Sydney,12 Feb 2006
+Pakistan,lost,5 wickets,14,lost,1st,India,Lahore,13 Feb 2006
+Australia,won,9 wickets,27,lost,2nd,Sri Lanka,Brisbane,14 Feb 2006
+Pakistan,lost,5 wickets,105,lost,1st,India,Multan,16 Feb 2006
+New Zealand,won,81 runs,,won,1st,West Indies,Wellington,18 Feb 2006
+Pakistan,lost,8 wickets,19,lost,1st,India,Karachi,19 Feb 2006
+Bangladesh,lost,5 wickets,155,won,1st,Sri Lanka,Bogra,20 Feb 2006
+New Zealand,won,3 wickets,48,won,2nd,West Indies,Queenstown,22 Feb 2006
+Bangladesh,won,4 wickets,12,won,2nd,Sri Lanka,Bogra,22 Feb 2006
+New Zealand,won,21 runs,,won,1st,West Indies,Christchurch,25 Feb 2006
+Bangladesh,lost,78 runs,,won,2nd,Sri Lanka,Chattogram,25 Feb 2006
+Zimbabwe,won,8 wickets,39,lost,2nd,Kenya,Bulawayo,25 Feb 2006
+Zimbabwe,lost,79 runs,,won,2nd,Kenya,Bulawayo,26 Feb 2006
+South Africa,won,6 wickets,21,lost,2nd,Australia,Centurion,26 Feb 2006
+New Zealand,won,91 runs,,lost,1st,West Indies,Napier,1 Mar 2006
+Zimbabwe,lost,65 runs,,lost,2nd,Kenya,Harare,1 Mar 2006
+Zimbabwe,won,109 runs,,won,1st,Kenya,Harare,3 Mar 2006
+South Africa,won,196 runs,,won,1st,Australia,Cape Town,3 Mar 2006
+New Zealand,lost,3 wickets,2,won,1st,West Indies,Auckland,4 Mar 2006
+South Africa,lost,24 runs,,won,2nd,Australia,Gqeberha,5 Mar 2006
+South Africa,lost,1 wickets,5,won,1st,Australia,Durban,10 Mar 2006
+South Africa,won,1 wickets,1,lost,2nd,Australia,Johannesburg,12 Mar 2006
+Bangladesh,won,131 runs,,won,1st,Kenya,Bogra,17 Mar 2006
+Sri Lanka,lost,4 wickets,32,lost,1st,Pakistan,Colombo (RPS),19 Mar 2006
+Bangladesh,won,9 wickets,157,lost,2nd,Kenya,Khulna,20 Mar 2006
+Sri Lanka,lost,4 wickets,28,lost,1st,Pakistan,Colombo (SSC),22 Mar 2006
+Bangladesh,won,20 runs,,won,1st,Kenya,Fatullah,23 Mar 2006
+Bangladesh,won,7 wickets,51,lost,2nd,Kenya,Fatullah,25 Mar 2006
+India,won,39 runs,,lost,1st,England,Delhi,28 Mar 2006
+India,won,4 wickets,6,lost,2nd,England,Faridabad,31 Mar 2006
+India,won,49 runs,,won,1st,England,Margao,3 Apr 2006
+India,won,4 wickets,16,lost,2nd,England,Kochi,6 Apr 2006
+India,lost,5 wickets,44,won,1st,England,Jamshedpur,12 Apr 2006
+India,won,7 wickets,5,won,2nd,England,Indore,15 Apr 2006
+Bangladesh,lost,4 wickets,36,won,1st,Australia,Chattogram,23 Apr 2006
+Bangladesh,lost,67 runs,,lost,2nd,Australia,Fatullah,26 Apr 2006
+Bangladesh,lost,9 wickets,164,won,1st,Australia,Fatullah,28 Apr 2006
+West Indies,won,5 wickets,70,won,2nd,Zimbabwe,St John's,29 Apr 2006
+West Indies,won,98 runs,,won,1st,Zimbabwe,St John's,30 Apr 2006
+West Indies,won,82 runs,,won,1st,Zimbabwe,Georgetown,7 May 2006
+West Indies,won,10 wickets,134,lost,2nd,Zimbabwe,Gros Islet,10 May 2006
+West Indies,won,104 runs,,won,1st,Zimbabwe,Port of Spain,14 May 2006
+West Indies,lost,5 wickets,1,lost,1st,India,Kingston,18 May 2006
+West Indies,won,1 runs,,lost,1st,India,Kingston,20 May 2006
+West Indies,won,4 wickets,1,lost,2nd,India,Basseterre,23 May 2006
+West Indies,won,6 wickets,36,won,2nd,India,Port of Spain,26 May 2006
+West Indies,won,19 runs,,lost,1st,India,Port of Spain,28 May 2006
+Ireland,lost,38 runs,,lost,2nd,England,Belfast,13 Jun 2006
+England,lost,20 runs,,won,2nd,Sri Lanka,Lord's,17 Jun 2006
+England,lost,46 runs,,lost,2nd,Sri Lanka,The Oval,20 Jun 2006
+England,lost,8 wickets,46,won,1st,Sri Lanka,Chester-le-Street,24 Jun 2006
+Scotland,lost,5 wickets,37,lost,1st,Pakistan,Edinburgh,27 Jun 2006
+England,lost,33 runs,,lost,2nd,Sri Lanka,Manchester,28 Jun 2006
+England,lost,8 wickets,75,won,1st,Sri Lanka,Leeds,1 Jul 2006
+Netherlands,lost,195 runs,,lost,2nd,Sri Lanka,Amstelveen,4 Jul 2006
+Netherlands,lost,55 runs,,lost,2nd,Sri Lanka,Amstelveen,6 Jul 2006
+Zimbabwe,won,2 wickets,5,won,2nd,Bangladesh,Harare,29 Jul 2006
+Zimbabwe,lost,62 runs,,won,2nd,Bangladesh,Harare,30 Jul 2006
+Zimbabwe,won,2 wickets,0,won,2nd,Bangladesh,Harare,2 Aug 2006
+Zimbabwe,won,7 wickets,50,lost,2nd,Bangladesh,Harare,4 Aug 2006
+Scotland,lost,85 runs,,won,2nd,Ireland,Ayr,5 Aug 2006
+Canada,lost,108 runs,,lost,2nd,Kenya,Toronto,5 Aug 2006
+Zimbabwe,lost,8 wickets,32,won,1st,Bangladesh,Harare,6 Aug 2006
+Scotland,won,4 wickets,1,lost,2nd,Netherlands,Ayr,6 Aug 2006
+Canada,lost,5 wickets,106,won,1st,Kenya,Toronto,6 Aug 2006
+Kenya,lost,6 wickets,119,lost,1st,Bangladesh,Nairobi (Gym),12 Aug 2006
+Kenya,lost,2 wickets,24,won,1st,Bangladesh,Nairobi (Gym),13 Aug 2006
+Kenya,lost,6 wickets,138,lost,1st,Bangladesh,Nairobi (Gym),15 Aug 2006
+Canada,lost,6 wickets,60,won,1st,Bermuda,Toronto,19 Aug 2006
+Canada,lost,11 runs,,lost,2nd,Bermuda,Toronto,21 Aug 2006
+England,lost,7 wickets,20,lost,1st,Pakistan,Lord's,2 Sep 2006
+England,lost,2 wickets,7,lost,1st,Pakistan,Southampton,5 Sep 2006
+England,won,8 wickets,22,lost,2nd,Pakistan,Nottingham,8 Sep 2006
+England,won,3 wickets,114,won,2nd,Pakistan,Birmingham,10 Sep 2006
+South Africa,won,5 wickets,37,lost,2nd,Zimbabwe,Bloemfontein,15 Sep 2006
+South Africa,won,6 wickets,134,lost,2nd,Zimbabwe,East London,18 Sep 2006
+South Africa,won,171 runs,,won,1st,Zimbabwe,Potchefstroom,20 Sep 2006
+India,won,4 wickets,123,won,2nd,England,Jaipur,15 Oct 2006
+India,lost,3 wickets,2,lost,1st,West Indies,Ahmedabad,26 Oct 2006
+India,lost,6 wickets,26,won,1st,Australia,Mohali,29 Oct 2006
+Kenya,won,79 runs,,won,1st,Bermuda,Mombasa,11 Nov 2006
+Kenya,won,7 wickets,25,lost,2nd,Bermuda,Mombasa,12 Nov 2006
+Kenya,won,104 runs,,won,1st,Bermuda,Mombasa,14 Nov 2006
+South Africa,won,157 runs,,won,1st,India,Durban,22 Nov 2006
+South Africa,won,106 runs,,won,1st,India,Cape Town,26 Nov 2006
+South Africa,won,80 runs,,won,1st,India,Gqeberha,29 Nov 2006
+Bangladesh,won,9 wickets,27,lost,2nd,Zimbabwe,Khulna,30 Nov 2006
+Bangladesh,won,6 wickets,44,won,2nd,Zimbabwe,Bogra,3 Dec 2006
+South Africa,won,9 wickets,112,won,2nd,India,Centurion,3 Dec 2006
+Bangladesh,won,26 runs,,lost,1st,Zimbabwe,Bogra,5 Dec 2006
+Pakistan,won,2 wickets,10,won,2nd,West Indies,Faisalabad,7 Dec 2006
+Bangladesh,won,8 wickets,106,won,2nd,Zimbabwe,Mirpur,8 Dec 2006
+Bangladesh,won,3 wickets,6,won,2nd,Zimbabwe,Mirpur,9 Dec 2006
+Pakistan,won,7 wickets,8,won,2nd,West Indies,Lahore,10 Dec 2006
+Pakistan,lost,7 wickets,91,won,1st,West Indies,Multan,13 Dec 2006
+Bangladesh,won,6 wickets,125,won,2nd,Scotland,Chattogram,15 Dec 2006
+Pakistan,won,7 wickets,19,won,2nd,West Indies,Karachi,16 Dec 2006
+Bangladesh,won,146 runs,,lost,1st,Scotland,Mirpur,17 Dec 2006
+New Zealand,lost,7 wickets,60,won,1st,Sri Lanka,Napier,28 Dec 2006
+New Zealand,won,1 wickets,0,won,2nd,Sri Lanka,Queenstown,31 Dec 2006
+New Zealand,won,4 wickets,129,won,2nd,Sri Lanka,Christchurch,2 Jan 2007
+New Zealand,lost,189 runs,,lost,2nd,Sri Lanka,Auckland,6 Jan 2007
+Australia,won,8 wickets,28,lost,2nd,England,Melbourne,12 Jan 2007
+Australia,won,105 runs,,won,1st,New Zealand,Hobart,14 Jan 2007
+Kenya,won,190 runs,,won,1st,Scotland,Mombasa,17 Jan 2007
+Australia,won,4 wickets,68,lost,2nd,England,Brisbane,19 Jan 2007
+Kenya,won,,,-,-,Canada,Mombasa,20 Jan 2007
+Australia,won,2 wickets,8,lost,2nd,New Zealand,Sydney,21 Jan 2007
+India,won,14 runs,,lost,1st,West Indies,Nagpur,21 Jan 2007
+Kenya,won,6 runs,,won,1st,Scotland,Mombasa,21 Jan 2007
+Kenya,lost,69 runs,,lost,2nd,Canada,Mombasa,24 Jan 2007
+India,won,20 runs,,won,1st,West Indies,Cuttack,24 Jan 2007
+Australia,won,9 wickets,153,lost,2nd,England,Adelaide,26 Jan 2007
+India,lost,3 wickets,38,lost,1st,West Indies,Chennai,27 Jan 2007
+Australia,won,8 runs,,won,1st,New Zealand,Perth,28 Jan 2007
+Kenya,won,10 wickets,191,won,2nd,Bermuda,Nairobi (Jaff),29 Jan 2007
+India,won,160 runs,,lost,1st,West Indies,Vadodara,31 Jan 2007
+Kenya,won,7 wickets,107,won,2nd,Netherlands,Nairobi (Gym),31 Jan 2007
+Australia,lost,92 runs,,lost,2nd,England,Sydney,2 Feb 2007
+Kenya,won,1 wickets,6,won,2nd,Ireland,Nairobi (Ruaraka),2 Feb 2007
+Australia,won,5 wickets,10,lost,2nd,New Zealand,Melbourne,4 Feb 2007
+Kenya,lost,77 runs,,lost,2nd,Scotland,Nairobi (Gym),4 Feb 2007
+Zimbabwe,lost,45 runs,,won,2nd,Bangladesh,Harare,4 Feb 2007
+South Africa,won,164 runs,,lost,1st,Pakistan,Centurion,4 Feb 2007
+Kenya,won,158 runs,,won,1st,Canada,Nairobi (Jaff),5 Feb 2007
+Zimbabwe,won,8 wickets,88,lost,2nd,Bangladesh,Harare,6 Feb 2007
+Kenya,won,8 wickets,73,lost,2nd,Scotland,Nairobi (Gym),7 Feb 2007
+South Africa,lost,141 runs,,lost,2nd,Pakistan,Durban,7 Feb 2007
+Australia,lost,4 wickets,3,won,1st,England,Melbourne,9 Feb 2007
+Zimbabwe,lost,14 runs,,won,2nd,Bangladesh,Harare,9 Feb 2007
+Zimbabwe,lost,1 wickets,16,lost,1st,Bangladesh,Harare,10 Feb 2007
+Australia,lost,34 runs,,lost,2nd,England,Sydney,11 Feb 2007
+India,lost,5 runs,,won,2nd,Sri Lanka,Rajkot,11 Feb 2007
+South Africa,won,10 wickets,216,won,2nd,Pakistan,Cape Town,11 Feb 2007
+India,won,5 wickets,21,lost,2nd,Sri Lanka,Margao,14 Feb 2007
+South Africa,won,9 wickets,130,lost,2nd,Pakistan,Johannesburg,14 Feb 2007
+New Zealand,won,10 wickets,138,won,2nd,Australia,Wellington,16 Feb 2007
+India,won,7 wickets,36,won,2nd,Sri Lanka,Visakhapatnam,17 Feb 2007
+New Zealand,won,5 wickets,8,won,2nd,Australia,Auckland,18 Feb 2007
+New Zealand,won,1 wickets,3,lost,2nd,Australia,Hamilton,20 Feb 2007
+West Indies,won,54 runs,,lost,1st,Pakistan,Kingston,13 Mar 2007
+West Indies,won,6 wickets,13,won,2nd,Zimbabwe,Kingston,19 Mar 2007
+West Indies,won,8 wickets,59,lost,2nd,Ireland,Kingston,23 Mar 2007
+West Indies,lost,103 runs,,won,2nd,Australia,North Sound,27 Mar 2007
+West Indies,lost,7 wickets,64,lost,1st,New Zealand,North Sound,29 Mar 2007
+West Indies,lost,113 runs,,won,2nd,Sri Lanka,Providence,1 Apr 2007
+West Indies,lost,67 runs,,won,2nd,South Africa,St George's,10 Apr 2007
+West Indies,won,99 runs,,lost,1st,Bangladesh,Bridgetown,19 Apr 2007
+West Indies,lost,1 wickets,1,lost,1st,England,Bridgetown,21 Apr 2007
+Bangladesh,lost,5 wickets,6,won,1st,India,Mirpur,10 May 2007
+Bangladesh,lost,46 runs,,lost,2nd,India,Mirpur,12 May 2007
+Ireland,lost,9 wickets,25,lost,1st,India,Belfast,23 Jun 2007
+Ireland,lost,42 runs,,won,2nd,South Africa,Belfast,24 Jun 2007
+England,won,79 runs,,lost,1st,West Indies,Lord's,1 Jul 2007
+Canada,lost,117 runs,,lost,2nd,Netherlands,Toronto,3 Jul 2007
+England,lost,61 runs,,won,2nd,West Indies,Birmingham,4 Jul 2007
+England,lost,93 runs,,lost,2nd,West Indies,Nottingham,7 Jul 2007
+Ireland,won,1 runs,,won,1st,Netherlands,Belfast,11 Jul 2007
+Ireland,won,23 runs,,won,1st,Scotland,Belfast,15 Jul 2007
+Sri Lanka,won,70 runs,,lost,1st,Bangladesh,Colombo (PSS),20 Jul 2007
+Sri Lanka,won,5 wickets,113,won,2nd,Bangladesh,Colombo (RPS),23 Jul 2007
+Sri Lanka,won,39 runs,,lost,1st,Bangladesh,Colombo (RPS),25 Jul 2007
+Scotland,lost,7 wickets,37,lost,1st,India,Glasgow,16 Aug 2007
+Netherlands,won,172 runs,,lost,1st,Bermuda,Rotterdam,18 Aug 2007
+Netherlands,won,8 wickets,183,won,2nd,Bermuda,Rotterdam,20 Aug 2007
+England,won,104 runs,,lost,1st,India,Southampton,21 Aug 2007
+Zimbabwe,lost,5 wickets,19,won,1st,South Africa,Bulawayo,22 Aug 2007
+England,lost,9 runs,,lost,2nd,India,Bristol,24 Aug 2007
+Zimbabwe,lost,8 wickets,65,lost,1st,South Africa,Harare,25 Aug 2007
+Zimbabwe,lost,28 runs,,lost,2nd,South Africa,Harare,26 Aug 2007
+England,won,42 runs,,lost,1st,India,Birmingham,27 Aug 2007
+England,won,3 wickets,12,lost,2nd,India,Manchester,30 Aug 2007
+England,lost,38 runs,,won,2nd,India,Leeds,2 Sep 2007
+England,lost,2 wickets,2,won,1st,India,The Oval,5 Sep 2007
+England,won,7 wickets,82,lost,2nd,India,Lord's,8 Sep 2007
+Sri Lanka,won,119 runs,,won,1st,England,Dambulla,1 Oct 2007
+India,lost,84 runs,,won,2nd,Australia,Kochi,2 Oct 2007
+Sri Lanka,lost,65 runs,,lost,2nd,England,Dambulla,4 Oct 2007
+India,lost,47 runs,,lost,2nd,Australia,Hyderabad (Deccan),5 Oct 2007
+Sri Lanka,lost,2 wickets,7,won,1st,England,Dambulla,7 Oct 2007
+India,won,8 runs,,won,1st,Australia,Chandigarh,8 Oct 2007
+Sri Lanka,lost,5 wickets,19,won,1st,England,Colombo (RPS),10 Oct 2007
+India,lost,9 wickets,145,won,1st,Australia,Vadodara,11 Oct 2007
+Sri Lanka,won,107 runs,,won,1st,England,Colombo (RPS),13 Oct 2007
+India,lost,18 runs,,lost,2nd,Australia,Nagpur,14 Oct 2007
+India,won,2 wickets,24,lost,2nd,Australia,Wankhede,17 Oct 2007
+Pakistan,lost,45 runs,,lost,2nd,South Africa,Lahore,18 Oct 2007
+Kenya,won,4 wickets,8,won,2nd,Canada,Nairobi (Gym),18 Oct 2007
+Pakistan,won,25 runs,,won,1st,South Africa,Lahore,20 Oct 2007
+Kenya,won,4 wickets,41,lost,2nd,Canada,Nairobi (Gym),20 Oct 2007
+Pakistan,won,6 wickets,11,lost,2nd,South Africa,Faisalabad,23 Oct 2007
+Kenya,won,8 wickets,130,won,2nd,Bermuda,Nairobi (Gym),25 Oct 2007
+Pakistan,lost,7 wickets,74,won,1st,South Africa,Multan,26 Oct 2007
+Kenya,won,3 wickets,35,lost,2nd,Bermuda,Nairobi (Gym),27 Oct 2007
+Kenya,won,1 wickets,82,lost,2nd,Bermuda,Nairobi (Gym),28 Oct 2007
+Pakistan,lost,14 runs,,lost,2nd,South Africa,Lahore,29 Oct 2007
+India,won,5 wickets,18,lost,2nd,Pakistan,Guwahati,5 Nov 2007
+India,lost,4 wickets,1,won,1st,Pakistan,Mohali,8 Nov 2007
+India,won,46 runs,,lost,1st,Pakistan,Kanpur,11 Nov 2007
+India,won,6 wickets,21,lost,2nd,Pakistan,Gwalior,15 Nov 2007
+India,lost,31 runs,,won,2nd,Pakistan,Jaipur,18 Nov 2007
+South Africa,won,2 wickets,0,won,2nd,New Zealand,Durban,25 Nov 2007
+Zimbabwe,won,30 runs,,lost,1st,West Indies,Harare,30 Nov 2007
+South Africa,lost,7 wickets,68,won,1st,New Zealand,Gqeberha,30 Nov 2007
+Zimbabwe,lost,110 runs,,won,2nd,West Indies,Harare,2 Dec 2007
+South Africa,won,5 wickets,28,lost,2nd,New Zealand,Cape Town,2 Dec 2007
+Zimbabwe,lost,6 wickets,133,lost,1st,West Indies,Harare,4 Dec 2007
+Zimbabwe,lost,5 wickets,18,lost,1st,West Indies,Bulawayo,7 Dec 2007
+Australia,won,7 wickets,45,lost,2nd,New Zealand,Adelaide,14 Dec 2007
+Australia,won,114 runs,,lost,1st,New Zealand,Hobart,20 Dec 2007
+New Zealand,won,6 wickets,44,won,2nd,Bangladesh,Auckland,26 Dec 2007
+New Zealand,won,102 runs,,won,1st,Bangladesh,Napier,28 Dec 2007
+New Zealand,won,10 wickets,264,won,2nd,Bangladesh,Queenstown,31 Dec 2007
+South Africa,won,6 wickets,12,won,2nd,West Indies,Centurion,20 Jan 2008
+Pakistan,won,104 runs,,lost,1st,Zimbabwe,Karachi,21 Jan 2008
+Pakistan,won,5 wickets,22,lost,2nd,Zimbabwe,Hyderabad (Sind),24 Jan 2008
+South Africa,won,86 runs,,won,1st,West Indies,Cape Town,25 Jan 2008
+Pakistan,won,37 runs,,won,1st,Zimbabwe,Multan,27 Jan 2008
+South Africa,won,7 wickets,8,lost,2nd,West Indies,Gqeberha,27 Jan 2008
+Pakistan,won,7 wickets,18,lost,2nd,Zimbabwe,Faisalabad,30 Jan 2008
+South Africa,won,5 wickets,13,lost,2nd,West Indies,Durban,1 Feb 2008
+Pakistan,won,7 wickets,114,lost,2nd,Zimbabwe,Sheikhupura,2 Feb 2008
+South Africa,won,8 wickets,13,won,2nd,West Indies,Johannesburg,3 Feb 2008
+Australia,won,128 runs,,won,1st,Sri Lanka,Sydney,8 Feb 2008
+New Zealand,won,6 wickets,120,lost,2nd,England,Wellington,9 Feb 2008
+Australia,lost,5 wickets,25,won,1st,India,Melbourne,10 Feb 2008
+New Zealand,won,10 wickets,107,won,2nd,England,Hamilton,12 Feb 2008
+New Zealand,lost,6 wickets,18,lost,1st,England,Auckland,15 Feb 2008
+Australia,won,63 runs,,won,1st,Sri Lanka,Perth,15 Feb 2008
+Australia,won,50 runs,,won,1st,India,Adelaide,17 Feb 2008
+New Zealand,tied,-,,won,2nd,England,Napier,20 Feb 2008
+Australia,won,24 runs,,lost,1st,Sri Lanka,Melbourne,22 Feb 2008
+New Zealand,won,34 runs,,won,2nd,England,Christchurch,23 Feb 2008
+Australia,won,18 runs,,won,1st,India,Sydney,24 Feb 2008
+Australia,lost,13 runs,,lost,2nd,Sri Lanka,Melbourne,29 Feb 2008
+Australia,lost,6 wickets,25,won,1st,India,Sydney,2 Mar 2008
+Australia,lost,9 runs,,lost,2nd,India,Brisbane,4 Mar 2008
+Bangladesh,lost,9 wickets,79,won,1st,South Africa,Chattogram,9 Mar 2008
+Bangladesh,lost,7 wickets,11,won,1st,South Africa,Mirpur,12 Mar 2008
+Bangladesh,lost,7 wickets,94,won,1st,South Africa,Mirpur,14 Mar 2008
+Bangladesh,won,8 wickets,61,lost,2nd,Ireland,Mirpur,18 Mar 2008
+Bangladesh,won,84 runs,,won,1st,Ireland,Mirpur,20 Mar 2008
+Bangladesh,won,79 runs,,won,1st,Ireland,Mirpur,22 Mar 2008
+Pakistan,won,152 runs,,won,1st,Bangladesh,Lahore,8 Apr 2008
+West Indies,won,1 wickets,0,won,2nd,Sri Lanka,Port of Spain,10 Apr 2008
+Pakistan,won,7 wickets,10,lost,2nd,Bangladesh,Faisalabad,11 Apr 2008
+West Indies,won,7 wickets,27,won,2nd,Sri Lanka,Port of Spain,12 Apr 2008
+Pakistan,won,23 runs,,won,1st,Bangladesh,Lahore,13 Apr 2008
+Pakistan,won,7 wickets,33,lost,2nd,Bangladesh,Multan,16 Apr 2008
+Pakistan,won,150 runs,,won,1st,Bangladesh,Karachi,19 Apr 2008
+Bangladesh,lost,70 runs,,won,2nd,Pakistan,Mirpur,8 Jun 2008
+Bangladesh,lost,7 wickets,89,won,1st,India,Mirpur,12 Jun 2008
+England,won,114 runs,,lost,1st,New Zealand,Chester-le-Street,15 Jun 2008
+England,lost,22 runs,,won,2nd,New Zealand,Bristol,21 Jun 2008
+Pakistan,won,155 runs,,won,1st,Hong Kong,Karachi,24 Jun 2008
+West Indies,lost,84 runs,,won,2nd,Australia,Kingstown,24 Jun 2008
+England,lost,1 wickets,0,lost,1st,New Zealand,The Oval,25 Jun 2008
+Pakistan,lost,6 wickets,47,won,1st,India,Karachi,26 Jun 2008
+West Indies,lost,63 runs,,lost,2nd,Australia,St George's,27 Jun 2008
+England,lost,51 runs,,won,2nd,New Zealand,Lord's,28 Jun 2008
+Canada,lost,3 wickets,3,won,1st,Bermuda,King City (NW),28 Jun 2008
+Pakistan,lost,64 runs,,won,2nd,Sri Lanka,Karachi,29 Jun 2008
+West Indies,lost,7 wickets,57,lost,1st,Australia,St George's,29 Jun 2008
+Canada,lost,11 runs,,won,2nd,Bermuda,King City (NW),29 Jun 2008
+Canada,won,77 runs,,lost,1st,Bermuda,King City (NW),1 Jul 2008
+Scotland,won,5 wickets,15,lost,2nd,Ireland,Aberdeen,2 Jul 2008
+Pakistan,won,8 wickets,27,lost,2nd,India,Karachi,2 Jul 2008
+Scotland,lost,8 wickets,212,lost,1st,New Zealand,Aberdeen,3 Jul 2008
+Pakistan,won,10 wickets,182,lost,2nd,Bangladesh,Karachi,4 Jul 2008
+West Indies,lost,1 runs,,won,2nd,Australia,Basseterre,4 Jul 2008
+West Indies,lost,169 runs,,lost,2nd,Australia,Basseterre,6 Jul 2008
+Ireland,won,7 wickets,126,won,2nd,Netherlands,Dublin,28 Jul 2008
+Ireland,won,7 wickets,19,won,2nd,Scotland,Dublin,31 Jul 2008
+Netherlands,won,6 wickets,23,won,2nd,Bermuda,Amstelveen,8 Aug 2008
+Sri Lanka,won,8 wickets,91,lost,2nd,India,Dambulla,18 Aug 2008
+Canada,won,25 runs,,lost,1st,Bermuda,King City (NW),18 Aug 2008
+Sri Lanka,lost,3 wickets,62,lost,1st,India,Dambulla,20 Aug 2008
+Netherlands,won,6 wickets,6,won,2nd,Kenya,Rotterdam,21 Aug 2008
+England,won,20 runs,,won,1st,South Africa,Leeds,22 Aug 2008
+Canada,lost,49 runs,,lost,2nd,West Indies,King City (NW),22 Aug 2008
+Sri Lanka,lost,33 runs,,lost,2nd,India,Colombo (RPS),24 Aug 2008
+Ireland,won,33 runs,,lost,1st,Kenya,Belfast,24 Aug 2008
+Canada,lost,7 wickets,135,lost,1st,West Indies,King City (NW),24 Aug 2008
+England,won,10 wickets,215,lost,2nd,South Africa,Nottingham,26 Aug 2008
+Sri Lanka,lost,46 runs,,lost,2nd,India,Colombo (RPS),27 Aug 2008
+Sri Lanka,won,112 runs,,won,1st,India,Colombo (RPS),29 Aug 2008
+England,won,126 runs,,lost,1st,South Africa,The Oval,29 Aug 2008
+Australia,won,180 runs,,lost,1st,Bangladesh,Darwin,30 Aug 2008
+England,won,7 wickets,14,won,2nd,South Africa,Lord's,31 Aug 2008
+Australia,won,8 wickets,164,lost,2nd,Bangladesh,Darwin,3 Sep 2008
+Australia,won,73 runs,,won,1st,Bangladesh,Darwin,6 Sep 2008
+Bangladesh,won,7 wickets,27,won,2nd,New Zealand,Mirpur,9 Oct 2008
+Bangladesh,lost,75 runs,,won,2nd,New Zealand,Mirpur,11 Oct 2008
+Bangladesh,lost,79 runs,,lost,2nd,New Zealand,Chattogram,14 Oct 2008
+Kenya,lost,86 runs,,lost,2nd,Ireland,Nairobi (Gym),18 Oct 2008
+Kenya,won,95 runs,,won,1st,Zimbabwe,Nairobi (Gym),19 Oct 2008
+South Africa,won,159 runs,,won,1st,Kenya,Bloemfontein,31 Oct 2008
+South Africa,won,7 wickets,87,lost,2nd,Kenya,Kimberley,2 Nov 2008
+South Africa,won,61 runs,,won,1st,Bangladesh,Potchefstroom,7 Nov 2008
+South Africa,won,128 runs,,lost,1st,Bangladesh,Benoni,9 Nov 2008
+India,won,158 runs,,lost,1st,England,Rajkot,14 Nov 2008
+India,won,54 runs,,won,1st,England,Indore,17 Nov 2008
+India,won,16 runs,,lost,2nd,England,Kanpur,20 Nov 2008
+Zimbabwe,lost,6 wickets,100,lost,1st,Sri Lanka,Harare,20 Nov 2008
+Zimbabwe,lost,9 wickets,194,won,1st,Sri Lanka,Harare,22 Nov 2008
+India,won,19 runs,,lost,1st,England,Bengaluru,23 Nov 2008
+Zimbabwe,lost,5 runs,,won,2nd,Sri Lanka,Harare,24 Nov 2008
+India,won,6 wickets,38,won,2nd,England,Cuttack,26 Nov 2008
+Zimbabwe,lost,2 wickets,15,lost,1st,Sri Lanka,Harare,28 Nov 2008
+Zimbabwe,lost,19 runs,,won,2nd,Sri Lanka,Harare,30 Nov 2008
+New Zealand,lost,5 wickets,1,lost,1st,West Indies,Christchurch,3 Jan 2009
+New Zealand,won,7 wickets,177,won,2nd,West Indies,Wellington,7 Jan 2009
+Bangladesh,lost,38 runs,,won,2nd,Zimbabwe,Mirpur,10 Jan 2009
+New Zealand,won,9 runs,,won,2nd,West Indies,Napier,13 Jan 2009
+Bangladesh,won,5 wickets,43,won,2nd,Sri Lanka,Mirpur,14 Jan 2009
+Bangladesh,lost,2 wickets,11,lost,1st,Sri Lanka,Mirpur,16 Jan 2009
+Australia,lost,3 wickets,3,won,1st,South Africa,Melbourne,16 Jan 2009
+Australia,won,5 runs,,lost,1st,South Africa,Hobart,18 Jan 2009
+Bangladesh,lost,2 wickets,4,won,1st,Zimbabwe,Mirpur,19 Jan 2009
+Pakistan,won,8 wickets,25,lost,2nd,Sri Lanka,Karachi,20 Jan 2009
+Bangladesh,won,6 wickets,31,won,2nd,Zimbabwe,Mirpur,21 Jan 2009
+Pakistan,lost,129 runs,,won,2nd,Sri Lanka,Karachi,21 Jan 2009
+Bangladesh,won,6 wickets,27,won,2nd,Zimbabwe,Mirpur,23 Jan 2009
+Australia,lost,3 wickets,21,won,1st,South Africa,Sydney,23 Jan 2009
+Pakistan,lost,234 runs,,lost,2nd,Sri Lanka,Lahore,24 Jan 2009
+Australia,lost,8 wickets,71,won,1st,South Africa,Adelaide,26 Jan 2009
+Kenya,lost,109 runs,,lost,2nd,Zimbabwe,Mombasa,27 Jan 2009
+Sri Lanka,lost,6 wickets,11,lost,1st,India,Dambulla,28 Jan 2009
+Kenya,lost,151 runs,,lost,2nd,Zimbabwe,Mombasa,29 Jan 2009
+Australia,lost,39 runs,,lost,2nd,South Africa,Perth,30 Jan 2009
+Kenya,lost,4 wickets,10,won,1st,Zimbabwe,Nairobi (Gym),31 Jan 2009
+Sri Lanka,lost,15 runs,,lost,2nd,India,Colombo (RPS),31 Jan 2009
+Australia,lost,2 wickets,0,won,1st,New Zealand,Perth,1 Feb 2009
+Kenya,lost,66 runs,,lost,2nd,Zimbabwe,Nairobi (Gym),1 Feb 2009
+Sri Lanka,lost,147 runs,,lost,2nd,India,Colombo (RPS),3 Feb 2009
+Kenya,lost,7 wickets,90,won,1st,Zimbabwe,Nairobi (Gym),4 Feb 2009
+Sri Lanka,lost,67 runs,,lost,2nd,India,Colombo (RPS),5 Feb 2009
+Australia,lost,6 wickets,7,lost,1st,New Zealand,Melbourne,6 Feb 2009
+Australia,won,32 runs,,lost,1st,New Zealand,Sydney,8 Feb 2009
+Sri Lanka,won,68 runs,,won,1st,India,Colombo (RPS),8 Feb 2009
+Australia,won,6 wickets,10,lost,2nd,New Zealand,Adelaide,10 Feb 2009
+New Zealand,lost,53 runs,,lost,2nd,India,Napier,3 Mar 2009
+New Zealand,lost,58 runs,,won,2nd,India,Christchurch,8 Mar 2009
+New Zealand,lost,84 runs,,won,1st,India,Hamilton,11 Mar 2009
+New Zealand,won,8 wickets,118,lost,2nd,India,Auckland,14 Mar 2009
+West Indies,lost,1 runs,,lost,2nd,England,Providence,20 Mar 2009
+West Indies,won,21 runs,,won,1st,England,Providence,22 Mar 2009
+West Indies,won,8 wickets,176,won,2nd,England,Bridgetown,27 Mar 2009
+West Indies,lost,9 wickets,9,lost,1st,England,Bridgetown,29 Mar 2009
+South Africa,lost,141 runs,,lost,2nd,Australia,Durban,3 Apr 2009
+West Indies,lost,26 runs,,won,2nd,England,Gros Islet,3 Apr 2009
+South Africa,won,7 wickets,142,lost,2nd,Australia,Centurion,5 Apr 2009
+South Africa,won,25 runs,,won,1st,Australia,Cape Town,9 Apr 2009
+South Africa,won,61 runs,,lost,1st,Australia,Gqeberha,13 Apr 2009
+South Africa,lost,47 runs,,won,2nd,Australia,Johannesburg,17 Apr 2009
+England,won,6 wickets,84,won,2nd,West Indies,Bristol,24 May 2009
+England,won,58 runs,,lost,1st,West Indies,Birmingham,26 May 2009
+West Indies,lost,20 runs,,lost,2nd,India,Kingston,26 Jun 2009
+West Indies,won,8 wickets,95,lost,2nd,India,Kingston,28 Jun 2009
+West Indies,lost,6 wickets,1,lost,1st,India,Gros Islet,3 Jul 2009
+Scotland,lost,6 wickets,8,lost,1st,Canada,Aberdeen,7 Jul 2009
+Scotland,won,5 wickets,16,lost,2nd,Canada,Aberdeen,8 Jul 2009
+Ireland,won,3 wickets,7,lost,2nd,Kenya,Dublin,9 Jul 2009
+Netherlands,won,50 runs,,lost,1st,Canada,Amstelveen,11 Jul 2009
+Ireland,won,52 runs,,lost,2nd,Kenya,Dublin,11 Jul 2009
+Ireland,won,4 runs,,lost,1st,Kenya,Dublin,12 Jul 2009
+West Indies,lost,52 runs,,won,2nd,Bangladesh,Roseau,26 Jul 2009
+West Indies,lost,3 wickets,6,won,1st,Bangladesh,Roseau,28 Jul 2009
+Sri Lanka,won,36 runs,,lost,1st,Pakistan,Dambulla,30 Jul 2009
+West Indies,lost,3 wickets,7,won,1st,Bangladesh,Basseterre,31 Jul 2009
+Sri Lanka,won,6 wickets,38,won,2nd,Pakistan,Dambulla,1 Aug 2009
+Sri Lanka,won,6 wickets,21,won,2nd,Pakistan,Dambulla,3 Aug 2009
+Sri Lanka,lost,146 runs,,lost,2nd,Pakistan,Colombo (RPS),7 Aug 2009
+Zimbabwe,lost,8 wickets,93,lost,1st,Bangladesh,Bulawayo,9 Aug 2009
+Sri Lanka,lost,132 runs,,lost,2nd,Pakistan,Colombo (RPS),9 Aug 2009
+Zimbabwe,lost,49 runs,,won,2nd,Bangladesh,Bulawayo,11 Aug 2009
+Zimbabwe,won,69 runs,,lost,1st,Bangladesh,Bulawayo,14 Aug 2009
+Zimbabwe,lost,4 wickets,13,won,1st,Bangladesh,Bulawayo,16 Aug 2009
+Zimbabwe,lost,5 wickets,13,won,1st,Bangladesh,Bulawayo,18 Aug 2009
+Canada,won,9 wickets,202,won,2nd,Kenya,King City (NW),19 Aug 2009
+Scotland,lost,96 runs,,won,2nd,Ireland,Aberdeen,22 Aug 2009
+Ireland,lost,3 runs,,lost,2nd,England,Belfast,27 Aug 2009
+Scotland,lost,189 runs,,won,2nd,Australia,Edinburgh,28 Aug 2009
+Netherlands,won,8 runs,,lost,1st,Afghanistan,Amstelveen,30 Aug 2009
+Netherlands,lost,6 wickets,20,won,1st,Afghanistan,Amstelveen,1 Sep 2009
+England,lost,4 runs,,won,2nd,Australia,The Oval,4 Sep 2009
+England,lost,39 runs,,won,2nd,Australia,Lord's,6 Sep 2009
+Sri Lanka,won,97 runs,,won,1st,New Zealand,Colombo (RPS),8 Sep 2009
+England,lost,6 wickets,9,won,1st,Australia,Southampton,9 Sep 2009
+Sri Lanka,won,139 runs,,won,1st,India,Colombo (RPS),12 Sep 2009
+England,lost,7 wickets,38,won,1st,Australia,Lord's,12 Sep 2009
+Sri Lanka,lost,46 runs,,lost,2nd,India,Colombo (RPS),14 Sep 2009
+England,lost,4 wickets,10,won,1st,Australia,Nottingham,15 Sep 2009
+England,lost,111 runs,,lost,2nd,Australia,Nottingham,17 Sep 2009
+England,won,4 wickets,60,won,2nd,Australia,Chester-le-Street,20 Sep 2009
+South Africa,lost,55 runs,,won,2nd,Sri Lanka,Centurion,22 Sep 2009
+South Africa,won,5 wickets,53,won,2nd,New Zealand,Centurion,24 Sep 2009
+South Africa,lost,22 runs,,lost,2nd,England,Centurion,27 Sep 2009
+Zimbabwe,won,91 runs,,won,1st,Kenya,Harare,12 Oct 2009
+Zimbabwe,won,86 runs,,won,1st,Kenya,Harare,13 Oct 2009
+Zimbabwe,lost,20 runs,,lost,2nd,Kenya,Harare,15 Oct 2009
+Zimbabwe,won,6 wickets,12,lost,2nd,Kenya,Harare,17 Oct 2009
+Zimbabwe,won,142 runs,,won,1st,Kenya,Harare,18 Oct 2009
+India,lost,4 runs,,lost,2nd,Australia,Vadodara,25 Oct 2009
+Bangladesh,lost,5 wickets,92,lost,1st,Zimbabwe,Mirpur,27 Oct 2009
+India,won,99 runs,,lost,1st,Australia,Nagpur,28 Oct 2009
+Bangladesh,won,7 wickets,123,lost,2nd,Zimbabwe,Mirpur,29 Oct 2009
+Bangladesh,won,4 wickets,56,won,2nd,Zimbabwe,Mirpur,31 Oct 2009
+India,won,6 wickets,10,lost,2nd,Australia,Delhi,31 Oct 2009
+India,lost,24 runs,,won,2nd,Australia,Mohali,2 Nov 2009
+Bangladesh,won,6 wickets,229,lost,2nd,Zimbabwe,Chattogram,3 Nov 2009
+Bangladesh,won,1 wickets,6,won,2nd,Zimbabwe,Chattogram,5 Nov 2009
+India,lost,3 runs,,lost,2nd,Australia,Hyderabad (Deccan),5 Nov 2009
+India,lost,6 wickets,49,won,1st,Australia,Guwahati,8 Nov 2009
+South Africa,won,45 runs,,lost,1st,Zimbabwe,Benoni,8 Nov 2009
+South Africa,won,212 runs,,lost,1st,Zimbabwe,Centurion,10 Nov 2009
+South Africa,lost,7 wickets,24,lost,1st,England,Centurion,22 Nov 2009
+South Africa,won,112 runs,,won,1st,England,Cape Town,27 Nov 2009
+South Africa,lost,7 wickets,112,won,1st,England,Gqeberha,29 Nov 2009
+India,won,3 runs,,lost,1st,Sri Lanka,Rajkot,15 Dec 2009
+India,lost,3 wickets,5,won,1st,Sri Lanka,Nagpur,18 Dec 2009
+India,won,7 wickets,45,lost,2nd,Sri Lanka,Cuttack,21 Dec 2009
+India,won,7 wickets,11,lost,2nd,Sri Lanka,Kolkata,24 Dec 2009
+Bangladesh,lost,7 wickets,31,lost,1st,Sri Lanka,Mirpur,4 Jan 2010
+Bangladesh,lost,6 wickets,15,won,1st,India,Mirpur,7 Jan 2010
+Bangladesh,lost,9 wickets,43,lost,1st,Sri Lanka,Mirpur,8 Jan 2010
+Bangladesh,lost,6 wickets,42,lost,1st,India,Mirpur,11 Jan 2010
+Australia,won,5 wickets,9,lost,2nd,Pakistan,Brisbane,22 Jan 2010
+Australia,won,140 runs,,lost,1st,Pakistan,Sydney,24 Jan 2010
+Australia,won,40 runs,,won,1st,Pakistan,Adelaide,26 Jan 2010
+Australia,won,135 runs,,won,1st,Pakistan,Perth,29 Jan 2010
+Australia,won,2 wickets,4,lost,2nd,Pakistan,Perth,31 Jan 2010
+New Zealand,won,146 runs,,won,1st,Bangladesh,Napier,5 Feb 2010
+Australia,won,113 runs,,lost,1st,West Indies,Melbourne,7 Feb 2010
+New Zealand,won,5 wickets,135,won,2nd,Bangladesh,Dunedin,8 Feb 2010
+Australia,won,8 wickets,141,lost,2nd,West Indies,Adelaide,9 Feb 2010
+New Zealand,won,3 wickets,31,won,2nd,Bangladesh,Christchurch,11 Feb 2010
+Australia,won,50 runs,,lost,1st,West Indies,Brisbane,14 Feb 2010
+Kenya,won,6 wickets,91,won,2nd,Netherlands,Nairobi (Gym),16 Feb 2010
+Kenya,lost,80 runs,,won,2nd,Netherlands,Nairobi (Gym),18 Feb 2010
+Australia,won,125 runs,,won,1st,West Indies,Melbourne,19 Feb 2010
+India,won,1 runs,,lost,1st,South Africa,Jaipur,21 Feb 2010
+India,won,153 runs,,won,1st,South Africa,Gwalior,24 Feb 2010
+India,lost,90 runs,,lost,2nd,South Africa,Ahmedabad,27 Feb 2010
+Bangladesh,lost,6 wickets,24,lost,1st,England,Mirpur,28 Feb 2010
+Bangladesh,lost,2 wickets,7,lost,1st,England,Mirpur,2 Mar 2010
+New Zealand,won,2 wickets,4,lost,2nd,Australia,Napier,3 Mar 2010
+West Indies,lost,2 runs,,lost,2nd,Zimbabwe,Providence,4 Mar 2010
+Bangladesh,lost,45 runs,,won,2nd,England,Chattogram,5 Mar 2010
+New Zealand,lost,12 runs,,lost,2nd,Australia,Auckland,6 Mar 2010
+West Indies,won,4 wickets,13,lost,2nd,Zimbabwe,Providence,6 Mar 2010
+New Zealand,lost,6 wickets,16,lost,1st,Australia,Hamilton,9 Mar 2010
+West Indies,won,141 runs,,lost,1st,Zimbabwe,Kingstown,10 Mar 2010
+New Zealand,lost,6 wickets,17,lost,1st,Australia,Auckland,11 Mar 2010
+West Indies,won,4 wickets,93,won,2nd,Zimbabwe,Kingstown,12 Mar 2010
+New Zealand,won,51 runs,,lost,1st,Australia,Wellington,13 Mar 2010
+West Indies,won,4 wickets,134,won,2nd,Zimbabwe,Kingstown,14 Mar 2010
+West Indies,won,208 runs,,won,1st,Canada,Kingston,13 Apr 2010
+West Indies,won,6 wickets,6,lost,2nd,Ireland,Kingston,15 Apr 2010
+West Indies,lost,66 runs,,won,2nd,South Africa,North Sound,22 May 2010
+West Indies,lost,17 runs,,lost,2nd,South Africa,North Sound,24 May 2010
+Zimbabwe,won,6 wickets,10,lost,2nd,India,Bulawayo,28 May 2010
+West Indies,lost,67 runs,,lost,2nd,South Africa,Roseau,28 May 2010
+West Indies,lost,7 wickets,0,won,1st,South Africa,Roseau,30 May 2010
+Zimbabwe,lost,9 wickets,64,lost,1st,Sri Lanka,Bulawayo,1 Jun 2010
+Zimbabwe,won,7 wickets,70,won,2nd,India,Harare,3 Jun 2010
+West Indies,lost,1 wickets,2,won,1st,South Africa,Port of Spain,3 Jun 2010
+Zimbabwe,won,8 wickets,13,won,2nd,Sri Lanka,Harare,7 Jun 2010
+Zimbabwe,lost,9 wickets,92,lost,1st,Sri Lanka,Harare,9 Jun 2010
+Sri Lanka,won,16 runs,,won,1st,Pakistan,Dambulla,15 Jun 2010
+Netherlands,won,6 wickets,3,lost,2nd,Scotland,Rotterdam,15 Jun 2010
+Ireland,lost,39 runs,,lost,2nd,Australia,Dublin,17 Jun 2010
+Sri Lanka,won,126 runs,,won,1st,Bangladesh,Dambulla,18 Jun 2010
+Scotland,lost,7 wickets,98,won,1st,England,Edinburgh,19 Jun 2010
+Sri Lanka,won,7 wickets,75,won,2nd,India,Dambulla,22 Jun 2010
+England,won,4 wickets,24,lost,2nd,Australia,Southampton,22 Jun 2010
+Sri Lanka,lost,81 runs,,lost,2nd,India,Dambulla,24 Jun 2010
+England,won,4 wickets,28,lost,2nd,Australia,Cardiff,24 Jun 2010
+England,won,1 wickets,5,won,2nd,Australia,Manchester,27 Jun 2010
+England,lost,78 runs,,won,2nd,Australia,The Oval,30 Jun 2010
+Netherlands,lost,1 wickets,1,won,1st,Scotland,Amstelveen,1 Jul 2010
+Netherlands,won,117 runs,,lost,1st,Kenya,The Hague,3 Jul 2010
+England,lost,42 runs,,lost,2nd,Australia,Lord's,3 Jul 2010
+Netherlands,won,7 wickets,44,lost,2nd,Canada,Rotterdam,5 Jul 2010
+Netherlands,lost,6 wickets,45,lost,1st,Afghanistan,The Hague,7 Jul 2010
+England,won,6 wickets,29,lost,2nd,Bangladesh,Nottingham,8 Jul 2010
+Netherlands,lost,39 runs,,lost,2nd,Ireland,Amstelveen,9 Jul 2010
+Netherlands,lost,5 wickets,24,won,1st,Afghanistan,Rotterdam,10 Jul 2010
+England,lost,5 runs,,won,2nd,Bangladesh,Bristol,10 Jul 2010
+England,won,144 runs,,lost,1st,Bangladesh,Birmingham,12 Jul 2010
+Ireland,won,7 wickets,30,won,2nd,Bangladesh,Belfast,15 Jul 2010
+Ireland,lost,6 wickets,50,won,1st,Bangladesh,Belfast,16 Jul 2010
+Sri Lanka,won,3 wickets,55,lost,2nd,New Zealand,Dambulla,13 Aug 2010
+Sri Lanka,lost,6 wickets,93,won,1st,India,Dambulla,16 Aug 2010
+Scotland,lost,9 wickets,114,won,1st,Afghanistan,Ayr,16 Aug 2010
+Ireland,won,70 runs,,lost,1st,Netherlands,Dublin,16 Aug 2010
+Scotland,won,6 wickets,97,lost,2nd,Afghanistan,Ayr,17 Aug 2010
+Ireland,won,9 wickets,177,lost,2nd,Netherlands,Dublin,18 Aug 2010
+Sri Lanka,won,8 wickets,209,lost,2nd,India,Dambulla,22 Aug 2010
+Sri Lanka,won,74 runs,,won,1st,India,Dambulla,28 Aug 2010
+Canada,won,4 runs,,lost,2nd,Ireland,Toronto,6 Sep 2010
+Canada,lost,92 runs,,won,2nd,Ireland,Toronto,7 Sep 2010
+England,won,24 runs,,lost,1st,Pakistan,Chester-le-Street,10 Sep 2010
+England,won,4 wickets,3,lost,2nd,Pakistan,Leeds,12 Sep 2010
+England,lost,23 runs,,lost,2nd,Pakistan,The Oval,17 Sep 2010
+England,lost,38 runs,,lost,2nd,Pakistan,Lord's,20 Sep 2010
+England,won,121 runs,,won,1st,Pakistan,Southampton,22 Sep 2010
+Zimbabwe,won,2 wickets,0,won,2nd,Ireland,Harare,26 Sep 2010
+Zimbabwe,won,3 wickets,7,won,2nd,Ireland,Harare,28 Sep 2010
+Zimbabwe,lost,20 runs,,won,2nd,Ireland,Harare,30 Sep 2010
+Bangladesh,won,9 runs,,won,1st,New Zealand,Mirpur,5 Oct 2010
+Kenya,won,92 runs,,won,1st,Afghanistan,Nairobi (Gym),7 Oct 2010
+Kenya,lost,6 wickets,138,won,1st,Afghanistan,Nairobi (Gym),9 Oct 2010
+Bangladesh,won,7 wickets,60,won,2nd,New Zealand,Mirpur,11 Oct 2010
+Kenya,won,8 wickets,51,lost,2nd,Afghanistan,Nairobi (Gym),11 Oct 2010
+Bangladesh,won,9 runs,,lost,1st,New Zealand,Mirpur,14 Oct 2010
+South Africa,won,64 runs,,won,1st,Zimbabwe,Bloemfontein,15 Oct 2010
+Bangladesh,won,3 runs,,won,1st,New Zealand,Mirpur,17 Oct 2010
+South Africa,won,8 wickets,66,lost,2nd,Zimbabwe,Potchefstroom,17 Oct 2010
+India,won,5 wickets,7,won,2nd,Australia,Visakhapatnam,20 Oct 2010
+South Africa,won,272 runs,,won,1st,Zimbabwe,Benoni,22 Oct 2010
+Australia,lost,1 wickets,34,won,1st,Sri Lanka,Melbourne,3 Nov 2010
+Australia,lost,29 runs,,lost,2nd,Sri Lanka,Sydney,5 Nov 2010
+Australia,won,8 wickets,170,lost,2nd,Sri Lanka,Brisbane,7 Nov 2010
+India,won,40 runs,,lost,1st,New Zealand,Guwahati,28 Nov 2010
+Bangladesh,lost,9 runs,,won,2nd,Zimbabwe,Mirpur,1 Dec 2010
+India,won,8 wickets,42,won,2nd,New Zealand,Jaipur,1 Dec 2010
+Bangladesh,won,6 wickets,62,won,2nd,Zimbabwe,Mirpur,3 Dec 2010
+India,won,9 wickets,63,won,2nd,New Zealand,Vadodara,4 Dec 2010
+Bangladesh,won,65 runs,,lost,1st,Zimbabwe,Mirpur,6 Dec 2010
+India,won,5 wickets,7,won,2nd,New Zealand,Bengaluru,7 Dec 2010
+India,won,8 wickets,173,lost,2nd,New Zealand,Chennai,10 Dec 2010
+Bangladesh,won,6 wickets,42,lost,2nd,Zimbabwe,Chattogram,12 Dec 2010
+South Africa,won,135 runs,,won,1st,India,Durban,12 Jan 2011
+South Africa,lost,1 runs,,lost,2nd,India,Johannesburg,15 Jan 2011
+Australia,won,6 wickets,5,lost,2nd,England,Melbourne,16 Jan 2011
+South Africa,lost,2 wickets,10,won,1st,India,Cape Town,18 Jan 2011
+Australia,won,46 runs,,lost,1st,England,Hobart,21 Jan 2011
+South Africa,won,48 runs,,won,1st,India,Gqeberha,21 Jan 2011
+New Zealand,won,9 wickets,196,lost,2nd,Pakistan,Wellington,22 Jan 2011
+Australia,won,4 wickets,24,lost,2nd,England,Sydney,23 Jan 2011
+South Africa,won,33 runs,,lost,1st,India,Centurion,23 Jan 2011
+Australia,lost,21 runs,,lost,2nd,England,Adelaide,26 Jan 2011
+New Zealand,lost,43 runs,,won,2nd,Pakistan,Christchurch,29 Jan 2011
+Australia,won,51 runs,,won,1st,England,Brisbane,30 Jan 2011
+New Zealand,lost,2 wickets,6,won,1st,Pakistan,Napier,1 Feb 2011
+Australia,won,2 wickets,4,lost,2nd,England,Sydney,2 Feb 2011
+New Zealand,lost,41 runs,,won,2nd,Pakistan,Hamilton,3 Feb 2011
+Sri Lanka,won,8 wickets,27,won,2nd,West Indies,Colombo (SSC),3 Feb 2011
+New Zealand,won,57 runs,,lost,1st,Pakistan,Auckland,5 Feb 2011
+Australia,won,57 runs,,won,1st,England,Perth,6 Feb 2011
+Sri Lanka,won,26 runs,,lost,1st,West Indies,Colombo (SSC),6 Feb 2011
+Bangladesh,lost,87 runs,,won,2nd,India,Mirpur,19 Feb 2011
+Sri Lanka,won,210 runs,,won,1st,Canada,Hambantota,20 Feb 2011
+Bangladesh,won,27 runs,,won,1st,Ireland,Mirpur,25 Feb 2011
+Sri Lanka,lost,11 runs,,lost,2nd,Pakistan,Colombo (RPS),26 Feb 2011
+India,tied,-,,won,1st,England,Bengaluru,27 Feb 2011
+Sri Lanka,won,9 wickets,188,lost,2nd,Kenya,Colombo (RPS),1 Mar 2011
+Bangladesh,lost,9 wickets,226,won,1st,West Indies,Mirpur,4 Mar 2011
+India,won,5 wickets,24,won,2nd,Ireland,Bengaluru,6 Mar 2011
+India,won,5 wickets,81,lost,2nd,Netherlands,Delhi,9 Mar 2011
+Sri Lanka,won,139 runs,,lost,1st,Zimbabwe,Pallekele,10 Mar 2011
+Bangladesh,won,2 wickets,6,won,2nd,England,Chattogram,11 Mar 2011
+India,lost,3 wickets,2,won,1st,South Africa,Nagpur,12 Mar 2011
+Bangladesh,won,6 wickets,52,lost,2nd,Netherlands,Chattogram,14 Mar 2011
+Bangladesh,lost,206 runs,,lost,2nd,South Africa,Mirpur,19 Mar 2011
+India,won,80 runs,,won,1st,West Indies,Chennai,20 Mar 2011
+India,won,5 wickets,14,lost,2nd,Australia,Ahmedabad,24 Mar 2011
+Sri Lanka,won,10 wickets,63,lost,2nd,England,Colombo (RPS),26 Mar 2011
+Sri Lanka,won,5 wickets,13,lost,2nd,New Zealand,Colombo (RPS),29 Mar 2011
+India,won,29 runs,,won,1st,Pakistan,Mohali,30 Mar 2011
+India,won,6 wickets,10,lost,2nd,Sri Lanka,Wankhede,2 Apr 2011
+Bangladesh,lost,60 runs,,won,2nd,Australia,Mirpur,9 Apr 2011
+Bangladesh,lost,9 wickets,144,won,1st,Australia,Mirpur,11 Apr 2011
+Bangladesh,lost,66 runs,,lost,2nd,Australia,Mirpur,13 Apr 2011
+West Indies,lost,8 wickets,51,won,1st,Pakistan,Gros Islet,23 Apr 2011
+West Indies,lost,7 wickets,12,lost,1st,Pakistan,Gros Islet,25 Apr 2011
+West Indies,lost,3 wickets,29,lost,1st,Pakistan,Bridgetown,28 Apr 2011
+West Indies,won,1 runs,,won,2nd,Pakistan,Bridgetown,2 May 2011
+West Indies,won,10 wickets,159,lost,2nd,Pakistan,Providence,5 May 2011
+Ireland,lost,7 wickets,51,lost,1st,Pakistan,Belfast,28 May 2011
+Ireland,lost,5 wickets,8,won,1st,Pakistan,Belfast,30 May 2011
+West Indies,lost,4 wickets,31,won,1st,India,Port of Spain,6 Jun 2011
+West Indies,lost,7 wickets,20,lost,1st,India,Port of Spain,8 Jun 2011
+West Indies,lost,3 wickets,22,lost,1st,India,North Sound,11 Jun 2011
+West Indies,won,103 runs,,lost,1st,India,North Sound,13 Jun 2011
+West Indies,won,7 wickets,8,won,2nd,India,Kingston,16 Jun 2011
+Scotland,won,15 runs,,won,1st,Netherlands,Aberdeen,28 Jun 2011
+England,won,110 runs,,lost,1st,Sri Lanka,The Oval,28 Jun 2011
+Scotland,won,5 wickets,11,won,2nd,Netherlands,Aberdeen,29 Jun 2011
+England,lost,69 runs,,won,2nd,Sri Lanka,Leeds,1 Jul 2011
+England,lost,6 wickets,10,won,1st,Sri Lanka,Lord's,3 Jul 2011
+England,won,10 wickets,145,won,2nd,Sri Lanka,Nottingham,6 Jul 2011
+England,won,16 runs,,won,1st,Sri Lanka,Manchester,9 Jul 2011
+Scotland,won,5 wickets,9,won,2nd,Ireland,Edinburgh,12 Jul 2011
+Scotland,lost,183 runs,,won,2nd,Sri Lanka,Edinburgh,13 Jul 2011
+Canada,lost,2 wickets,11,lost,1st,Afghanistan,King City (NW),7 Aug 2011
+Canada,lost,17 runs,,lost,2nd,Afghanistan,Toronto,9 Aug 2011
+Sri Lanka,lost,7 wickets,71,won,1st,Australia,Pallekele,10 Aug 2011
+Zimbabwe,won,4 wickets,52,won,2nd,Bangladesh,Harare,12 Aug 2011
+Zimbabwe,won,7 wickets,35,won,2nd,Bangladesh,Harare,14 Aug 2011
+Sri Lanka,lost,8 wickets,70,won,1st,Australia,Hambantota,14 Aug 2011
+Zimbabwe,won,5 runs,,lost,1st,Bangladesh,Harare,16 Aug 2011
+Sri Lanka,won,78 runs,,lost,1st,Australia,Hambantota,16 Aug 2011
+Zimbabwe,lost,6 wickets,80,lost,1st,Bangladesh,Bulawayo,19 Aug 2011
+Sri Lanka,lost,5 wickets,132,won,1st,Australia,Colombo (RPS),20 Aug 2011
+Zimbabwe,lost,93 runs,,won,2nd,Bangladesh,Bulawayo,21 Aug 2011
+Sri Lanka,won,4 wickets,18,won,2nd,Australia,Colombo (RPS),22 Aug 2011
+Ireland,lost,11 runs,,won,2nd,England,Dublin,25 Aug 2011
+England,won,7 wickets,5,won,2nd,India,Southampton,6 Sep 2011
+Zimbabwe,lost,5 runs,,lost,2nd,Pakistan,Bulawayo,8 Sep 2011
+England,won,3 wickets,7,won,2nd,India,The Oval,9 Sep 2011
+Zimbabwe,lost,10 wickets,47,won,1st,Pakistan,Harare,11 Sep 2011
+England,tied,-,,won,2nd,India,Lord's,11 Sep 2011
+Netherlands,won,2 wickets,6,lost,2nd,Kenya,The Hague,12 Sep 2011
+Netherlands,won,4 wickets,30,lost,2nd,Kenya,The Hague,13 Sep 2011
+Zimbabwe,lost,28 runs,,won,2nd,Pakistan,Harare,14 Sep 2011
+England,won,6 wickets,10,won,2nd,India,Cardiff,16 Sep 2011
+Ireland,won,133 runs,,lost,1st,Canada,Dublin,19 Sep 2011
+Ireland,won,56 runs,,won,1st,Canada,Dublin,20 Sep 2011
+Bangladesh,lost,40 runs,,won,2nd,West Indies,Mirpur,13 Oct 2011
+India,won,126 runs,,won,1st,England,Hyderabad (Deccan),14 Oct 2011
+Bangladesh,lost,8 wickets,44,won,1st,West Indies,Mirpur,15 Oct 2011
+India,won,8 wickets,80,lost,2nd,England,Delhi,17 Oct 2011
+Bangladesh,won,8 wickets,180,won,2nd,West Indies,Chattogram,18 Oct 2011
+South Africa,lost,93 runs,,won,2nd,Australia,Centurion,19 Oct 2011
+Zimbabwe,lost,9 wickets,39,won,1st,New Zealand,Harare,20 Oct 2011
+India,won,5 wickets,4,lost,2nd,England,Mohali,20 Oct 2011
+Zimbabwe,lost,4 wickets,10,lost,1st,New Zealand,Harare,22 Oct 2011
+India,won,6 wickets,59,lost,2nd,England,Wankhede,23 Oct 2011
+South Africa,won,80 runs,,won,1st,Australia,Gqeberha,23 Oct 2011
+Zimbabwe,won,1 wickets,1,lost,2nd,New Zealand,Bulawayo,25 Oct 2011
+India,won,95 runs,,lost,1st,England,Kolkata,25 Oct 2011
+South Africa,lost,3 wickets,15,won,1st,Australia,Durban,28 Oct 2011
+India,won,1 wickets,7,won,2nd,West Indies,Cuttack,29 Nov 2011
+Bangladesh,lost,5 wickets,146,won,1st,Pakistan,Mirpur,1 Dec 2011
+India,won,5 wickets,11,won,2nd,West Indies,Visakhapatnam,2 Dec 2011
+Bangladesh,lost,76 runs,,lost,2nd,Pakistan,Mirpur,3 Dec 2011
+India,lost,16 runs,,won,2nd,West Indies,Ahmedabad,5 Dec 2011
+Bangladesh,lost,58 runs,,lost,2nd,Pakistan,Chattogram,6 Dec 2011
+India,won,153 runs,,won,1st,West Indies,Indore,8 Dec 2011
+India,won,34 runs,,won,1st,West Indies,Chennai,11 Dec 2011
+South Africa,won,258 runs,,won,1st,Sri Lanka,Paarl,11 Jan 2012
+South Africa,won,5 wickets,8,won,2nd,Sri Lanka,East London,14 Jan 2012
+South Africa,won,4 runs,,lost,2nd,Sri Lanka,Bloemfontein,17 Jan 2012
+South Africa,lost,5 wickets,8,won,1st,Sri Lanka,Kimberley,20 Jan 2012
+South Africa,lost,2 wickets,1,lost,1st,Sri Lanka,Johannesburg,22 Jan 2012
+New Zealand,won,90 runs,,lost,1st,Zimbabwe,Dunedin,3 Feb 2012
+Australia,won,65 runs,,lost,1st,India,Melbourne,5 Feb 2012
+New Zealand,won,141 runs,,lost,1st,Zimbabwe,Whangarei,6 Feb 2012
+New Zealand,won,202 runs,,won,1st,Zimbabwe,Napier,9 Feb 2012
+Australia,won,5 runs,,lost,1st,Sri Lanka,Perth,10 Feb 2012
+Australia,lost,4 wickets,2,won,1st,India,Adelaide,12 Feb 2012
+Australia,lost,8 wickets,101,won,1st,Sri Lanka,Sydney,17 Feb 2012
+Kenya,won,7 wickets,44,lost,2nd,Ireland,Mombasa,18 Feb 2012
+Australia,won,110 runs,,won,1st,India,Brisbane,19 Feb 2012
+Kenya,lost,117 runs,,lost,2nd,Ireland,Mombasa,20 Feb 2012
+Australia,lost,3 wickets,4,won,1st,Sri Lanka,Hobart,24 Feb 2012
+New Zealand,lost,6 wickets,28,won,1st,South Africa,Wellington,25 Feb 2012
+Australia,won,87 runs,,won,1st,India,Sydney,26 Feb 2012
+New Zealand,lost,6 wickets,70,lost,1st,South Africa,Napier,29 Feb 2012
+Australia,lost,9 runs,,lost,2nd,Sri Lanka,Melbourne,2 Mar 2012
+New Zealand,lost,5 wickets,40,lost,1st,South Africa,Auckland,3 Mar 2012
+Australia,won,15 runs,,won,1st,Sri Lanka,Brisbane,4 Mar 2012
+Australia,lost,8 wickets,34,won,1st,Sri Lanka,Adelaide,6 Mar 2012
+Australia,won,16 runs,,lost,1st,Sri Lanka,Adelaide,8 Mar 2012
+Bangladesh,lost,21 runs,,won,2nd,Pakistan,Mirpur,11 Mar 2012
+Bangladesh,won,5 wickets,4,won,2nd,India,Mirpur,16 Mar 2012
+West Indies,lost,64 runs,,lost,2nd,Australia,Kingstown,16 Mar 2012
+West Indies,won,5 wickets,10,won,2nd,Australia,Kingstown,18 Mar 2012
+Bangladesh,won,5 wickets,17,won,2nd,Sri Lanka,Mirpur,20 Mar 2012
+West Indies,tied,-,,lost,2nd,Australia,Kingstown,20 Mar 2012
+Bangladesh,lost,2 runs,,won,2nd,Pakistan,Mirpur,22 Mar 2012
+West Indies,won,42 runs,,lost,1st,Australia,Gros Islet,23 Mar 2012
+West Indies,lost,30 runs,,won,2nd,Australia,Gros Islet,25 Mar 2012
+Sri Lanka,lost,6 wickets,47,won,1st,Pakistan,Pallekele,7 Jun 2012
+Sri Lanka,won,76 runs,,won,1st,Pakistan,Pallekele,9 Jun 2012
+Sri Lanka,won,44 runs,,won,1st,Pakistan,Colombo (RPS),16 Jun 2012
+England,won,114 runs,,lost,1st,West Indies,Southampton,16 Jun 2012
+Sri Lanka,won,2 wickets,2,lost,2nd,Pakistan,Colombo (RPS),18 Jun 2012
+England,won,8 wickets,30,won,2nd,West Indies,The Oval,19 Jun 2012
+England,won,15 runs,,lost,1st,Australia,Lord's,29 Jun 2012
+England,won,6 wickets,26,lost,2nd,Australia,The Oval,1 Jul 2012
+Ireland,won,59 runs,,lost,1st,Afghanistan,Dublin,5 Jul 2012
+West Indies,won,9 wickets,52,won,2nd,New Zealand,Kingston,5 Jul 2012
+England,won,8 wickets,13,won,2nd,Australia,Chester-le-Street,7 Jul 2012
+West Indies,won,55 runs,,lost,1st,New Zealand,Kingston,7 Jul 2012
+England,won,7 wickets,11,won,2nd,Australia,Manchester,10 Jul 2012
+Scotland,won,4 wickets,47,won,2nd,Canada,Ayr,11 Jul 2012
+West Indies,lost,88 runs,,won,2nd,New Zealand,Basseterre,11 Jul 2012
+West Indies,won,24 runs,,won,1st,New Zealand,Basseterre,14 Jul 2012
+West Indies,won,20 runs,,won,1st,New Zealand,Basseterre,16 Jul 2012
+Sri Lanka,lost,21 runs,,lost,2nd,India,Hambantota,21 Jul 2012
+Sri Lanka,won,9 wickets,181,lost,2nd,India,Hambantota,24 Jul 2012
+Sri Lanka,lost,5 wickets,2,won,1st,India,Colombo (RPS),28 Jul 2012
+Sri Lanka,lost,6 wickets,46,won,1st,India,Colombo (RPS),31 Jul 2012
+Sri Lanka,lost,20 runs,,lost,2nd,India,Pallekele,4 Aug 2012
+England,lost,80 runs,,lost,2nd,South Africa,Southampton,28 Aug 2012
+England,won,4 wickets,12,lost,2nd,South Africa,The Oval,31 Aug 2012
+England,won,6 wickets,20,won,2nd,South Africa,Lord's,2 Sep 2012
+England,lost,7 wickets,93,won,1st,South Africa,Nottingham,5 Sep 2012
+Sri Lanka,won,14 runs,,lost,2nd,New Zealand,Pallekele,4 Nov 2012
+Sri Lanka,won,7 wickets,11,won,2nd,New Zealand,Pallekele,6 Nov 2012
+Sri Lanka,won,7 wickets,34,won,2nd,New Zealand,Hambantota,10 Nov 2012
+Bangladesh,won,7 wickets,58,lost,2nd,West Indies,Khulna,30 Nov 2012
+Bangladesh,won,160 runs,,lost,1st,West Indies,Khulna,2 Dec 2012
+Bangladesh,lost,4 wickets,18,lost,1st,West Indies,Mirpur,5 Dec 2012
+Bangladesh,lost,75 runs,,won,2nd,West Indies,Mirpur,7 Dec 2012
+Bangladesh,won,2 wickets,36,won,2nd,West Indies,Mirpur,8 Dec 2012
+India,lost,6 wickets,11,lost,1st,Pakistan,Chennai,30 Dec 2012
+India,lost,85 runs,,won,2nd,Pakistan,Kolkata,3 Jan 2013
+India,won,10 runs,,won,1st,Pakistan,Delhi,6 Jan 2013
+Australia,won,107 runs,,won,1st,Sri Lanka,Melbourne,11 Jan 2013
+India,lost,9 runs,,lost,2nd,England,Rajkot,11 Jan 2013
+Australia,lost,8 wickets,59,lost,1st,Sri Lanka,Adelaide,13 Jan 2013
+India,won,127 runs,,won,1st,England,Kochi,15 Jan 2013
+Australia,lost,4 wickets,180,won,1st,Sri Lanka,Brisbane,18 Jan 2013
+India,won,7 wickets,131,won,2nd,England,Ranchi,19 Jan 2013
+South Africa,lost,1 wickets,26,lost,1st,New Zealand,Paarl,19 Jan 2013
+South Africa,lost,27 runs,,won,2nd,New Zealand,Kimberley,22 Jan 2013
+Australia,won,32 runs,,lost,1st,Sri Lanka,Hobart,23 Jan 2013
+India,won,5 wickets,15,won,2nd,England,Mohali,23 Jan 2013
+South Africa,won,1 wickets,0,lost,2nd,New Zealand,Potchefstroom,25 Jan 2013
+India,lost,7 wickets,16,lost,1st,England,Dharamsala,27 Jan 2013
+Australia,won,9 wickets,244,lost,2nd,West Indies,Perth,1 Feb 2013
+Australia,won,54 runs,,lost,1st,West Indies,Perth,3 Feb 2013
+Australia,won,39 runs,,won,1st,West Indies,Canberra,6 Feb 2013
+Australia,won,5 wickets,31,lost,2nd,West Indies,Sydney,8 Feb 2013
+Australia,won,17 runs,,lost,1st,West Indies,Melbourne,10 Feb 2013
+New Zealand,won,3 wickets,7,won,2nd,England,Hamilton,17 Feb 2013
+New Zealand,lost,8 wickets,14,lost,1st,England,Napier,20 Feb 2013
+West Indies,won,156 runs,,lost,1st,Zimbabwe,St George's,22 Feb 2013
+New Zealand,lost,5 wickets,75,lost,1st,England,Auckland,23 Feb 2013
+West Indies,won,7 wickets,6,lost,2nd,Zimbabwe,St George's,24 Feb 2013
+West Indies,won,5 wickets,22,lost,2nd,Zimbabwe,St George's,26 Feb 2013
+South Africa,won,125 runs,,lost,1st,Pakistan,Bloemfontein,10 Mar 2013
+South Africa,lost,6 wickets,28,won,1st,Pakistan,Centurion,15 Mar 2013
+South Africa,won,34 runs,,lost,1st,Pakistan,Johannesburg,17 Mar 2013
+South Africa,lost,3 wickets,8,won,1st,Pakistan,Durban,21 Mar 2013
+Sri Lanka,won,8 wickets,32,won,2nd,Bangladesh,Hambantota,23 Mar 2013
+South Africa,won,6 wickets,36,lost,2nd,Pakistan,Benoni,24 Mar 2013
+Sri Lanka,lost,3 wickets,6,won,1st,Bangladesh,Pallekele,28 Mar 2013
+Zimbabwe,lost,121 runs,,won,2nd,Bangladesh,Bulawayo,3 May 2013
+Zimbabwe,won,6 wickets,13,won,2nd,Bangladesh,Bulawayo,5 May 2013
+Zimbabwe,won,7 wickets,17,won,2nd,Bangladesh,Bulawayo,8 May 2013
+Scotland,lost,96 runs,,lost,2nd,Pakistan,Edinburgh,17 May 2013
+Ireland,tied,-,,lost,2nd,Pakistan,Dublin,23 May 2013
+Ireland,lost,2 wickets,8,lost,1st,Pakistan,Dublin,26 May 2013
+Netherlands,lost,83 runs,,lost,2nd,South Africa,Amstelveen,31 May 2013
+England,lost,5 wickets,19,lost,1st,New Zealand,Lord's,31 May 2013
+England,lost,86 runs,,lost,2nd,New Zealand,Southampton,2 Jun 2013
+England,won,34 runs,,lost,1st,New Zealand,Nottingham,5 Jun 2013
+England,won,48 runs,,won,1st,Australia,Birmingham,8 Jun 2013
+England,lost,7 wickets,17,lost,1st,Sri Lanka,The Oval,13 Jun 2013
+England,won,10 runs,,lost,1st,New Zealand,Cardiff,16 Jun 2013
+England,won,7 wickets,75,won,2nd,South Africa,The Oval,19 Jun 2013
+England,lost,5 runs,,won,2nd,India,Birmingham,23 Jun 2013
+West Indies,won,6 wickets,73,won,2nd,Sri Lanka,Kingston,28 Jun 2013
+Scotland,won,12 runs,,lost,1st,Kenya,Aberdeen,30 Jun 2013
+West Indies,won,1 wickets,14,won,2nd,India,Kingston,30 Jun 2013
+Scotland,won,4 wickets,8,won,2nd,Kenya,Aberdeen,2 Jul 2013
+West Indies,lost,102 runs,,won,2nd,India,Port of Spain,5 Jul 2013
+Netherlands,lost,88 runs,,lost,2nd,Ireland,Amstelveen,7 Jul 2013
+West Indies,lost,39 runs,,won,2nd,Sri Lanka,Port of Spain,7 Jul 2013
+Netherlands,tied,-,,lost,2nd,Ireland,Amstelveen,9 Jul 2013
+West Indies,lost,126 runs,,won,2nd,Pakistan,Providence,14 Jul 2013
+West Indies,won,37 runs,,lost,1st,Pakistan,Providence,16 Jul 2013
+West Indies,tied,-,,won,2nd,Pakistan,Gros Islet,19 Jul 2013
+Sri Lanka,won,180 runs,,lost,1st,South Africa,Colombo (RPS),20 Jul 2013
+West Indies,lost,6 wickets,6,lost,1st,Pakistan,Gros Islet,21 Jul 2013
+Sri Lanka,won,17 runs,,won,1st,South Africa,Colombo (RPS),23 Jul 2013
+Zimbabwe,lost,6 wickets,31,lost,1st,India,Harare,24 Jul 2013
+West Indies,lost,4 wickets,1,lost,1st,Pakistan,Gros Islet,24 Jul 2013
+Zimbabwe,lost,58 runs,,won,2nd,India,Harare,26 Jul 2013
+Sri Lanka,lost,56 runs,,lost,2nd,South Africa,Pallekele,26 Jul 2013
+Zimbabwe,lost,7 wickets,87,lost,1st,India,Harare,28 Jul 2013
+Sri Lanka,won,8 wickets,36,lost,2nd,South Africa,Pallekele,28 Jul 2013
+Sri Lanka,won,128 runs,,won,1st,South Africa,Colombo (RPS),31 Jul 2013
+Zimbabwe,lost,9 wickets,115,lost,1st,India,Bulawayo,1 Aug 2013
+Zimbabwe,lost,7 wickets,96,lost,1st,India,Bulawayo,3 Aug 2013
+Zimbabwe,won,7 wickets,10,lost,2nd,Pakistan,Harare,27 Aug 2013
+Zimbabwe,lost,90 runs,,won,2nd,Pakistan,Harare,29 Aug 2013
+Canada,lost,9 wickets,236,lost,1st,Netherlands,King City (NW),29 Aug 2013
+Zimbabwe,lost,108 runs,,won,2nd,Pakistan,Harare,31 Aug 2013
+Ireland,lost,6 wickets,42,lost,1st,England,Dublin (Malahide),3 Sep 2013
+Scotland,lost,200 runs,,won,2nd,Australia,Edinburgh,3 Sep 2013
+Ireland,won,1 wickets,1,lost,2nd,Scotland,Belfast,6 Sep 2013
+England,lost,88 runs,,won,2nd,Australia,Manchester,8 Sep 2013
+Ireland,won,7 wickets,102,lost,2nd,Scotland,Belfast,8 Sep 2013
+England,won,3 wickets,3,won,2nd,Australia,Cardiff,14 Sep 2013
+England,lost,49 runs,,lost,2nd,Australia,Southampton,16 Sep 2013
+India,lost,72 runs,,lost,2nd,Australia,Pune,13 Oct 2013
+India,won,9 wickets,39,lost,2nd,Australia,Jaipur,16 Oct 2013
+India,lost,4 wickets,3,lost,1st,Australia,Mohali,19 Oct 2013
+Bangladesh,won,43 runs,,lost,1st,New Zealand,Mirpur,29 Oct 2013
+India,won,6 wickets,3,won,2nd,Australia,Nagpur,30 Oct 2013
+Bangladesh,won,40 runs,,won,1st,New Zealand,Mirpur,31 Oct 2013
+India,won,57 runs,,lost,1st,Australia,Bengaluru,2 Nov 2013
+Bangladesh,won,4 wickets,4,won,2nd,New Zealand,Fatullah,3 Nov 2013
+Sri Lanka,lost,4 wickets,0,won,1st,New Zealand,Hambantota,12 Nov 2013
+Sri Lanka,won,36 runs,,lost,1st,New Zealand,Dambulla,16 Nov 2013
+India,won,6 wickets,88,lost,2nd,West Indies,Kochi,21 Nov 2013
+India,lost,2 wickets,3,lost,1st,West Indies,Visakhapatnam,24 Nov 2013
+South Africa,lost,23 runs,,lost,2nd,Pakistan,Cape Town,24 Nov 2013
+India,won,5 wickets,23,won,2nd,West Indies,Kanpur,27 Nov 2013
+South Africa,lost,1 runs,,won,2nd,Pakistan,Gqeberha,27 Nov 2013
+South Africa,won,4 wickets,68,won,2nd,Pakistan,Centurion,30 Nov 2013
+South Africa,won,141 runs,,lost,1st,India,Johannesburg,5 Dec 2013
+South Africa,won,134 runs,,lost,1st,India,Durban,8 Dec 2013
+New Zealand,lost,2 wickets,135,lost,1st,West Indies,Auckland,26 Dec 2013
+New Zealand,won,159 runs,,lost,1st,West Indies,Queenstown,1 Jan 2014
+New Zealand,won,58 runs,,won,1st,West Indies,Nelson,4 Jan 2014
+New Zealand,lost,203 runs,,won,2nd,West Indies,Hamilton,8 Jan 2014
+Australia,won,6 wickets,26,lost,2nd,England,Melbourne,12 Jan 2014
+Australia,won,1 wickets,3,lost,2nd,England,Brisbane,17 Jan 2014
+New Zealand,won,24 runs,,lost,1st,India,Napier,19 Jan 2014
+Australia,won,7 wickets,60,lost,2nd,England,Sydney,19 Jan 2014
+New Zealand,won,15 runs,,lost,1st,India,Hamilton,22 Jan 2014
+Australia,lost,57 runs,,won,2nd,England,Perth,24 Jan 2014
+New Zealand,tied,-,,lost,1st,India,Auckland,25 Jan 2014
+Australia,won,5 runs,,won,1st,England,Adelaide,26 Jan 2014
+New Zealand,won,7 wickets,11,lost,2nd,India,Hamilton,28 Jan 2014
+New Zealand,won,87 runs,,lost,1st,India,Wellington,31 Jan 2014
+Bangladesh,lost,13 runs,,won,2nd,Sri Lanka,Mirpur,17 Feb 2014
+Bangladesh,lost,61 runs,,lost,2nd,Sri Lanka,Mirpur,20 Feb 2014
+Bangladesh,lost,6 wickets,15,lost,1st,Sri Lanka,Mirpur,22 Feb 2014
+West Indies,won,4 wickets,80,lost,2nd,Ireland,Kingston,23 Feb 2014
+Bangladesh,lost,6 wickets,6,lost,1st,India,Fatullah,26 Feb 2014
+West Indies,won,15 runs,,lost,1st,England,North Sound,28 Feb 2014
+Bangladesh,lost,32 runs,,won,2nd,Afghanistan,Fatullah,1 Mar 2014
+West Indies,lost,3 wickets,31,lost,1st,England,North Sound,2 Mar 2014
+Bangladesh,lost,3 wickets,1,won,1st,Pakistan,Mirpur,4 Mar 2014
+West Indies,lost,25 runs,,won,2nd,England,North Sound,5 Mar 2014
+Bangladesh,lost,3 wickets,6,won,1st,Sri Lanka,Mirpur,6 Mar 2014
+Ireland,lost,79 runs,,won,2nd,Sri Lanka,Dublin,6 May 2014
+Scotland,lost,39 runs,,won,2nd,England,Aberdeen,9 May 2014
+England,won,81 runs,,lost,1st,Sri Lanka,The Oval,22 May 2014
+England,lost,157 runs,,won,2nd,Sri Lanka,Chester-le-Street,25 May 2014
+England,won,10 wickets,227,won,2nd,Sri Lanka,Manchester,28 May 2014
+England,lost,7 runs,,won,2nd,Sri Lanka,Lord's,31 May 2014
+England,lost,6 wickets,10,won,1st,Sri Lanka,Birmingham,3 Jun 2014
+Bangladesh,lost,7 wickets,7,won,1st,India,Mirpur,15 Jun 2014
+Bangladesh,lost,47 runs,,won,2nd,India,Mirpur,17 Jun 2014
+Sri Lanka,lost,75 runs,,lost,2nd,South Africa,Colombo (RPS),6 Jul 2014
+Sri Lanka,won,87 runs,,won,1st,South Africa,Pallekele,9 Jul 2014
+Sri Lanka,lost,82 runs,,lost,2nd,South Africa,Hambantota,12 Jul 2014
+Zimbabwe,won,6 wickets,28,won,2nd,Afghanistan,Bulawayo,18 Jul 2014
+Zimbabwe,won,8 wickets,39,won,2nd,Afghanistan,Bulawayo,20 Jul 2014
+Zimbabwe,lost,2 wickets,2,lost,1st,Afghanistan,Bulawayo,22 Jul 2014
+Zimbabwe,lost,100 runs,,won,2nd,Afghanistan,Bulawayo,24 Jul 2014
+Zimbabwe,lost,93 runs,,won,2nd,South Africa,Bulawayo,17 Aug 2014
+Zimbabwe,lost,61 runs,,won,2nd,South Africa,Bulawayo,19 Aug 2014
+West Indies,won,3 wickets,62,won,2nd,Bangladesh,St George's,20 Aug 2014
+Zimbabwe,lost,7 wickets,136,lost,1st,South Africa,Bulawayo,21 Aug 2014
+West Indies,won,177 runs,,lost,1st,Bangladesh,St George's,22 Aug 2014
+Sri Lanka,lost,4 wickets,1,lost,1st,Pakistan,Hambantota,23 Aug 2014
+Zimbabwe,lost,198 runs,,won,2nd,Australia,Harare,25 Aug 2014
+West Indies,won,91 runs,,won,1st,Bangladesh,Basseterre,25 Aug 2014
+Sri Lanka,won,77 runs,,won,1st,Pakistan,Hambantota,26 Aug 2014
+England,lost,133 runs,,won,2nd,India,Cardiff,27 Aug 2014
+Zimbabwe,lost,61 runs,,won,2nd,South Africa,Harare,29 Aug 2014
+Sri Lanka,won,7 wickets,178,lost,2nd,Pakistan,Dambulla,30 Aug 2014
+England,lost,6 wickets,42,lost,1st,India,Nottingham,30 Aug 2014
+Zimbabwe,won,3 wickets,12,lost,2nd,Australia,Harare,31 Aug 2014
+England,lost,9 wickets,117,lost,1st,India,Birmingham,2 Sep 2014
+Zimbabwe,lost,63 runs,,won,2nd,South Africa,Harare,4 Sep 2014
+England,won,41 runs,,lost,1st,India,Leeds,5 Sep 2014
+Ireland,won,7 wickets,80,won,2nd,Scotland,Dublin (Malahide),8 Sep 2014
+Ireland,won,3 wickets,34,won,2nd,Scotland,Dublin (Malahide),10 Sep 2014
+Ireland,lost,8 wickets,26,lost,1st,Scotland,Dublin (Malahide),12 Sep 2014
+India,lost,124 runs,,won,2nd,West Indies,Kochi,8 Oct 2014
+India,won,48 runs,,won,1st,West Indies,Delhi,11 Oct 2014
+India,won,59 runs,,lost,1st,West Indies,Dharamsala,17 Oct 2014
+New Zealand,lost,6 wickets,11,lost,1st,South Africa,Mount Maunganui,21 Oct 2014
+New Zealand,lost,72 runs,,won,2nd,South Africa,Mount Maunganui,24 Oct 2014
+India,won,169 runs,,lost,1st,Sri Lanka,Cuttack,2 Nov 2014
+India,won,6 wickets,33,lost,2nd,Sri Lanka,Ahmedabad,6 Nov 2014
+India,won,6 wickets,35,lost,2nd,Sri Lanka,Hyderabad (Deccan),9 Nov 2014
+India,won,153 runs,,won,1st,Sri Lanka,Kolkata,13 Nov 2014
+Australia,won,32 runs,,lost,1st,South Africa,Perth,14 Nov 2014
+Australia,lost,3 wickets,134,won,1st,South Africa,Perth,16 Nov 2014
+India,won,3 wickets,8,lost,2nd,Sri Lanka,Ranchi,16 Nov 2014
+Australia,won,73 runs,,won,1st,South Africa,Canberra,19 Nov 2014
+Australia,won,3 wickets,6,lost,2nd,South Africa,Melbourne,21 Nov 2014
+Bangladesh,won,87 runs,,lost,1st,Zimbabwe,Chattogram,21 Nov 2014
+Australia,won,2 wickets,5,lost,2nd,South Africa,Sydney,23 Nov 2014
+Bangladesh,won,68 runs,,won,1st,Zimbabwe,Chattogram,23 Nov 2014
+Bangladesh,won,124 runs,,lost,1st,Zimbabwe,Mirpur,26 Nov 2014
+Sri Lanka,won,25 runs,,lost,1st,England,Colombo (RPS),26 Nov 2014
+Bangladesh,won,21 runs,,won,1st,Zimbabwe,Mirpur,28 Nov 2014
+U.A.E.,won,5 wickets,8,lost,2nd,Afghanistan,ICCA Dubai,28 Nov 2014
+Sri Lanka,won,8 wickets,64,lost,2nd,England,Colombo (RPS),29 Nov 2014
+U.A.E.,won,6 wickets,10,won,2nd,Afghanistan,ICCA Dubai,30 Nov 2014
+Bangladesh,won,5 wickets,153,lost,2nd,Zimbabwe,Mirpur,1 Dec 2014
+U.A.E.,lost,2 wickets,2,lost,1st,Afghanistan,ICCA Dubai,2 Dec 2014
+Sri Lanka,lost,5 wickets,8,won,1st,England,Hambantota,3 Dec 2014
+U.A.E.,won,30 runs,,lost,1st,Afghanistan,ICCA Dubai,4 Dec 2014
+Sri Lanka,won,6 wickets,2,lost,2nd,England,Colombo (RPS),7 Dec 2014
+Sri Lanka,lost,5 wickets,5,lost,1st,England,Pallekele,10 Dec 2014
+Sri Lanka,won,90 runs,,won,1st,England,Pallekele,13 Dec 2014
+Sri Lanka,won,87 runs,,won,1st,England,Colombo (RPS),16 Dec 2014
+New Zealand,won,3 wickets,42,lost,2nd,Sri Lanka,Christchurch,11 Jan 2015
+New Zealand,lost,6 wickets,14,won,1st,Sri Lanka,Hamilton,15 Jan 2015
+Australia,won,3 wickets,61,lost,2nd,England,Sydney,16 Jan 2015
+South Africa,won,61 runs,,won,1st,West Indies,Durban,16 Jan 2015
+Australia,won,4 wickets,6,lost,2nd,India,Melbourne,18 Jan 2015
+South Africa,won,148 runs,,lost,1st,West Indies,Johannesburg,18 Jan 2015
+New Zealand,won,4 wickets,11,lost,2nd,Sri Lanka,Nelson,20 Jan 2015
+South Africa,won,9 wickets,152,lost,2nd,West Indies,East London,21 Jan 2015
+New Zealand,won,108 runs,,lost,1st,Sri Lanka,Dunedin,23 Jan 2015
+Australia,won,3 wickets,1,won,2nd,England,Hobart,23 Jan 2015
+New Zealand,won,120 runs,,won,1st,Sri Lanka,Dunedin,25 Jan 2015
+South Africa,lost,1 wickets,9,lost,1st,West Indies,Gqeberha,25 Jan 2015
+South Africa,won,131 runs,,lost,1st,West Indies,Centurion,28 Jan 2015
+New Zealand,lost,34 runs,,lost,2nd,Sri Lanka,Wellington,29 Jan 2015
+New Zealand,won,7 wickets,63,won,2nd,Pakistan,Wellington,31 Jan 2015
+Australia,won,112 runs,,lost,1st,England,Perth,1 Feb 2015
+New Zealand,won,119 runs,,won,1st,Pakistan,Napier,3 Feb 2015
+New Zealand,won,98 runs,,lost,1st,Sri Lanka,Christchurch,14 Feb 2015
+Australia,won,111 runs,,lost,1st,England,Melbourne,14 Feb 2015
+New Zealand,won,3 wickets,151,won,2nd,Scotland,Dunedin,17 Feb 2015
+New Zealand,won,8 wickets,226,lost,2nd,England,Wellington,20 Feb 2015
+New Zealand,won,1 wickets,161,lost,2nd,Australia,Auckland,28 Feb 2015
+Australia,won,275 runs,,lost,1st,Afghanistan,Perth,4 Mar 2015
+New Zealand,won,6 wickets,83,lost,2nd,Afghanistan,Napier,8 Mar 2015
+Australia,won,64 runs,,won,1st,Sri Lanka,Sydney,8 Mar 2015
+New Zealand,won,3 wickets,7,won,2nd,Bangladesh,Hamilton,13 Mar 2015
+Australia,won,7 wickets,208,won,2nd,Scotland,Hobart,14 Mar 2015
+Australia,won,6 wickets,97,lost,2nd,Pakistan,Adelaide,20 Mar 2015
+New Zealand,won,143 runs,,won,1st,West Indies,Wellington,21 Mar 2015
+New Zealand,won,4 wickets,1,lost,2nd,South Africa,Auckland,24 Mar 2015
+Australia,won,95 runs,,won,1st,India,Sydney,26 Mar 2015
+Australia,won,7 wickets,101,lost,2nd,New Zealand,Melbourne,29 Mar 2015
+Bangladesh,won,79 runs,,won,1st,Pakistan,Mirpur,17 Apr 2015
+Bangladesh,won,7 wickets,71,lost,2nd,Pakistan,Mirpur,19 Apr 2015
+Bangladesh,won,8 wickets,63,lost,2nd,Pakistan,Mirpur,22 Apr 2015
+Pakistan,won,41 runs,,won,1st,Zimbabwe,Lahore,26 May 2015
+Pakistan,won,6 wickets,16,won,2nd,Zimbabwe,Lahore,29 May 2015
+England,won,210 runs,,lost,1st,New Zealand,Birmingham,9 Jun 2015
+England,lost,13 runs,,lost,2nd,New Zealand,The Oval,12 Jun 2015
+England,lost,3 wickets,6,won,1st,New Zealand,Southampton,14 Jun 2015
+England,won,7 wickets,36,lost,2nd,New Zealand,Nottingham,17 Jun 2015
+Bangladesh,won,79 runs,,won,1st,India,Mirpur,18 Jun 2015
+England,won,3 wickets,6,won,2nd,New Zealand,Chester-le-Street,20 Jun 2015
+Bangladesh,won,6 wickets,54,lost,2nd,India,Mirpur,21 Jun 2015
+Bangladesh,lost,77 runs,,won,2nd,India,Mirpur,24 Jun 2015
+Zimbabwe,lost,4 runs,,won,2nd,India,Harare,10 Jul 2015
+Bangladesh,lost,8 wickets,53,won,1st,South Africa,Mirpur,10 Jul 2015
+Sri Lanka,lost,6 wickets,28,lost,1st,Pakistan,Dambulla,11 Jul 2015
+Zimbabwe,lost,62 runs,,won,2nd,India,Harare,12 Jul 2015
+Bangladesh,won,7 wickets,134,lost,2nd,South Africa,Mirpur,12 Jul 2015
+Zimbabwe,lost,83 runs,,won,2nd,India,Harare,14 Jul 2015
+Bangladesh,won,9 wickets,83,lost,2nd,South Africa,Chattogram,15 Jul 2015
+Sri Lanka,won,2 wickets,11,lost,2nd,Pakistan,Pallekele,15 Jul 2015
+Sri Lanka,lost,135 runs,,lost,2nd,Pakistan,Colombo (RPS),19 Jul 2015
+Sri Lanka,lost,7 wickets,55,won,1st,Pakistan,Colombo (RPS),22 Jul 2015
+Sri Lanka,won,165 runs,,won,1st,Pakistan,Hambantota,26 Jul 2015
+Zimbabwe,won,7 wickets,6,won,2nd,New Zealand,Harare,2 Aug 2015
+Zimbabwe,lost,10 wickets,46,won,1st,New Zealand,Harare,4 Aug 2015
+Zimbabwe,lost,38 runs,,won,2nd,New Zealand,Harare,7 Aug 2015
+South Africa,won,20 runs,,lost,1st,New Zealand,Centurion,19 Aug 2015
+South Africa,lost,8 wickets,33,won,1st,New Zealand,Potchefstroom,23 Aug 2015
+South Africa,won,62 runs,,won,1st,New Zealand,Durban,26 Aug 2015
+Ireland,lost,23 runs,,lost,2nd,Australia,Belfast,27 Aug 2015
+England,lost,59 runs,,lost,2nd,Australia,Southampton,3 Sep 2015
+England,lost,64 runs,,won,2nd,Australia,Lord's,5 Sep 2015
+England,won,93 runs,,won,1st,Australia,Manchester,8 Sep 2015
+England,won,3 wickets,10,lost,2nd,Australia,Leeds,11 Sep 2015
+England,lost,8 wickets,154,won,1st,Australia,Manchester,13 Sep 2015
+Zimbabwe,lost,131 runs,,won,2nd,Pakistan,Harare,1 Oct 2015
+Zimbabwe,won,5 runs,,lost,1st,Pakistan,Harare,3 Oct 2015
+Zimbabwe,lost,7 wickets,96,lost,1st,Pakistan,Harare,5 Oct 2015
+Zimbabwe,won,2 wickets,6,won,2nd,Ireland,Harare,9 Oct 2015
+India,lost,5 runs,,lost,2nd,South Africa,Kanpur,11 Oct 2015
+Zimbabwe,won,5 wickets,9,won,2nd,Ireland,Harare,11 Oct 2015
+Zimbabwe,lost,2 wickets,19,lost,1st,Ireland,Harare,13 Oct 2015
+India,won,22 runs,,won,1st,South Africa,Indore,14 Oct 2015
+Zimbabwe,won,8 wickets,160,lost,2nd,Afghanistan,Bulawayo,16 Oct 2015
+Zimbabwe,lost,58 runs,,lost,2nd,Afghanistan,Bulawayo,18 Oct 2015
+India,lost,18 runs,,lost,2nd,South Africa,Rajkot,18 Oct 2015
+Zimbabwe,won,6 wickets,2,lost,2nd,Afghanistan,Bulawayo,20 Oct 2015
+Zimbabwe,lost,3 wickets,20,won,1st,Afghanistan,Bulawayo,22 Oct 2015
+India,won,35 runs,,won,1st,South Africa,Chennai,22 Oct 2015
+Zimbabwe,lost,73 runs,,won,2nd,Afghanistan,Bulawayo,24 Oct 2015
+India,lost,214 runs,,lost,2nd,South Africa,Wankhede,25 Oct 2015
+Sri Lanka,won,1 wickets,7,won,2nd,West Indies,Colombo (RPS),1 Nov 2015
+Sri Lanka,won,8 wickets,9,lost,2nd,West Indies,Colombo (RPS),4 Nov 2015
+Bangladesh,won,145 runs,,lost,1st,Zimbabwe,Mirpur,7 Nov 2015
+Sri Lanka,won,19 runs,,won,2nd,West Indies,Pallekele,7 Nov 2015
+Bangladesh,won,58 runs,,lost,1st,Zimbabwe,Mirpur,9 Nov 2015
+Bangladesh,won,61 runs,,won,1st,Zimbabwe,Mirpur,11 Nov 2015
+U.A.E.,lost,89 runs,,lost,2nd,Hong Kong,ICCA Dubai,16 Nov 2015
+U.A.E.,lost,136 runs,,lost,2nd,Hong Kong,ICCA Dubai,18 Nov 2015
+New Zealand,won,7 wickets,174,lost,2nd,Sri Lanka,Christchurch,26 Dec 2015
+New Zealand,won,10 wickets,250,lost,2nd,Sri Lanka,Christchurch,28 Dec 2015
+New Zealand,lost,8 wickets,22,won,1st,Sri Lanka,Nelson,31 Dec 2015
+New Zealand,won,36 runs,,lost,1st,Sri Lanka,Mount Maunganui,5 Jan 2016
+Australia,won,5 wickets,4,lost,2nd,India,Perth,12 Jan 2016
+Australia,won,7 wickets,6,lost,2nd,India,Brisbane,15 Jan 2016
+Australia,won,3 wickets,7,won,2nd,India,Melbourne,17 Jan 2016
+Australia,won,25 runs,,won,1st,India,Canberra,20 Jan 2016
+Australia,lost,6 wickets,2,lost,1st,India,Sydney,23 Jan 2016
+New Zealand,won,70 runs,,lost,1st,Pakistan,Wellington,25 Jan 2016
+Hong Kong,won,109 runs,,lost,1st,Scotland,Mong Kok,26 Jan 2016
+New Zealand,won,3 wickets,2,lost,2nd,Pakistan,Auckland,31 Jan 2016
+New Zealand,won,159 runs,,lost,1st,Australia,Auckland,3 Feb 2016
+South Africa,lost,39 runs,,lost,2nd,England,Bloemfontein,3 Feb 2016
+New Zealand,lost,4 wickets,21,won,1st,Australia,Wellington,6 Feb 2016
+South Africa,lost,5 wickets,22,won,1st,England,Gqeberha,6 Feb 2016
+New Zealand,won,55 runs,,lost,1st,Australia,Hamilton,8 Feb 2016
+South Africa,won,7 wickets,22,lost,2nd,England,Centurion,9 Feb 2016
+South Africa,won,1 wickets,16,won,2nd,England,Johannesburg,12 Feb 2016
+South Africa,won,5 wickets,36,won,2nd,England,Cape Town,14 Feb 2016
+West Indies,won,4 wickets,11,lost,2nd,South Africa,Providence,3 Jun 2016
+West Indies,lost,6 wickets,146,lost,1st,Australia,Providence,5 Jun 2016
+Zimbabwe,lost,9 wickets,45,lost,1st,India,Harare,11 Jun 2016
+Zimbabwe,lost,8 wickets,139,lost,1st,India,Harare,13 Jun 2016
+West Indies,won,4 wickets,26,won,2nd,Australia,Basseterre,13 Jun 2016
+Zimbabwe,lost,10 wickets,169,won,1st,India,Harare,15 Jun 2016
+West Indies,lost,139 runs,,won,2nd,South Africa,Basseterre,15 Jun 2016
+Ireland,lost,76 runs,,won,2nd,Sri Lanka,Dublin (Malahide),16 Jun 2016
+Ireland,lost,136 runs,,won,2nd,Sri Lanka,Dublin (Malahide),18 Jun 2016
+England,tied,-,,won,2nd,Sri Lanka,Nottingham,21 Jun 2016
+West Indies,lost,6 wickets,8,lost,1st,Australia,Bridgetown,21 Jun 2016
+England,won,10 wickets,95,lost,2nd,Sri Lanka,Birmingham,24 Jun 2016
+West Indies,won,100 runs,,lost,1st,South Africa,Bridgetown,24 Jun 2016
+West Indies,lost,58 runs,,lost,2nd,Australia,Bridgetown,26 Jun 2016
+England,won,6 wickets,11,won,2nd,Sri Lanka,The Oval,29 Jun 2016
+England,won,122 runs,,lost,1st,Sri Lanka,Cardiff,2 Jul 2016
+Scotland,lost,78 runs,,lost,2nd,Afghanistan,Edinburgh,6 Jul 2016
+Ireland,lost,39 runs,,won,2nd,Afghanistan,Belfast,12 Jul 2016
+Ireland,won,6 wickets,15,lost,2nd,Afghanistan,Belfast,14 Jul 2016
+Ireland,lost,79 runs,,lost,2nd,Afghanistan,Belfast,17 Jul 2016
+Ireland,won,12 runs,,lost,1st,Afghanistan,Belfast,19 Jul 2016
+Scotland,won,98 runs,,lost,1st,U.A.E.,Edinburgh,14 Aug 2016
+Scotland,won,7 wickets,14,lost,2nd,U.A.E.,Edinburgh,16 Aug 2016
+Ireland,lost,255 runs,,won,2nd,Pakistan,Dublin (Malahide),18 Aug 2016
+Sri Lanka,lost,3 wickets,19,lost,1st,Australia,Colombo (RPS),21 Aug 2016
+Sri Lanka,won,82 runs,,won,1st,Australia,Colombo (RPS),24 Aug 2016
+England,won,44 runs,,lost,2nd,Pakistan,Southampton,24 Aug 2016
+England,won,4 wickets,15,lost,2nd,Pakistan,Lord's,27 Aug 2016
+Sri Lanka,lost,2 wickets,24,won,1st,Australia,Dambulla,28 Aug 2016
+England,won,169 runs,,won,1st,Pakistan,Nottingham,30 Aug 2016
+Sri Lanka,lost,6 wickets,114,won,1st,Australia,Dambulla,31 Aug 2016
+England,won,4 wickets,12,lost,2nd,Pakistan,Leeds,1 Sep 2016
+Sri Lanka,lost,5 wickets,42,won,1st,Australia,Pallekele,4 Sep 2016
+England,lost,4 wickets,10,lost,1st,Pakistan,Cardiff,4 Sep 2016
+Scotland,won,53 runs,,won,1st,Hong Kong,Edinburgh,10 Sep 2016
+South Africa,won,206 runs,,lost,1st,Ireland,Benoni,25 Sep 2016
+Bangladesh,won,7 runs,,won,1st,Afghanistan,Mirpur,25 Sep 2016
+Bangladesh,lost,2 wickets,2,lost,1st,Afghanistan,Mirpur,28 Sep 2016
+South Africa,won,6 wickets,82,won,2nd,Australia,Centurion,30 Sep 2016
+Bangladesh,won,141 runs,,won,1st,Afghanistan,Mirpur,1 Oct 2016
+South Africa,won,142 runs,,lost,1st,Australia,Johannesburg,2 Oct 2016
+South Africa,won,4 wickets,4,lost,2nd,Australia,Durban,5 Oct 2016
+Bangladesh,lost,21 runs,,lost,2nd,England,Mirpur,7 Oct 2016
+South Africa,won,6 wickets,87,lost,2nd,Australia,Gqeberha,9 Oct 2016
+Bangladesh,won,34 runs,,lost,1st,England,Mirpur,9 Oct 2016
+Bangladesh,lost,4 wickets,13,lost,1st,England,Chattogram,12 Oct 2016
+South Africa,won,31 runs,,won,1st,Australia,Cape Town,12 Oct 2016
+India,won,6 wickets,101,won,2nd,New Zealand,Dharamsala,16 Oct 2016
+India,lost,6 runs,,won,2nd,New Zealand,Delhi,20 Oct 2016
+India,won,7 wickets,10,won,2nd,New Zealand,Mohali,23 Oct 2016
+India,lost,19 runs,,lost,2nd,New Zealand,Ranchi,26 Oct 2016
+India,won,190 runs,,won,1st,New Zealand,Visakhapatnam,29 Oct 2016
+Hong Kong,won,106 runs,,won,1st,P.N.G.,Mong Kok,4 Nov 2016
+Hong Kong,lost,14 runs,,lost,2nd,P.N.G.,Mong Kok,6 Nov 2016
+Hong Kong,won,7 wickets,27,lost,2nd,P.N.G.,Mong Kok,8 Nov 2016
+Zimbabwe,lost,8 wickets,153,lost,1st,Sri Lanka,Harare,14 Nov 2016
+Zimbabwe,tied,-,,won,1st,West Indies,Bulawayo,19 Nov 2016
+Zimbabwe,won,5 runs,,won,1st,West Indies,Bulawayo,25 Nov 2016
+Zimbabwe,lost,6 wickets,75,won,1st,Sri Lanka,Bulawayo,27 Nov 2016
+Australia,won,68 runs,,won,1st,New Zealand,Sydney,4 Dec 2016
+Australia,won,116 runs,,lost,1st,New Zealand,Canberra,6 Dec 2016
+Australia,won,117 runs,,won,1st,New Zealand,Melbourne,9 Dec 2016
+New Zealand,won,77 runs,,won,1st,Bangladesh,Christchurch,26 Dec 2016
+New Zealand,won,67 runs,,lost,1st,Bangladesh,Nelson,29 Dec 2016
+New Zealand,won,8 wickets,52,lost,2nd,Bangladesh,Nelson,31 Dec 2016
+Australia,won,92 runs,,won,1st,Pakistan,Brisbane,13 Jan 2017
+Australia,lost,6 wickets,14,won,1st,Pakistan,Melbourne,15 Jan 2017
+India,won,3 wickets,11,won,2nd,England,Pune,15 Jan 2017
+Australia,won,7 wickets,30,won,2nd,Pakistan,Perth,19 Jan 2017
+India,won,15 runs,,lost,1st,England,Cuttack,19 Jan 2017
+Australia,won,86 runs,,won,1st,Pakistan,Sydney,22 Jan 2017
+India,lost,5 runs,,won,2nd,England,Kolkata,22 Jan 2017
+U.A.E.,won,4 wickets,49,lost,2nd,Scotland,Dubai (DSC),24 Jan 2017
+Australia,won,57 runs,,won,1st,Pakistan,Adelaide,26 Jan 2017
+U.A.E.,won,6 wickets,71,won,2nd,Hong Kong,Dubai (DSC),26 Jan 2017
+South Africa,won,8 wickets,94,won,2nd,Sri Lanka,Gqeberha,28 Jan 2017
+New Zealand,won,6 runs,,lost,1st,Australia,Auckland,30 Jan 2017
+South Africa,won,121 runs,,lost,1st,Sri Lanka,Durban,1 Feb 2017
+South Africa,won,7 wickets,108,won,2nd,Sri Lanka,Johannesburg,4 Feb 2017
+New Zealand,won,24 runs,,won,1st,Australia,Hamilton,5 Feb 2017
+South Africa,won,40 runs,,won,1st,Sri Lanka,Cape Town,7 Feb 2017
+South Africa,won,88 runs,,lost,1st,Sri Lanka,Centurion,10 Feb 2017
+Zimbabwe,lost,12 runs,,lost,2nd,Afghanistan,Harare,16 Feb 2017
+New Zealand,lost,4 wickets,1,lost,1st,South Africa,Hamilton,19 Feb 2017
+Zimbabwe,lost,54 runs,,lost,2nd,Afghanistan,Harare,19 Feb 2017
+Zimbabwe,won,3 runs,,won,1st,Afghanistan,Harare,21 Feb 2017
+New Zealand,won,6 runs,,lost,1st,South Africa,Christchurch,22 Feb 2017
+Zimbabwe,won,7 wickets,118,lost,2nd,Afghanistan,Harare,24 Feb 2017
+New Zealand,lost,159 runs,,lost,2nd,South Africa,Wellington,25 Feb 2017
+Zimbabwe,lost,106 runs,,lost,2nd,Afghanistan,Harare,26 Feb 2017
+New Zealand,won,7 wickets,30,lost,2nd,South Africa,Hamilton,1 Mar 2017
+U.A.E.,lost,85 runs,,won,2nd,Ireland,ICCA Dubai,2 Mar 2017
+West Indies,lost,45 runs,,won,2nd,England,North Sound,3 Mar 2017
+New Zealand,lost,6 wickets,106,lost,1st,South Africa,Auckland,4 Mar 2017
+U.A.E.,lost,8 wickets,49,won,1st,Ireland,ICCA Dubai,4 Mar 2017
+West Indies,lost,4 wickets,10,won,1st,England,North Sound,5 Mar 2017
+West Indies,lost,186 runs,,won,2nd,England,Bridgetown,9 Mar 2017
+Sri Lanka,lost,90 runs,,won,2nd,Bangladesh,Dambulla,25 Mar 2017
+U.A.E.,won,82 runs,,lost,1st,P.N.G.,Abu Dhabi,31 Mar 2017
+Sri Lanka,won,70 runs,,lost,1st,Bangladesh,Colombo (SSC),1 Apr 2017
+U.A.E.,lost,26 runs,,lost,2nd,P.N.G.,Abu Dhabi,2 Apr 2017
+U.A.E.,won,103 runs,,won,1st,P.N.G.,Abu Dhabi,4 Apr 2017
+West Indies,won,4 wickets,6,won,2nd,Pakistan,Providence,7 Apr 2017
+West Indies,lost,74 runs,,won,2nd,Pakistan,Providence,9 Apr 2017
+West Indies,lost,6 wickets,41,won,1st,Pakistan,Providence,11 Apr 2017
+England,won,7 wickets,180,lost,2nd,Ireland,Bristol,5 May 2017
+England,won,85 runs,,lost,1st,Ireland,Lord's,7 May 2017
+Ireland,lost,51 runs,,won,2nd,New Zealand,Dublin (Malahide),14 May 2017
+Ireland,lost,8 wickets,137,lost,1st,Bangladesh,Dublin (Malahide),19 May 2017
+Ireland,lost,190 runs,,won,2nd,New Zealand,Dublin (Malahide),21 May 2017
+England,won,72 runs,,lost,1st,South Africa,Leeds,24 May 2017
+England,won,2 runs,,lost,1st,South Africa,Southampton,27 May 2017
+England,lost,7 wickets,127,lost,1st,South Africa,Lord's,29 May 2017
+England,won,8 wickets,16,won,2nd,Bangladesh,The Oval,1 Jun 2017
+England,won,87 runs,,lost,1st,New Zealand,Cardiff,6 Jun 2017
+West Indies,lost,63 runs,,lost,2nd,Afghanistan,Gros Islet,9 Jun 2017
+England,won,40 runs,,won,2nd,Australia,Birmingham,10 Jun 2017
+West Indies,won,4 wickets,64,lost,2nd,Afghanistan,Gros Islet,11 Jun 2017
+England,lost,8 wickets,77,lost,1st,Pakistan,Cardiff,14 Jun 2017
+Scotland,won,26 runs,,won,1st,Zimbabwe,Edinburgh,15 Jun 2017
+Scotland,lost,6 wickets,78,won,1st,Zimbabwe,Edinburgh,17 Jun 2017
+West Indies,lost,105 runs,,won,2nd,India,Port of Spain,25 Jun 2017
+Sri Lanka,lost,6 wickets,14,won,1st,Zimbabwe,Galle,30 Jun 2017
+West Indies,lost,93 runs,,won,2nd,India,North Sound,30 Jun 2017
+Sri Lanka,won,7 wickets,119,won,2nd,Zimbabwe,Galle,2 Jul 2017
+West Indies,won,11 runs,,won,1st,India,North Sound,2 Jul 2017
+Sri Lanka,won,8 wickets,16,won,2nd,Zimbabwe,Hambantota,6 Jul 2017
+West Indies,lost,8 wickets,79,won,1st,India,Kingston,6 Jul 2017
+Sri Lanka,lost,4 wickets,10,won,1st,Zimbabwe,Hambantota,8 Jul 2017
+Sri Lanka,lost,3 wickets,71,lost,1st,Zimbabwe,Hambantota,10 Jul 2017
+Sri Lanka,lost,9 wickets,127,lost,1st,India,Dambulla,20 Aug 2017
+Sri Lanka,lost,3 wickets,16,lost,1st,India,Pallekele,24 Aug 2017
+Sri Lanka,lost,6 wickets,29,won,1st,India,Pallekele,27 Aug 2017
+Sri Lanka,lost,168 runs,,lost,2nd,India,Colombo (RPS),31 Aug 2017
+Sri Lanka,lost,6 wickets,21,won,1st,India,Colombo (RPS),3 Sep 2017
+India,won,26 runs,,won,1st,Australia,Chennai,17 Sep 2017
+England,won,7 wickets,67,lost,2nd,West Indies,Manchester,19 Sep 2017
+India,won,50 runs,,won,1st,Australia,Kolkata,21 Sep 2017
+India,won,5 wickets,13,lost,2nd,Australia,Indore,24 Sep 2017
+England,won,124 runs,,lost,1st,West Indies,Bristol,24 Sep 2017
+England,won,6 runs,,won,2nd,West Indies,The Oval,27 Sep 2017
+India,lost,21 runs,,lost,2nd,Australia,Bengaluru,28 Sep 2017
+England,won,9 wickets,72,won,2nd,West Indies,Southampton,29 Sep 2017
+India,won,7 wickets,43,lost,2nd,Australia,Nagpur,1 Oct 2017
+P.N.G.,lost,101 runs,,lost,2nd,Scotland,Port Moresby,6 Oct 2017
+P.N.G.,won,5 wickets,12,lost,2nd,Scotland,Port Moresby,8 Oct 2017
+South Africa,won,10 wickets,43,lost,2nd,Bangladesh,Kimberley,15 Oct 2017
+South Africa,won,104 runs,,lost,1st,Bangladesh,Paarl,18 Oct 2017
+India,lost,6 wickets,6,won,1st,New Zealand,Wankhede,22 Oct 2017
+South Africa,won,200 runs,,won,1st,Bangladesh,East London,22 Oct 2017
+India,won,6 wickets,24,lost,2nd,New Zealand,Pune,25 Oct 2017
+India,won,6 runs,,lost,1st,New Zealand,Kanpur,29 Oct 2017
+India,lost,7 wickets,176,lost,1st,Sri Lanka,Dharamsala,10 Dec 2017
+India,won,141 runs,,lost,1st,Sri Lanka,Mohali,13 Dec 2017
+India,won,8 wickets,107,won,2nd,Sri Lanka,Visakhapatnam,17 Dec 2017
+New Zealand,won,5 wickets,24,won,2nd,West Indies,Whangarei,20 Dec 2017
+New Zealand,won,204 runs,,lost,1st,West Indies,Christchurch,23 Dec 2017
+New Zealand,won,66 runs,,won,1st,West Indies,Christchurch,26 Dec 2017
+New Zealand,won,61 runs,,lost,1st,Pakistan,Wellington,6 Jan 2018
+New Zealand,won,8 wickets,7,lost,2nd,Pakistan,Nelson,9 Jan 2018
+U.A.E.,lost,4 wickets,4,lost,1st,Ireland,ICCA Dubai,11 Jan 2018
+New Zealand,won,183 runs,,won,1st,Pakistan,Dunedin,13 Jan 2018
+U.A.E.,lost,67 runs,,lost,2nd,Ireland,ICCA Dubai,13 Jan 2018
+Australia,lost,5 wickets,7,lost,1st,England,Melbourne,14 Jan 2018
+Bangladesh,won,8 wickets,129,won,2nd,Zimbabwe,Mirpur,15 Jan 2018
+New Zealand,won,5 wickets,25,lost,2nd,Pakistan,Hamilton,16 Jan 2018
+New Zealand,won,15 runs,,won,1st,Pakistan,Wellington,19 Jan 2018
+Australia,lost,4 wickets,34,won,1st,England,Brisbane,19 Jan 2018
+Bangladesh,won,163 runs,,won,1st,Sri Lanka,Mirpur,19 Jan 2018
+Australia,lost,16 runs,,won,2nd,England,Sydney,21 Jan 2018
+U.A.E.,lost,31 runs,,won,2nd,Scotland,ICCA Dubai,21 Jan 2018
+U.A.E.,won,4 wickets,5,lost,2nd,Scotland,ICCA Dubai,23 Jan 2018
+Bangladesh,won,91 runs,,won,1st,Zimbabwe,Mirpur,23 Jan 2018
+Bangladesh,lost,10 wickets,229,won,1st,Sri Lanka,Mirpur,25 Jan 2018
+Australia,won,3 wickets,78,won,2nd,England,Adelaide,26 Jan 2018
+Bangladesh,lost,79 runs,,lost,2nd,Sri Lanka,Mirpur,27 Jan 2018
+Australia,lost,12 runs,,won,2nd,England,Perth,28 Jan 2018
+South Africa,lost,6 wickets,27,won,1st,India,Durban,1 Feb 2018
+South Africa,lost,9 wickets,177,lost,1st,India,Centurion,4 Feb 2018
+South Africa,lost,124 runs,,won,2nd,India,Cape Town,7 Feb 2018
+South Africa,won,5 wickets,15,lost,2nd,India,Johannesburg,10 Feb 2018
+South Africa,lost,73 runs,,won,2nd,India,Gqeberha,13 Feb 2018
+South Africa,lost,8 wickets,107,lost,1st,India,Centurion,16 Feb 2018
+New Zealand,won,3 wickets,4,won,2nd,England,Hamilton,25 Feb 2018
+New Zealand,lost,6 wickets,73,lost,1st,England,Mount Maunganui,28 Feb 2018
+New Zealand,lost,4 runs,,won,2nd,England,Wellington,3 Mar 2018
+Zimbabwe,won,2 runs,,won,1st,Afghanistan,Bulawayo,6 Mar 2018
+New Zealand,won,5 wickets,3,won,2nd,England,Dunedin,7 Mar 2018
+New Zealand,lost,7 wickets,104,lost,1st,England,Christchurch,10 Mar 2018
+Zimbabwe,won,89 runs,,lost,1st,Hong Kong,Bulawayo,10 Mar 2018
+Zimbabwe,tied,-,,won,1st,Scotland,Bulawayo,12 Mar 2018
+Zimbabwe,won,107 runs,,lost,1st,Ireland,Harare,16 Mar 2018
+Zimbabwe,lost,4 wickets,6,won,1st,West Indies,Harare,19 Mar 2018
+Zimbabwe,lost,3 runs,,won,2nd,U.A.E.,Harare,22 Mar 2018
+Scotland,won,6 runs,,lost,1st,England,Edinburgh,10 Jun 2018
+England,won,3 wickets,36,lost,2nd,Australia,The Oval,13 Jun 2018
+England,won,38 runs,,lost,1st,Australia,Cardiff,16 Jun 2018
+England,won,242 runs,,lost,1st,Australia,Nottingham,19 Jun 2018
+England,won,6 wickets,32,lost,2nd,Australia,Chester-le-Street,21 Jun 2018
+England,won,1 wickets,9,lost,2nd,Australia,Manchester,24 Jun 2018
+England,lost,8 wickets,59,lost,1st,India,Nottingham,12 Jul 2018
+Zimbabwe,lost,201 runs,,won,2nd,Pakistan,Bulawayo,13 Jul 2018
+England,won,86 runs,,won,1st,India,Lord's,14 Jul 2018
+Zimbabwe,lost,9 wickets,84,won,1st,Pakistan,Bulawayo,16 Jul 2018
+England,won,8 wickets,33,won,2nd,India,Leeds,17 Jul 2018
+Zimbabwe,lost,9 wickets,241,won,1st,Pakistan,Bulawayo,18 Jul 2018
+Zimbabwe,lost,244 runs,,lost,2nd,Pakistan,Bulawayo,20 Jul 2018
+Zimbabwe,lost,131 runs,,lost,2nd,Pakistan,Bulawayo,22 Jul 2018
+West Indies,lost,48 runs,,lost,2nd,Bangladesh,Providence,22 Jul 2018
+West Indies,won,3 runs,,lost,1st,Bangladesh,Providence,25 Jul 2018
+West Indies,lost,18 runs,,lost,2nd,Bangladesh,Basseterre,28 Jul 2018
+Sri Lanka,lost,5 wickets,114,won,1st,South Africa,Dambulla,29 Jul 2018
+Netherlands,won,55 runs,,won,1st,Nepal,Amstelveen,1 Aug 2018
+Sri Lanka,lost,4 wickets,43,won,1st,South Africa,Dambulla,1 Aug 2018
+Netherlands,lost,1 runs,,lost,2nd,Nepal,Amstelveen,3 Aug 2018
+Sri Lanka,lost,78 runs,,won,2nd,South Africa,Pallekele,5 Aug 2018
+Sri Lanka,won,3 runs,,lost,1st,South Africa,Pallekele,8 Aug 2018
+Sri Lanka,won,178 runs,,won,1st,South Africa,Colombo (RPS),12 Aug 2018
+Ireland,lost,29 runs,,won,2nd,Afghanistan,Belfast,27 Aug 2018
+Ireland,won,3 wickets,37,lost,2nd,Afghanistan,Belfast,29 Aug 2018
+Ireland,lost,8 wickets,157,won,1st,Afghanistan,Belfast,31 Aug 2018
+South Africa,won,5 wickets,143,won,2nd,Zimbabwe,Kimberley,30 Sep 2018
+South Africa,won,120 runs,,won,1st,Zimbabwe,Bloemfontein,3 Oct 2018
+South Africa,won,4 wickets,25,lost,2nd,Zimbabwe,Paarl,6 Oct 2018
+Sri Lanka,lost,31 runs,,won,2nd,England,Dambulla,13 Oct 2018
+Sri Lanka,lost,7 wickets,15,lost,1st,England,Pallekele,17 Oct 2018
+Sri Lanka,lost,18 runs,,lost,1st,England,Pallekele,20 Oct 2018
+India,won,8 wickets,47,won,2nd,West Indies,Guwahati,21 Oct 2018
+Bangladesh,won,28 runs,,won,1st,Zimbabwe,Mirpur,21 Oct 2018
+Sri Lanka,won,219 runs,,won,1st,England,Colombo (RPS),23 Oct 2018
+India,tied,-,,won,1st,West Indies,Visakhapatnam,24 Oct 2018
+Bangladesh,won,7 wickets,35,won,2nd,Zimbabwe,Chattogram,24 Oct 2018
+Bangladesh,won,7 wickets,47,won,2nd,Zimbabwe,Chattogram,26 Oct 2018
+India,lost,43 runs,,won,2nd,West Indies,Pune,27 Oct 2018
+India,won,224 runs,,won,1st,West Indies,Brabourne,29 Oct 2018
+India,won,9 wickets,211,lost,2nd,West Indies,Thiruvananthapuram,1 Nov 2018
+Australia,lost,6 wickets,124,lost,1st,South Africa,Perth,4 Nov 2018
+Australia,won,7 runs,,lost,1st,South Africa,Adelaide,9 Nov 2018
+Australia,lost,40 runs,,won,2nd,South Africa,Hobart,11 Nov 2018
+Bangladesh,won,5 wickets,89,lost,2nd,West Indies,Mirpur,9 Dec 2018
+Bangladesh,lost,4 wickets,2,lost,1st,West Indies,Mirpur,11 Dec 2018
+Bangladesh,won,8 wickets,69,won,2nd,West Indies,Sylhet,14 Dec 2018
+New Zealand,won,45 runs,,won,1st,Sri Lanka,Mount Maunganui,3 Jan 2019
+New Zealand,won,21 runs,,won,1st,Sri Lanka,Mount Maunganui,5 Jan 2019
+New Zealand,won,115 runs,,lost,1st,Sri Lanka,Nelson,8 Jan 2019
+Australia,won,34 runs,,won,1st,India,Sydney,12 Jan 2019
+Australia,lost,6 wickets,4,won,1st,India,Adelaide,15 Jan 2019
+Australia,lost,7 wickets,4,lost,1st,India,Melbourne,18 Jan 2019
+South Africa,lost,5 wickets,5,won,1st,Pakistan,Gqeberha,19 Jan 2019
+South Africa,won,5 wickets,48,won,2nd,Pakistan,Durban,22 Jan 2019
+New Zealand,lost,8 wickets,85,won,1st,India,Napier,23 Jan 2019
+U.A.E.,won,3 wickets,107,won,2nd,Nepal,ICCA Dubai,25 Jan 2019
+South Africa,won,13 runs,,lost,2nd,Pakistan,Centurion,25 Jan 2019
+New Zealand,lost,90 runs,,lost,2nd,India,Mount Maunganui,26 Jan 2019
+U.A.E.,lost,145 runs,,lost,2nd,Nepal,ICCA Dubai,26 Jan 2019
+South Africa,lost,8 wickets,111,lost,1st,Pakistan,Johannesburg,27 Jan 2019
+New Zealand,lost,7 wickets,42,won,1st,India,Mount Maunganui,28 Jan 2019
+U.A.E.,lost,4 wickets,32,lost,1st,Nepal,ICCA Dubai,28 Jan 2019
+South Africa,won,7 wickets,60,won,2nd,Pakistan,Cape Town,30 Jan 2019
+New Zealand,won,8 wickets,212,won,2nd,India,Hamilton,31 Jan 2019
+New Zealand,lost,35 runs,,lost,2nd,India,Wellington,3 Feb 2019
+New Zealand,won,8 wickets,33,lost,2nd,Bangladesh,Napier,13 Feb 2019
+New Zealand,won,8 wickets,83,won,2nd,Bangladesh,Christchurch,16 Feb 2019
+New Zealand,won,88 runs,,lost,1st,Bangladesh,Dunedin,20 Feb 2019
+West Indies,lost,6 wickets,8,won,1st,England,Bridgetown,20 Feb 2019
+West Indies,won,26 runs,,lost,1st,England,Bridgetown,22 Feb 2019
+West Indies,lost,29 runs,,won,2nd,England,St George's,27 Feb 2019
+India,won,6 wickets,10,lost,2nd,Australia,Hyderabad (Deccan),2 Mar 2019
+West Indies,won,7 wickets,227,won,2nd,England,Gros Islet,2 Mar 2019
+South Africa,won,8 wickets,67,won,2nd,Sri Lanka,Johannesburg,3 Mar 2019
+India,won,8 runs,,lost,1st,Australia,Nagpur,5 Mar 2019
+South Africa,won,113 runs,,lost,1st,Sri Lanka,Centurion,6 Mar 2019
+India,lost,32 runs,,won,2nd,Australia,Ranchi,8 Mar 2019
+India,lost,4 wickets,13,won,1st,Australia,Mohali,10 Mar 2019
+South Africa,won,71 runs,,lost,1st,Sri Lanka,Durban,10 Mar 2019
+India,lost,35 runs,,lost,2nd,Australia,Delhi,13 Mar 2019
+South Africa,won,6 wickets,103,won,2nd,Sri Lanka,Gqeberha,13 Mar 2019
+South Africa,won,41 runs,,lost,2nd,Sri Lanka,Cape Town,16 Mar 2019
+Zimbabwe,won,7 wickets,161,won,2nd,U.A.E.,Harare,10 Apr 2019
+Zimbabwe,won,4 runs,,won,2nd,U.A.E.,Harare,12 Apr 2019
+Zimbabwe,won,131 runs,,lost,1st,U.A.E.,Harare,14 Apr 2019
+Zimbabwe,won,3 wickets,31,lost,2nd,U.A.E.,Harare,16 Apr 2019
+Namibia,won,145 runs,,won,1st,Oman,Windhoek,27 Apr 2019
+Ireland,lost,4 wickets,18,lost,1st,England,Dublin (Malahide),3 May 2019
+Ireland,lost,196 runs,,won,2nd,West Indies,Dublin,5 May 2019
+Scotland,lost,2 runs,,won,1st,Afghanistan,Edinburgh,10 May 2019
+Ireland,lost,5 wickets,13,won,1st,West Indies,Dublin (Malahide),11 May 2019
+England,won,12 runs,,lost,1st,Pakistan,Southampton,11 May 2019
+England,won,6 wickets,31,won,2nd,Pakistan,Bristol,14 May 2019
+Ireland,lost,6 wickets,42,won,1st,Bangladesh,Dublin,15 May 2019
+England,won,3 wickets,3,won,2nd,Pakistan,Nottingham,17 May 2019
+Ireland,won,72 runs,,lost,1st,Afghanistan,Belfast,19 May 2019
+England,won,54 runs,,won,1st,Pakistan,Leeds,19 May 2019
+Ireland,lost,126 runs,,won,2nd,Afghanistan,Belfast,21 May 2019
+Scotland,lost,35 runs,,won,2nd,Sri Lanka,Edinburgh,21 May 2019
+England,won,104 runs,,lost,1st,South Africa,The Oval,30 May 2019
+England,lost,14 runs,,won,2nd,Pakistan,Nottingham,3 Jun 2019
+England,won,106 runs,,lost,1st,Bangladesh,Cardiff,8 Jun 2019
+England,won,8 wickets,101,won,2nd,West Indies,Southampton,14 Jun 2019
+England,won,150 runs,,won,1st,Afghanistan,Manchester,18 Jun 2019
+Netherlands,won,7 wickets,26,lost,2nd,Zimbabwe,Deventer,19 Jun 2019
+Netherlands,won,3 wickets,4,lost,2nd,Zimbabwe,Deventer,21 Jun 2019
+England,lost,20 runs,,lost,2nd,Sri Lanka,Leeds,21 Jun 2019
+England,lost,64 runs,,won,2nd,Australia,Lord's,25 Jun 2019
+England,won,31 runs,,won,1st,India,Birmingham,30 Jun 2019
+Ireland,won,4 wickets,9,won,2nd,Zimbabwe,Bready,1 Jul 2019
+England,won,119 runs,,won,1st,New Zealand,Chester-le-Street,3 Jul 2019
+Ireland,won,5 runs,,lost,1st,Zimbabwe,Belfast,4 Jul 2019
+Ireland,won,6 wickets,52,lost,2nd,Zimbabwe,Belfast,7 Jul 2019
+England,won,8 wickets,107,lost,2nd,Australia,Birmingham,11 Jul 2019
+England,tied,-,,lost,2nd,New Zealand,Lord's,14 Jul 2019
+Sri Lanka,won,91 runs,,won,1st,Bangladesh,Colombo (RPS),26 Jul 2019
+Sri Lanka,won,7 wickets,32,lost,2nd,Bangladesh,Colombo (RPS),28 Jul 2019
+Sri Lanka,won,122 runs,,won,1st,Bangladesh,Colombo (RPS),31 Jul 2019
+West Indies,lost,59 runs,,lost,2nd,India,Port of Spain,11 Aug 2019
+West Indies,lost,6 wickets,15,won,1st,India,Port of Spain,14 Aug 2019
+Scotland,lost,8 wickets,29,won,1st,Oman,Aberdeen,15 Aug 2019
+Scotland,won,3 wickets,7,won,2nd,P.N.G.,Aberdeen,17 Aug 2019
+Scotland,won,85 runs,,lost,1st,Oman,Aberdeen,18 Aug 2019
+Scotland,won,38 runs,,lost,1st,P.N.G.,Aberdeen,20 Aug 2019
+U.S.A.,won,5 runs,,won,1st,P.N.G.,Lauderhill,13 Sep 2019
+U.S.A.,won,5 wickets,112,lost,2nd,Namibia,Lauderhill,17 Sep 2019
+U.S.A.,won,62 runs,,won,1st,P.N.G.,Lauderhill,19 Sep 2019
+U.S.A.,lost,139 runs,,won,2nd,Namibia,Lauderhill,20 Sep 2019
+Pakistan,won,67 runs,,won,1st,Sri Lanka,Karachi,30 Sep 2019
+Pakistan,won,5 wickets,10,lost,2nd,Sri Lanka,Karachi,2 Oct 2019
+U.A.E.,lost,3 wickets,10,won,1st,U.S.A.,Sharjah,8 Dec 2019
+U.A.E.,lost,98 runs,,won,2nd,U.S.A.,ICCA Dubai,12 Dec 2019
+U.A.E.,won,7 wickets,37,won,2nd,Scotland,ICCA Dubai,15 Dec 2019
+India,lost,8 wickets,13,lost,1st,West Indies,Chennai,15 Dec 2019
+India,won,107 runs,,lost,1st,West Indies,Visakhapatnam,18 Dec 2019
+India,won,4 wickets,8,won,2nd,West Indies,Cuttack,22 Dec 2019
+Oman,won,5 wickets,75,won,2nd,U.A.E.,Al Amerat,5 Jan 2020
+West Indies,won,5 wickets,100,lost,2nd,Ireland,Bridgetown,7 Jan 2020
+Oman,lost,52 runs,,lost,2nd,Namibia,Al Amerat,8 Jan 2020
+West Indies,won,1 wickets,1,lost,2nd,Ireland,Bridgetown,9 Jan 2020
+West Indies,won,5 wickets,64,won,2nd,Ireland,St George's,12 Jan 2020
+India,lost,10 wickets,74,lost,1st,Australia,Wankhede,14 Jan 2020
+India,won,36 runs,,lost,1st,Australia,Rajkot,17 Jan 2020
+India,won,7 wickets,15,lost,2nd,Australia,Bengaluru,19 Jan 2020
+South Africa,won,7 wickets,14,won,2nd,England,Cape Town,4 Feb 2020
+New Zealand,won,4 wickets,11,won,2nd,India,Hamilton,5 Feb 2020
+Nepal,lost,18 runs,,won,2nd,Oman,Kirtipur,5 Feb 2020
+New Zealand,won,22 runs,,lost,1st,India,Auckland,8 Feb 2020
+Nepal,won,35 runs,,lost,1st,U.S.A.,Kirtipur,8 Feb 2020
+Nepal,lost,8 wickets,16,lost,1st,Oman,Kirtipur,9 Feb 2020
+South Africa,lost,2 wickets,40,lost,1st,England,Johannesburg,9 Feb 2020
+New Zealand,won,5 wickets,17,won,2nd,India,Mount Maunganui,11 Feb 2020
+Nepal,won,8 wickets,268,won,2nd,U.S.A.,Kirtipur,12 Feb 2020
+Sri Lanka,won,1 wickets,5,won,2nd,West Indies,Colombo (SSC),22 Feb 2020
+Sri Lanka,won,161 runs,,lost,1st,West Indies,Hambantota,26 Feb 2020
+South Africa,won,74 runs,,won,1st,Australia,Paarl,29 Feb 2020
+Bangladesh,won,169 runs,,won,1st,Zimbabwe,Sylhet,1 Mar 2020
+Sri Lanka,won,6 runs,,won,1st,West Indies,Pallekele,1 Mar 2020
+Bangladesh,won,4 runs,,won,1st,Zimbabwe,Sylhet,3 Mar 2020
+South Africa,won,6 wickets,9,lost,2nd,Australia,Bloemfontein,4 Mar 2020
+Bangladesh,won,123 runs,,lost,1st,Zimbabwe,Sylhet,6 Mar 2020
+South Africa,won,6 wickets,27,won,2nd,Australia,Potchefstroom,7 Mar 2020
+Australia,won,71 runs,,won,1st,New Zealand,Sydney,13 Mar 2020
+England,won,6 wickets,133,won,2nd,Ireland,Southampton,30 Jul 2020
+England,won,4 wickets,105,lost,2nd,Ireland,Southampton,1 Aug 2020
+England,lost,7 wickets,1,lost,1st,Ireland,Southampton,4 Aug 2020
+England,lost,19 runs,,won,2nd,Australia,Manchester,11 Sep 2020
+England,won,24 runs,,won,1st,Australia,Manchester,13 Sep 2020
+England,lost,3 wickets,2,won,1st,Australia,Manchester,16 Sep 2020
+Pakistan,won,26 runs,,won,1st,Zimbabwe,Rawalpindi,30 Oct 2020
+Pakistan,won,6 wickets,88,lost,2nd,Zimbabwe,Rawalpindi,1 Nov 2020
+Pakistan,tied,-,,lost,2nd,Zimbabwe,Rawalpindi,3 Nov 2020
+Australia,won,66 runs,,won,1st,India,Sydney,27 Nov 2020
+Australia,won,51 runs,,won,1st,India,Sydney,29 Nov 2020
+Australia,lost,13 runs,,lost,2nd,India,Canberra,2 Dec 2020
+U.A.E.,won,6 wickets,6,lost,2nd,Ireland,Abu Dhabi,8 Jan 2021
+U.A.E.,lost,112 runs,,won,2nd,Ireland,Abu Dhabi,18 Jan 2021
+Bangladesh,won,6 wickets,97,won,2nd,West Indies,Mirpur,20 Jan 2021
+Bangladesh,won,7 wickets,100,lost,2nd,West Indies,Mirpur,22 Jan 2021
+Bangladesh,won,120 runs,,lost,1st,West Indies,Chattogram,25 Jan 2021
+West Indies,won,8 wickets,18,lost,2nd,Sri Lanka,North Sound,10 Mar 2021
+West Indies,won,5 wickets,2,won,2nd,Sri Lanka,North Sound,12 Mar 2021
+West Indies,won,5 wickets,9,won,2nd,Sri Lanka,North Sound,14 Mar 2021
+New Zealand,won,8 wickets,172,won,2nd,Bangladesh,Dunedin,20 Mar 2021
+New Zealand,won,5 wickets,10,won,2nd,Bangladesh,Christchurch,23 Mar 2021
+India,won,66 runs,,lost,1st,England,Pune,23 Mar 2021
+New Zealand,won,164 runs,,won,1st,Bangladesh,Wellington,26 Mar 2021
+India,lost,6 wickets,39,lost,1st,England,Pune,26 Mar 2021
+India,won,7 runs,,lost,1st,England,Pune,28 Mar 2021
+South Africa,lost,3 wickets,0,lost,1st,Pakistan,Centurion,2 Apr 2021
+South Africa,won,17 runs,,lost,1st,Pakistan,Johannesburg,4 Apr 2021
+South Africa,lost,28 runs,,won,2nd,Pakistan,Centurion,7 Apr 2021
+Netherlands,won,14 runs,,won,1st,Scotland,Rotterdam,19 May 2021
+Netherlands,lost,6 wickets,47,won,1st,Scotland,Rotterdam,20 May 2021
+Bangladesh,won,33 runs,,won,1st,Sri Lanka,Mirpur,23 May 2021
+Bangladesh,won,103 runs,,won,1st,Sri Lanka,Mirpur,25 May 2021
+Bangladesh,lost,97 runs,,lost,2nd,Sri Lanka,Mirpur,28 May 2021
+Netherlands,won,1 runs,,won,1st,Ireland,Utrecht,2 Jun 2021
+Netherlands,lost,8 wickets,42,won,1st,Ireland,Utrecht,4 Jun 2021
+Netherlands,won,4 wickets,25,lost,2nd,Ireland,Utrecht,7 Jun 2021
+England,won,5 wickets,91,won,2nd,Sri Lanka,Chester-le-Street,29 Jun 2021
+England,won,8 wickets,42,won,2nd,Sri Lanka,The Oval,1 Jul 2021
+England,won,9 wickets,169,won,2nd,Pakistan,Cardiff,8 Jul 2021
+England,won,52 runs,,lost,1st,Pakistan,Lord's,10 Jul 2021
+Ireland,won,43 runs,,lost,1st,South Africa,Dublin (Malahide),13 Jul 2021
+England,won,3 wickets,12,won,2nd,Pakistan,Birmingham,13 Jul 2021
+Zimbabwe,lost,155 runs,,won,2nd,Bangladesh,Harare,16 Jul 2021
+Ireland,lost,70 runs,,lost,2nd,South Africa,Dublin (Malahide),16 Jul 2021
+Zimbabwe,lost,3 wickets,5,won,1st,Bangladesh,Harare,18 Jul 2021
+Sri Lanka,lost,7 wickets,80,won,1st,India,Colombo (RPS),18 Jul 2021
+Zimbabwe,lost,5 wickets,12,lost,1st,Bangladesh,Harare,20 Jul 2021
+Sri Lanka,lost,3 wickets,5,won,1st,India,Colombo (RPS),20 Jul 2021
+West Indies,lost,133 runs,,lost,2nd,Australia,Bridgetown,20 Jul 2021
+West Indies,won,4 wickets,72,lost,2nd,Australia,Bridgetown,22 Jul 2021
+Sri Lanka,won,3 wickets,48,lost,2nd,India,Colombo (RPS),23 Jul 2021
+West Indies,lost,6 wickets,117,won,1st,Australia,Bridgetown,26 Jul 2021
+Sri Lanka,won,14 runs,,won,1st,South Africa,Colombo (RPS),2 Sep 2021
+Sri Lanka,lost,67 runs,,lost,2nd,South Africa,Colombo (RPS),4 Sep 2021
+Sri Lanka,won,78 runs,,won,1st,South Africa,Colombo (RPS),7 Sep 2021
+Ireland,lost,38 runs,,won,2nd,Zimbabwe,Belfast,8 Sep 2021
+Ireland,won,7 wickets,58,won,2nd,Zimbabwe,Belfast,13 Sep 2021
+Oman,won,5 wickets,113,lost,2nd,Nepal,Al Amerat,14 Sep 2021
+Oman,won,4 wickets,2,won,2nd,U.S.A.,Al Amerat,16 Sep 2021
+Oman,lost,7 wickets,190,lost,1st,Nepal,Al Amerat,19 Sep 2021
+Oman,won,72 runs,,lost,1st,U.S.A.,Al Amerat,20 Sep 2021
+Oman,won,110 runs,,lost,1st,P.N.G.,Al Amerat,26 Sep 2021
+Oman,lost,18 runs,,lost,2nd,Scotland,Al Amerat,28 Sep 2021
+Oman,won,3 wickets,85,lost,2nd,P.N.G.,Al Amerat,1 Oct 2021
+Namibia,won,40 runs,,lost,1st,Oman,Windhoek,26 Nov 2021
+Namibia,lost,9 runs,,lost,2nd,Oman,Windhoek,27 Nov 2021
+West Indies,won,24 runs,,lost,1st,Ireland,Kingston,8 Jan 2022
+West Indies,lost,5 wickets,21,lost,1st,Ireland,Kingston,13 Jan 2022
+Sri Lanka,won,5 wickets,9,lost,2nd,Zimbabwe,Pallekele,16 Jan 2022
+West Indies,lost,2 wickets,31,lost,1st,Ireland,Kingston,16 Jan 2022
+Sri Lanka,lost,22 runs,,lost,2nd,Zimbabwe,Pallekele,18 Jan 2022
+South Africa,won,31 runs,,won,1st,India,Paarl,19 Jan 2022
+South Africa,won,7 wickets,11,lost,2nd,India,Paarl,21 Jan 2022
+Sri Lanka,won,184 runs,,won,1st,Zimbabwe,Pallekele,21 Jan 2022
+South Africa,won,4 runs,,lost,1st,India,Cape Town,23 Jan 2022
+Oman,lost,4 wickets,6,lost,1st,U.A.E.,Al Amerat,5 Feb 2022
+Oman,lost,4 wickets,27,lost,1st,U.A.E.,Al Amerat,6 Feb 2022
+India,won,6 wickets,132,won,2nd,West Indies,Ahmedabad,6 Feb 2022
+Oman,tied,-,,lost,1st,U.A.E.,Al Amerat,8 Feb 2022
+India,won,44 runs,,lost,1st,West Indies,Ahmedabad,9 Feb 2022
+India,won,96 runs,,won,1st,West Indies,Ahmedabad,11 Feb 2022
+Bangladesh,won,4 wickets,7,lost,2nd,Afghanistan,Chattogram,23 Feb 2022
+Bangladesh,won,88 runs,,won,1st,Afghanistan,Chattogram,25 Feb 2022
+Bangladesh,lost,7 wickets,59,won,1st,Afghanistan,Chattogram,28 Feb 2022
+U.A.E.,lost,12 runs,,won,2nd,Oman,ICCA Dubai,5 Mar 2022
+U.A.E.,won,3 wickets,17,won,2nd,Namibia,ICCA Dubai,8 Mar 2022
+U.A.E.,lost,8 runs,,lost,2nd,Oman,ICCA Dubai,9 Mar 2022
+U.A.E.,won,43 runs,,lost,1st,Namibia,Sharjah,12 Mar 2022
+U.A.E.,won,7 wickets,33,lost,2nd,P.N.G.,Sharjah,15 Mar 2022
+U.A.E.,won,48 runs,,won,1st,Nepal,Dubai (DSC),18 Mar 2022
+South Africa,lost,38 runs,,won,2nd,Bangladesh,Centurion,18 Mar 2022
+U.A.E.,lost,6 wickets,82,won,1st,P.N.G.,Dubai (DSC),19 Mar 2022
+South Africa,won,7 wickets,76,lost,2nd,Bangladesh,Johannesburg,20 Mar 2022
+U.A.E.,won,99 runs,,lost,1st,Nepal,Dubai (DSC),21 Mar 2022
+South Africa,lost,9 wickets,141,won,1st,Bangladesh,Centurion,23 Mar 2022
+Nepal,lost,6 runs,,won,2nd,P.N.G.,Kirtipur,25 Mar 2022
+Nepal,lost,3 wickets,8,won,1st,P.N.G.,Kirtipur,26 Mar 2022
+New Zealand,won,7 wickets,69,lost,2nd,Netherlands,Mount Maunganui,29 Mar 2022
+Pakistan,lost,88 runs,,won,2nd,Australia,Lahore,29 Mar 2022
+Pakistan,won,6 wickets,6,won,2nd,Australia,Lahore,31 Mar 2022
+New Zealand,won,118 runs,,lost,1st,Netherlands,Hamilton,2 Apr 2022
+Pakistan,won,9 wickets,73,won,2nd,Australia,Lahore,2 Apr 2022
+New Zealand,won,115 runs,,won,1st,Netherlands,Hamilton,4 Apr 2022
+U.S.A.,won,104 runs,,won,1st,Scotland,Pearland,28 May 2022
